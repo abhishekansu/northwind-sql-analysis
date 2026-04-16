@@ -1,0 +1,2001 @@
+order_id,order_date,product,category,region,channel,sales_rep,quantity,unit_price,discount_pct,revenue,cost,profit
+ORD-10000,4/25/2023,Tablet S10,Electronics,Central,Online,Pooja Iyer,1,725.69,0,725.69,433.45,292.24
+ORD-10001,2/2/2023,Desk Lamp LED,Office,South,Reseller,Neha Singh,1,50.18,0,50.18,22.85,27.33
+ORD-10002,8/26/2024,Standing Desk,Office,West,B2B,Amit Verma,1,706.68,15,600.68,340.57,260.11
+ORD-10003,8/9/2023,USB-C Hub,Accessories,East,B2B,Arjun Sharma,5,87.15,0,435.75,204.52,231.23
+ORD-10004,4/15/2024,Phone Stand,Accessories,Central,B2B,Pooja Iyer,2,32.94,20,52.7,36.92,15.78
+ORD-10005,12/22/2024,"Monitor 27""",Electronics,South,Online,Karan Mehta,1,322.88,10,290.59,208.92,81.67
+ORD-10006,4/9/2024,Mechanical KB,Accessories,East,Online,Pooja Iyer,2,146.42,0,292.84,144.05,148.79
+ORD-10007,6/25/2023,Tablet S10,Electronics,Central,Retail,Deepa Nair,2,840.52,0,1681.04,847.23,833.81
+ORD-10008,8/23/2023,Laptop Pro X1,Electronics,Central,B2B,Neha Singh,3,1479.09,10,3993.54,2055.51,1938.03
+ORD-10009,5/26/2024,Tablet S10,Electronics,South,B2B,Pooja Iyer,1,814.25,15,692.11,409.55,282.56
+ORD-10010,8/20/2024,Desk Lamp LED,Office,North,Online,Priya Patel,1,71.23,0,71.23,39.31,31.92
+ORD-10011,10/4/2024,USB-C Hub,Accessories,Central,Reseller,Vikram Das,1,67.8,10,61.02,35.73,25.29
+ORD-10012,7/20/2024,Mechanical KB,Accessories,Central,B2B,Deepa Nair,3,166.1,0,498.3,292.17,206.13
+ORD-10013,10/28/2023,Wireless Mouse,Accessories,East,Retail,Vikram Das,1,43.54,5,41.36,27.22,14.14
+ORD-10014,10/2/2024,Wireless Mouse,Accessories,South,Online,Pooja Iyer,1,42.1,5,39.99,20.23,19.76
+ORD-10015,5/15/2024,Webcam HD,Electronics,East,Retail,Arjun Sharma,1,129.44,15,110.02,79.78,30.24
+ORD-10016,8/3/2024,"Monitor 27""",Electronics,Central,Retail,Ravi Kumar,4,515.63,0,2062.52,956.68,1105.84
+ORD-10017,5/1/2024,Tablet S10,Electronics,South,Retail,Amit Verma,4,819.88,0,3279.52,1873.65,1405.87
+ORD-10018,11/18/2024,Desk Lamp LED,Office,South,Online,Deepa Nair,2,43.75,5,83.12,41.49,41.63
+ORD-10019,8/25/2024,Laptop Pro X1,Electronics,North,Retail,Priya Patel,2,1420.23,5,2698.44,1680.33,1018.11
+ORD-10020,12/5/2023,Laptop Pro X1,Electronics,South,Reseller,Neha Singh,1,924.67,0,924.67,455.72,468.95
+ORD-10021,2/21/2024,Standing Desk,Office,West,Online,Priya Patel,1,505.64,0,505.64,270.37,235.27
+ORD-10022,2/17/2024,Laptop Pro X1,Electronics,Central,Reseller,Ravi Kumar,2,1061.01,10,1909.82,1036.22,873.6
+ORD-10023,7/7/2023,Desk Lamp LED,Office,Central,Online,Arjun Sharma,1,77.47,0,77.47,41.73,35.74
+ORD-10024,7/7/2024,Tablet S10,Electronics,South,Reseller,Sunita Rao,3,852.48,20,2045.95,1584.95,461
+ORD-10025,8/7/2023,Standing Desk,Office,West,B2B,Sunita Rao,3,665.75,15,1697.66,899.62,798.04
+ORD-10026,3/9/2024,Mechanical KB,Accessories,West,Retail,Neha Singh,2,132.66,10,238.79,154.52,84.27
+ORD-10027,8/11/2023,Mechanical KB,Accessories,North,Online,Pooja Iyer,5,148.98,5,707.66,446.64,261.02
+ORD-10028,5/29/2024,Standing Desk,Office,South,Online,Pooja Iyer,4,721.19,5,2740.52,1591.13,1149.39
+ORD-10029,11/22/2024,Wireless Mouse,Accessories,Central,Online,Pooja Iyer,3,37.87,5,107.93,64.07,43.86
+ORD-10030,3/5/2024,Wireless Mouse,Accessories,East,Retail,Amit Verma,2,48.1,5,91.39,48.31,43.08
+ORD-10031,5/15/2023,Desk Lamp LED,Office,North,Online,Sunita Rao,2,72.96,0,145.92,87.61,58.31
+ORD-10032,7/30/2024,Headphones Pro,Electronics,East,Online,Neha Singh,5,365.88,0,1829.4,920.26,909.14
+ORD-10033,10/19/2023,Webcam HD,Electronics,Central,Online,Vikram Das,1,85.86,10,77.27,49.14,28.13
+ORD-10034,11/10/2024,Mechanical KB,Accessories,Central,Retail,Amit Verma,1,93.24,15,79.25,58.55,20.7
+ORD-10035,9/11/2024,Mechanical KB,Accessories,Central,Reseller,Amit Verma,1,131.42,0,131.42,81.56,49.86
+ORD-10036,4/5/2023,Laptop Pro X1,Electronics,South,B2B,Ravi Kumar,2,1425.74,10,2566.33,1473.39,1092.94
+ORD-10037,3/28/2024,Phone Stand,Accessories,South,Online,Deepa Nair,2,27.58,5,52.4,25.65,26.75
+ORD-10038,7/19/2024,Headphones Pro,Electronics,North,B2B,Neha Singh,1,369.46,0,369.46,232.68,136.78
+ORD-10039,9/13/2023,Tablet S10,Electronics,Central,Retail,Neha Singh,2,652.89,0,1305.78,816.04,489.74
+ORD-10040,7/1/2023,USB-C Hub,Accessories,West,Retail,Amit Verma,4,101.88,0,407.52,210.46,197.06
+ORD-10041,12/19/2024,USB-C Hub,Accessories,West,B2B,Amit Verma,1,57.28,15,48.69,28.32,20.37
+ORD-10042,8/17/2023,"Monitor 27""",Electronics,East,B2B,Vikram Das,1,507.48,0,507.48,316.09,191.39
+ORD-10043,11/26/2024,Desk Lamp LED,Office,East,Retail,Pooja Iyer,5,45.59,5,216.55,107.84,108.71
+ORD-10044,2/9/2023,Mechanical KB,Accessories,Central,Online,Karan Mehta,1,112.16,5,106.55,57.51,49.04
+ORD-10045,7/14/2023,Headphones Pro,Electronics,Central,Retail,Deepa Nair,1,357.91,10,322.12,227.31,94.81
+ORD-10046,3/13/2023,Desk Lamp LED,Office,North,B2B,Vikram Das,4,59.73,15,203.08,139.21,63.87
+ORD-10047,11/13/2024,Mechanical KB,Accessories,West,Reseller,Ravi Kumar,1,93.53,5,88.85,44.47,44.38
+ORD-10048,8/5/2024,Headphones Pro,Electronics,West,B2B,Sunita Rao,1,326.67,5,310.34,165.75,144.59
+ORD-10049,3/28/2024,Standing Desk,Office,South,Online,Amit Verma,2,616.59,5,1171.52,791.66,379.86
+ORD-10050,11/10/2024,Chair Ergonomic,Office,East,Retail,Neha Singh,2,610.25,0,1220.5,732.58,487.92
+ORD-10051,1/26/2023,USB-C Hub,Accessories,West,Reseller,Pooja Iyer,1,59.13,20,47.3,35.7,11.6
+ORD-10052,12/14/2024,"Monitor 27""",Electronics,North,Reseller,Neha Singh,1,303.22,0,303.22,178.15,125.07
+ORD-10053,12/13/2024,USB-C Hub,Accessories,West,Retail,Sunita Rao,2,53.91,0,107.82,66.81,41.01
+ORD-10054,6/27/2024,Tablet S10,Electronics,Central,Reseller,Vikram Das,5,881.67,5,4187.93,2769.7,1418.23
+ORD-10055,6/12/2023,Standing Desk,Office,East,Reseller,Neha Singh,2,759.95,5,1443.9,759.11,684.79
+ORD-10056,3/26/2024,Mechanical KB,Accessories,Central,Online,Ravi Kumar,1,126.06,0,126.06,64.79,61.27
+ORD-10057,8/25/2023,USB-C Hub,Accessories,East,Reseller,Karan Mehta,1,88.25,0,88.25,47.03,41.22
+ORD-10058,7/31/2023,Laptop Pro X1,Electronics,North,Reseller,Sunita Rao,3,1680.64,0,5041.92,3222.86,1819.06
+ORD-10059,12/27/2023,Laptop Pro X1,Electronics,Central,Retail,Sunita Rao,1,944.91,0,944.91,583.15,361.76
+ORD-10060,10/7/2023,"Monitor 27""",Electronics,West,Retail,Sunita Rao,1,375.4,0,375.4,219.92,155.48
+ORD-10061,9/29/2024,USB-C Hub,Accessories,North,Reseller,Ravi Kumar,2,79.73,15,135.54,92.9,42.64
+ORD-10062,7/6/2023,Standing Desk,Office,West,B2B,Karan Mehta,1,732.87,0,732.87,377.7,355.17
+ORD-10063,3/25/2023,Mechanical KB,Accessories,South,Online,Arjun Sharma,1,123.22,10,110.9,78.91,31.99
+ORD-10064,9/11/2023,Laptop Pro X1,Electronics,North,Retail,Sunita Rao,1,1253.84,0,1253.84,595.88,657.96
+ORD-10065,9/20/2023,Phone Stand,Accessories,North,Retail,Amit Verma,3,29.31,0,87.93,52.72,35.21
+ORD-10066,8/15/2024,Wireless Mouse,Accessories,West,Retail,Priya Patel,1,57.35,0,57.35,36.8,20.55
+ORD-10067,12/8/2024,Headphones Pro,Electronics,Central,Online,Pooja Iyer,3,213.43,0,640.29,326.75,313.54
+ORD-10068,12/22/2023,Laptop Pro X1,Electronics,North,Reseller,Sunita Rao,2,870.11,10,1566.2,1008.47,557.73
+ORD-10069,3/19/2024,Wireless Mouse,Accessories,West,Retail,Vikram Das,5,50.61,5,240.4,149.67,90.73
+ORD-10070,10/4/2023,Tablet S10,Electronics,Central,B2B,Deepa Nair,2,566.8,15,963.56,615.52,348.04
+ORD-10071,3/30/2023,"Monitor 27""",Electronics,West,B2B,Arjun Sharma,1,460.25,5,437.24,259.57,177.67
+ORD-10072,11/29/2023,Standing Desk,Office,Central,B2B,Vikram Das,1,456.58,0,456.58,236.54,220.04
+ORD-10073,6/13/2024,Laptop Pro X1,Electronics,South,Reseller,Sunita Rao,4,1725.86,0,6903.44,3781.12,3122.32
+ORD-10074,1/18/2023,Standing Desk,Office,Central,B2B,Sunita Rao,1,451.88,0,451.88,231.02,220.86
+ORD-10075,6/27/2024,Chair Ergonomic,Office,West,B2B,Amit Verma,1,1043.93,20,835.14,543.22,291.92
+ORD-10076,8/25/2023,Mechanical KB,Accessories,South,Retail,Neha Singh,1,142.71,0,142.71,79.51,63.2
+ORD-10077,5/10/2024,Phone Stand,Accessories,North,Retail,Amit Verma,1,37.49,5,35.62,21.35,14.27
+ORD-10078,1/5/2024,"Monitor 27""",Electronics,North,B2B,Ravi Kumar,1,333.48,0,333.48,168.36,165.12
+ORD-10079,5/17/2024,Tablet S10,Electronics,East,Retail,Arjun Sharma,1,799.98,0,799.98,436.58,363.4
+ORD-10080,5/4/2024,Mechanical KB,Accessories,North,Retail,Ravi Kumar,1,162.38,0,162.38,91.81,70.57
+ORD-10081,11/8/2023,Headphones Pro,Electronics,Central,Retail,Vikram Das,1,222.6,0,222.6,118.7,103.9
+ORD-10082,4/6/2024,Desk Lamp LED,Office,Central,Online,Pooja Iyer,4,68.45,0,273.8,146.69,127.11
+ORD-10083,4/12/2023,Phone Stand,Accessories,South,Retail,Ravi Kumar,4,32.39,0,129.56,75.42,54.14
+ORD-10084,3/18/2023,Chair Ergonomic,Office,North,Retail,Amit Verma,1,814.13,5,773.42,442.87,330.55
+ORD-10085,10/17/2023,Phone Stand,Accessories,Central,Retail,Karan Mehta,2,25.11,5,47.71,31.88,15.83
+ORD-10086,7/11/2024,Wireless Mouse,Accessories,North,Retail,Amit Verma,1,60.28,0,60.28,28.84,31.44
+ORD-10087,8/5/2024,Headphones Pro,Electronics,West,B2B,Vikram Das,4,342.77,5,1302.53,700.37,602.16
+ORD-10088,5/20/2024,Chair Ergonomic,Office,Central,B2B,Arjun Sharma,1,1045.79,5,993.5,624.24,369.26
+ORD-10089,8/23/2023,Wireless Mouse,Accessories,East,Online,Ravi Kumar,5,56.77,10,255.47,181.71,73.76
+ORD-10090,6/15/2024,Standing Desk,Office,West,Online,Sunita Rao,2,753.9,15,1281.63,855.02,426.61
+ORD-10091,2/23/2024,Webcam HD,Electronics,West,B2B,Karan Mehta,1,87.16,10,78.44,44.97,33.47
+ORD-10092,2/7/2023,Chair Ergonomic,Office,West,Online,Vikram Das,1,667.15,0,667.15,429.67,237.48
+ORD-10093,2/28/2024,Standing Desk,Office,West,Online,Neha Singh,1,515.39,5,489.62,283.31,206.31
+ORD-10094,7/16/2024,Mechanical KB,Accessories,North,Retail,Ravi Kumar,1,168.7,0,168.7,92.27,76.43
+ORD-10095,7/18/2024,Mechanical KB,Accessories,North,Reseller,Priya Patel,1,158.04,5,150.14,97.71,52.43
+ORD-10096,6/7/2023,Tablet S10,Electronics,West,Reseller,Neha Singh,1,844.45,10,760.01,426.18,333.83
+ORD-10097,7/18/2024,Standing Desk,Office,South,Online,Amit Verma,1,762.12,0,762.12,456.71,305.41
+ORD-10098,12/15/2023,Desk Lamp LED,Office,East,Reseller,Ravi Kumar,4,42.62,5,161.96,86.36,75.6
+ORD-10099,7/5/2024,Standing Desk,Office,East,Retail,Neha Singh,1,774.46,0,774.46,406.93,367.53
+ORD-10100,1/28/2024,Headphones Pro,Electronics,West,Reseller,Ravi Kumar,1,211.22,10,190.1,126.51,63.59
+ORD-10101,2/7/2023,Standing Desk,Office,West,Online,Vikram Das,1,500.6,20,400.48,235.32,165.16
+ORD-10102,1/16/2023,Standing Desk,Office,West,B2B,Deepa Nair,2,450.24,5,855.46,433.02,422.44
+ORD-10103,12/10/2024,Headphones Pro,Electronics,Central,Reseller,Deepa Nair,1,205.71,0,205.71,120.31,85.4
+ORD-10104,5/14/2024,Tablet S10,Electronics,East,Retail,Priya Patel,4,782.33,0,3129.32,1803.21,1326.11
+ORD-10105,4/11/2023,Desk Lamp LED,Office,East,Online,Arjun Sharma,3,65.14,10,175.88,94.44,81.44
+ORD-10106,2/27/2023,Webcam HD,Electronics,Central,Retail,Ravi Kumar,1,81.17,0,81.17,45.15,36.02
+ORD-10107,3/22/2023,USB-C Hub,Accessories,Central,Retail,Neha Singh,2,80.45,0,160.9,88.42,72.48
+ORD-10108,10/15/2024,Standing Desk,Office,East,Retail,Priya Patel,1,484.17,0,484.17,295.79,188.38
+ORD-10109,12/20/2023,Standing Desk,Office,West,B2B,Neha Singh,5,438.67,0,2193.35,1289.83,903.52
+ORD-10110,5/9/2024,Desk Lamp LED,Office,East,Online,Karan Mehta,1,73.28,0,73.28,37.31,35.97
+ORD-10111,1/9/2023,Mechanical KB,Accessories,Central,Reseller,Amit Verma,2,97.82,10,176.08,89.96,86.12
+ORD-10112,9/13/2024,"Monitor 27""",Electronics,South,Online,Arjun Sharma,3,435.09,0,1305.27,652.8,652.47
+ORD-10113,3/27/2024,Mechanical KB,Accessories,East,Reseller,Ravi Kumar,1,124.25,0,124.25,78.52,45.73
+ORD-10114,5/16/2023,"Monitor 27""",Electronics,East,Retail,Amit Verma,3,558.07,15,1423.08,921.42,501.66
+ORD-10115,10/30/2023,Standing Desk,Office,South,Retail,Karan Mehta,2,489.56,0,979.12,629.16,349.96
+ORD-10116,1/10/2024,Chair Ergonomic,Office,East,B2B,Pooja Iyer,1,577.48,0,577.48,274.14,303.34
+ORD-10117,10/15/2024,Desk Lamp LED,Office,Central,B2B,Pooja Iyer,4,48.82,0,195.28,88.85,106.43
+ORD-10118,10/25/2024,"Monitor 27""",Electronics,West,Online,Ravi Kumar,1,397.27,10,357.54,202.78,154.76
+ORD-10119,2/8/2023,Laptop Pro X1,Electronics,South,Reseller,Sunita Rao,1,1059.67,5,1006.69,664.89,341.8
+ORD-10120,11/17/2024,Webcam HD,Electronics,South,Reseller,Priya Patel,4,73.57,10,264.85,166.99,97.86
+ORD-10121,9/22/2024,Standing Desk,Office,West,Reseller,Neha Singh,1,571.01,20,456.81,299.27,157.54
+ORD-10122,4/12/2023,Webcam HD,Electronics,North,Reseller,Amit Verma,5,118.42,0,592.1,342.81,249.29
+ORD-10123,5/6/2023,"Monitor 27""",Electronics,Central,Online,Arjun Sharma,4,542.56,10,1953.22,1068.67,884.55
+ORD-10124,9/7/2023,Webcam HD,Electronics,Central,Retail,Pooja Iyer,5,96.08,10,432.36,295.91,136.45
+ORD-10125,8/27/2023,"Monitor 27""",Electronics,South,Retail,Vikram Das,1,537.03,0,537.03,241.97,295.06
+ORD-10126,6/28/2023,Mechanical KB,Accessories,South,B2B,Arjun Sharma,1,161.53,15,137.3,84.26,53.04
+ORD-10127,9/29/2023,USB-C Hub,Accessories,West,Reseller,Deepa Nair,1,79.21,10,71.29,47.46,23.83
+ORD-10128,8/30/2024,Chair Ergonomic,Office,Central,B2B,Sunita Rao,1,959.78,5,911.79,440.23,471.56
+ORD-10129,2/1/2023,Tablet S10,Electronics,West,Reseller,Priya Patel,1,546.22,5,518.91,320.75,198.16
+ORD-10130,11/26/2023,Wireless Mouse,Accessories,Central,B2B,Karan Mehta,2,35.45,0,70.9,40.88,30.02
+ORD-10131,6/27/2024,Headphones Pro,Electronics,North,Retail,Karan Mehta,1,385.99,5,366.69,234.92,131.77
+ORD-10132,8/22/2023,Standing Desk,Office,East,Reseller,Deepa Nair,1,681.87,10,613.68,406.34,207.34
+ORD-10133,9/19/2023,Tablet S10,Electronics,North,Online,Karan Mehta,1,676.45,0,676.45,313.48,362.97
+ORD-10134,1/17/2024,Wireless Mouse,Accessories,East,Online,Karan Mehta,3,36.58,5,104.25,61.71,42.54
+ORD-10135,11/12/2024,Webcam HD,Electronics,East,B2B,Deepa Nair,4,76.33,5,290.05,140.54,149.51
+ORD-10136,8/14/2024,Wireless Mouse,Accessories,East,B2B,Priya Patel,2,56.25,0,112.5,69.69,42.81
+ORD-10137,8/10/2024,Mechanical KB,Accessories,Central,Online,Pooja Iyer,1,149.25,5,141.79,90.07,51.72
+ORD-10138,12/11/2024,Tablet S10,Electronics,East,B2B,Arjun Sharma,1,463.51,0,463.51,237.22,226.29
+ORD-10139,5/27/2023,USB-C Hub,Accessories,North,Online,Vikram Das,2,95.96,5,182.32,110.67,71.65
+ORD-10140,1/21/2024,"Monitor 27""",Electronics,Central,Online,Arjun Sharma,1,328.03,0,328.03,194.95,133.08
+ORD-10141,6/11/2023,USB-C Hub,Accessories,West,Reseller,Pooja Iyer,3,98.4,0,295.2,159,136.2
+ORD-10142,2/29/2024,Standing Desk,Office,East,Reseller,Vikram Das,1,489.49,10,440.54,262.36,178.18
+ORD-10143,11/12/2023,Tablet S10,Electronics,East,Retail,Ravi Kumar,1,485.16,0,485.16,219.07,266.09
+ORD-10144,10/24/2023,Mechanical KB,Accessories,West,Retail,Vikram Das,1,112.36,0,112.36,54.51,57.85
+ORD-10145,11/15/2024,Chair Ergonomic,Office,North,Reseller,Priya Patel,3,612.81,0,1838.43,842.85,995.58
+ORD-10146,8/12/2024,Webcam HD,Electronics,West,Online,Deepa Nair,1,115.45,5,109.68,58.64,51.04
+ORD-10147,9/24/2024,USB-C Hub,Accessories,North,Retail,Karan Mehta,1,77.91,10,70.12,41.86,28.26
+ORD-10148,2/15/2024,Headphones Pro,Electronics,East,Retail,Priya Patel,2,249.33,0,498.66,258.26,240.4
+ORD-10149,10/10/2024,Chair Ergonomic,Office,South,Retail,Priya Patel,1,706.72,5,671.38,367.41,303.97
+ORD-10150,9/20/2023,USB-C Hub,Accessories,South,Reseller,Sunita Rao,1,81.06,5,77.01,47.1,29.91
+ORD-10151,8/16/2024,Headphones Pro,Electronics,Central,B2B,Deepa Nair,1,346.07,15,294.16,199.7,94.46
+ORD-10152,3/26/2024,USB-C Hub,Accessories,North,B2B,Vikram Das,1,77.44,5,73.57,39.1,34.47
+ORD-10153,11/14/2023,Wireless Mouse,Accessories,North,Reseller,Sunita Rao,1,35.79,0,35.79,18.16,17.63
+ORD-10154,7/21/2024,Headphones Pro,Electronics,Central,Retail,Deepa Nair,5,359.39,10,1617.26,1135.33,481.93
+ORD-10155,5/2/2024,Headphones Pro,Electronics,East,Online,Vikram Das,2,374.82,20,599.71,458.92,140.79
+ORD-10156,6/26/2023,Tablet S10,Electronics,Central,Retail,Deepa Nair,1,885.12,10,796.61,491.08,305.53
+ORD-10157,10/17/2023,Webcam HD,Electronics,East,Online,Deepa Nair,1,85.66,10,77.09,39.44,37.65
+ORD-10158,7/25/2024,Wireless Mouse,Accessories,Central,Retail,Deepa Nair,2,63.11,0,126.22,73.37,52.85
+ORD-10159,8/19/2024,Wireless Mouse,Accessories,West,Retail,Pooja Iyer,2,55.28,15,93.98,64.26,29.72
+ORD-10160,3/28/2023,Phone Stand,Accessories,Central,Online,Karan Mehta,1,29.85,0,29.85,18.29,11.56
+ORD-10161,1/6/2024,Chair Ergonomic,Office,West,Retail,Neha Singh,1,618.1,0,618.1,320.39,297.71
+ORD-10162,6/8/2023,USB-C Hub,Accessories,Central,Online,Deepa Nair,1,98.6,10,88.74,59.57,29.17
+ORD-10163,5/15/2023,Headphones Pro,Electronics,Central,Retail,Sunita Rao,2,364.66,0,729.32,429.26,300.06
+ORD-10164,2/25/2024,Laptop Pro X1,Electronics,West,Retail,Vikram Das,1,1156,10,1040.4,661.37,379.03
+ORD-10165,11/13/2023,"Monitor 27""",Electronics,Central,Reseller,Sunita Rao,5,345.77,10,1555.96,845.07,710.89
+ORD-10166,1/27/2024,Mechanical KB,Accessories,Central,Retail,Amit Verma,2,92.26,5,175.29,90.4,84.89
+ORD-10167,10/18/2024,Laptop Pro X1,Electronics,Central,Online,Amit Verma,1,1152.1,0,1152.1,682.37,469.73
+ORD-10168,6/14/2023,Wireless Mouse,Accessories,South,Reseller,Deepa Nair,1,61.45,15,52.23,33.03,19.2
+ORD-10169,2/29/2024,Laptop Pro X1,Electronics,East,Retail,Arjun Sharma,1,1074.98,5,1021.23,697.56,323.67
+ORD-10170,4/12/2023,Webcam HD,Electronics,East,Reseller,Ravi Kumar,3,117.17,5,333.93,167.85,166.08
+ORD-10171,4/25/2024,Phone Stand,Accessories,South,Reseller,Priya Patel,1,31.95,0,31.95,16.01,15.94
+ORD-10172,9/1/2023,Mechanical KB,Accessories,West,Online,Priya Patel,1,127.97,0,127.97,77.91,50.06
+ORD-10173,9/3/2024,Standing Desk,Office,East,Reseller,Arjun Sharma,2,603.5,5,1146.65,716.61,430.04
+ORD-10174,12/28/2023,Headphones Pro,Electronics,East,Online,Vikram Das,1,212.74,5,202.1,99.38,102.72
+ORD-10175,6/3/2024,Chair Ergonomic,Office,North,Reseller,Deepa Nair,3,988.88,5,2818.31,1853.16,965.15
+ORD-10176,1/17/2023,Mechanical KB,Accessories,North,B2B,Ravi Kumar,1,93.01,0,93.01,54.08,38.93
+ORD-10177,12/27/2023,Laptop Pro X1,Electronics,West,Reseller,Ravi Kumar,2,879.76,10,1583.57,1065.97,517.6
+ORD-10178,3/6/2023,USB-C Hub,Accessories,South,Online,Deepa Nair,2,75.34,15,128.08,73.88,54.2
+ORD-10179,6/11/2024,Mechanical KB,Accessories,South,B2B,Deepa Nair,1,167.25,10,150.52,76.49,74.03
+ORD-10180,11/2/2024,Laptop Pro X1,Electronics,West,Reseller,Deepa Nair,1,948.82,0,948.82,595.76,353.06
+ORD-10181,5/23/2024,USB-C Hub,Accessories,North,Reseller,Priya Patel,2,102.48,0,204.96,103.17,101.79
+ORD-10182,9/8/2024,Desk Lamp LED,Office,East,B2B,Amit Verma,5,57.78,0,288.9,135.93,152.97
+ORD-10183,9/9/2024,Standing Desk,Office,East,Reseller,Amit Verma,2,595.64,0,1191.28,642.61,548.67
+ORD-10184,2/28/2023,Tablet S10,Electronics,South,Online,Ravi Kumar,1,544.11,5,516.9,332.03,184.87
+ORD-10185,11/25/2024,Headphones Pro,Electronics,East,B2B,Karan Mehta,3,211.74,0,635.22,384.75,250.47
+ORD-10186,2/3/2023,Headphones Pro,Electronics,North,Retail,Vikram Das,2,265.56,10,478.01,278.52,199.49
+ORD-10187,2/12/2024,Webcam HD,Electronics,South,Reseller,Vikram Das,1,88.03,0,88.03,40.07,47.96
+ORD-10188,7/29/2024,Desk Lamp LED,Office,Central,B2B,Sunita Rao,1,75.85,10,68.26,37.39,30.87
+ORD-10189,5/6/2023,"Monitor 27""",Electronics,North,B2B,Deepa Nair,1,547.14,0,547.14,324.28,222.86
+ORD-10190,3/8/2023,Phone Stand,Accessories,South,B2B,Vikram Das,2,28.42,0,56.84,27.37,29.47
+ORD-10191,5/5/2023,"Monitor 27""",Electronics,East,B2B,Sunita Rao,5,550.76,10,2478.42,1511.3,967.12
+ORD-10192,5/13/2023,Chair Ergonomic,Office,West,Reseller,Karan Mehta,2,987.39,0,1974.78,1283.45,691.33
+ORD-10193,3/17/2023,Headphones Pro,Electronics,Central,B2B,Ravi Kumar,1,286.27,0,286.27,155.49,130.78
+ORD-10194,10/17/2024,Chair Ergonomic,Office,North,Online,Vikram Das,2,653.96,10,1177.13,720.11,457.02
+ORD-10195,11/8/2023,USB-C Hub,Accessories,Central,B2B,Priya Patel,1,59.7,0,59.7,31,28.7
+ORD-10196,7/21/2023,Mechanical KB,Accessories,Central,Online,Vikram Das,2,156.42,5,297.2,159.73,137.47
+ORD-10197,6/22/2023,Tablet S10,Electronics,Central,B2B,Pooja Iyer,2,815.96,5,1550.32,938.18,612.14
+ORD-10198,1/30/2023,Laptop Pro X1,Electronics,South,Reseller,Pooja Iyer,1,987.57,15,839.43,496.68,342.75
+ORD-10199,2/1/2023,Tablet S10,Electronics,West,Retail,Karan Mehta,1,540.05,5,513.05,346.35,166.7
+ORD-10200,4/9/2024,Mechanical KB,Accessories,South,B2B,Pooja Iyer,1,147.45,0,147.45,80.63,66.82
+ORD-10201,11/17/2023,USB-C Hub,Accessories,West,Retail,Deepa Nair,3,61.33,0,183.99,95.5,88.49
+ORD-10202,7/29/2024,Chair Ergonomic,Office,South,Online,Arjun Sharma,1,968.59,0,968.59,522.96,445.63
+ORD-10203,1/29/2024,Mechanical KB,Accessories,East,B2B,Neha Singh,3,99.9,5,284.72,188.95,95.77
+ORD-10204,5/25/2024,USB-C Hub,Accessories,North,Reseller,Vikram Das,5,103.3,5,490.67,283.8,206.87
+ORD-10205,9/4/2023,Standing Desk,Office,West,B2B,Vikram Das,1,572.08,0,572.08,314.06,258.02
+ORD-10206,4/21/2023,Laptop Pro X1,Electronics,East,Online,Karan Mehta,1,1527.84,15,1298.66,920.94,377.72
+ORD-10207,8/6/2024,Laptop Pro X1,Electronics,West,B2B,Pooja Iyer,2,1462.27,0,2924.54,1542.02,1382.52
+ORD-10208,9/17/2024,Tablet S10,Electronics,East,B2B,Ravi Kumar,1,642.11,20,513.69,391.03,122.66
+ORD-10209,9/8/2024,"Monitor 27""",Electronics,East,Reseller,Vikram Das,2,428.58,5,814.3,409.21,405.09
+ORD-10210,6/2/2023,Standing Desk,Office,South,Reseller,Pooja Iyer,2,765.3,5,1454.07,876.44,577.63
+ORD-10211,11/3/2023,Phone Stand,Accessories,Central,B2B,Sunita Rao,2,21.49,5,40.83,23.55,17.28
+ORD-10212,1/13/2024,Laptop Pro X1,Electronics,North,Reseller,Amit Verma,1,953.49,0,953.49,487.74,465.75
+ORD-10213,8/15/2024,Tablet S10,Electronics,Central,Reseller,Ravi Kumar,2,752.58,10,1354.64,728.65,625.99
+ORD-10214,9/6/2023,Tablet S10,Electronics,East,Reseller,Ravi Kumar,1,623.68,15,530.13,283.02,247.11
+ORD-10215,12/8/2024,Desk Lamp LED,Office,North,Retail,Vikram Das,1,41.76,5,39.67,22.73,16.94
+ORD-10216,7/28/2024,"Monitor 27""",Electronics,South,Reseller,Vikram Das,1,567.09,10,510.38,290.78,219.6
+ORD-10217,7/13/2024,Webcam HD,Electronics,East,Reseller,Neha Singh,1,127.48,10,114.73,73.77,40.96
+ORD-10218,10/13/2023,"Monitor 27""",Electronics,East,Retail,Sunita Rao,2,399.7,0,799.4,407.31,392.09
+ORD-10219,5/6/2024,Webcam HD,Electronics,North,Reseller,Karan Mehta,1,128.41,15,109.15,64.81,44.34
+ORD-10220,5/30/2023,Webcam HD,Electronics,West,B2B,Sunita Rao,1,127.39,0,127.39,66.15,61.24
+ORD-10221,7/26/2023,"Monitor 27""",Electronics,North,Retail,Neha Singh,3,569.16,0,1707.48,861.12,846.36
+ORD-10222,11/16/2024,Laptop Pro X1,Electronics,East,Reseller,Priya Patel,4,935.82,0,3743.28,1759.49,1983.79
+ORD-10223,5/21/2023,Tablet S10,Electronics,West,Reseller,Neha Singh,1,852.7,5,810.06,453.11,356.95
+ORD-10224,11/25/2023,Mechanical KB,Accessories,South,Online,Ravi Kumar,1,98.05,0,98.05,56.91,41.14
+ORD-10225,6/30/2023,Desk Lamp LED,Office,South,B2B,Arjun Sharma,4,79.28,0,317.12,192.68,124.44
+ORD-10226,11/2/2023,Laptop Pro X1,Electronics,Central,Reseller,Ravi Kumar,2,1007.95,0,2015.9,1021.88,994.02
+ORD-10227,4/24/2024,Chair Ergonomic,Office,East,Retail,Arjun Sharma,1,903.29,10,812.96,538.56,274.4
+ORD-10228,12/12/2023,Phone Stand,Accessories,West,Reseller,Vikram Das,3,20.82,5,59.34,30.3,29.04
+ORD-10229,3/30/2023,Webcam HD,Electronics,South,Online,Amit Verma,1,103.77,0,103.77,56.61,47.16
+ORD-10230,8/30/2023,Desk Lamp LED,Office,Central,Online,Amit Verma,1,66.69,0,66.69,37.78,28.91
+ORD-10231,1/4/2024,Tablet S10,Electronics,West,B2B,Priya Patel,2,462.04,0,924.08,472.54,451.54
+ORD-10232,10/30/2023,Tablet S10,Electronics,West,B2B,Karan Mehta,1,576.88,0,576.88,314.77,262.11
+ORD-10233,7/16/2024,Phone Stand,Accessories,South,Online,Vikram Das,4,37.64,10,135.5,92.61,42.89
+ORD-10234,6/24/2024,Standing Desk,Office,Central,Retail,Pooja Iyer,2,783.7,0,1567.4,724.69,842.71
+ORD-10235,6/3/2023,Chair Ergonomic,Office,Central,Reseller,Priya Patel,1,1032.66,15,877.76,605.2,272.56
+ORD-10236,4/1/2024,Chair Ergonomic,Office,North,Reseller,Amit Verma,3,920.07,5,2622.2,1494.27,1127.93
+ORD-10237,1/23/2023,Phone Stand,Accessories,North,Reseller,Deepa Nair,1,21.99,10,19.79,12.44,7.35
+ORD-10238,3/7/2023,Phone Stand,Accessories,West,Online,Amit Verma,2,30.14,0,60.28,39.01,21.27
+ORD-10239,7/4/2023,Desk Lamp LED,Office,West,B2B,Karan Mehta,3,77.88,10,210.28,135.32,74.96
+ORD-10240,1/22/2024,Standing Desk,Office,East,Online,Ravi Kumar,1,450.55,10,405.5,251.34,154.16
+ORD-10241,2/7/2024,Chair Ergonomic,Office,North,B2B,Sunita Rao,2,660.32,10,1188.58,595.21,593.37
+ORD-10242,7/11/2024,Tablet S10,Electronics,South,B2B,Neha Singh,1,795.51,0,795.51,431.27,364.24
+ORD-10243,4/26/2023,Phone Stand,Accessories,North,Retail,Neha Singh,1,33.73,10,30.36,21.49,8.87
+ORD-10244,4/14/2023,Wireless Mouse,Accessories,South,Online,Karan Mehta,2,57.32,5,108.91,71.59,37.32
+ORD-10245,8/28/2023,Standing Desk,Office,East,Retail,Pooja Iyer,2,707.87,10,1274.17,676.76,597.41
+ORD-10246,8/14/2024,Webcam HD,Electronics,South,Retail,Karan Mehta,2,111.81,10,201.26,114.13,87.13
+ORD-10247,10/9/2023,Mechanical KB,Accessories,West,Reseller,Arjun Sharma,1,113.81,15,96.74,71.96,24.78
+ORD-10248,10/20/2024,Webcam HD,Electronics,South,B2B,Karan Mehta,2,82.62,10,148.72,88.12,60.6
+ORD-10249,7/4/2024,USB-C Hub,Accessories,West,Online,Vikram Das,1,97.54,10,87.79,57.7,30.09
+ORD-10250,3/2/2024,Desk Lamp LED,Office,North,Reseller,Deepa Nair,2,57.48,0,114.96,56.41,58.55
+ORD-10251,7/2/2024,Wireless Mouse,Accessories,Central,Online,Priya Patel,2,60.3,0,120.6,70.52,50.08
+ORD-10252,8/24/2024,"Monitor 27""",Electronics,East,B2B,Arjun Sharma,2,515.29,5,979.05,642.97,336.08
+ORD-10253,7/14/2023,"Monitor 27""",Electronics,South,Retail,Karan Mehta,5,593.91,0,2969.55,1620.73,1348.82
+ORD-10254,7/19/2024,"Monitor 27""",Electronics,East,B2B,Deepa Nair,1,563.74,0,563.74,326.83,236.91
+ORD-10255,5/24/2024,Chair Ergonomic,Office,East,Retail,Deepa Nair,1,1028.97,10,926.07,619.78,306.29
+ORD-10256,2/28/2024,Webcam HD,Electronics,Central,Reseller,Amit Verma,1,86.18,15,73.25,39.06,34.19
+ORD-10257,7/20/2023,USB-C Hub,Accessories,East,B2B,Sunita Rao,1,102.84,0,102.84,56.55,46.29
+ORD-10258,10/19/2024,Phone Stand,Accessories,South,Reseller,Ravi Kumar,2,25.22,5,47.92,26.25,21.67
+ORD-10259,10/19/2024,Chair Ergonomic,Office,North,Online,Karan Mehta,5,702.18,5,3335.35,1632.1,1703.25
+ORD-10260,10/7/2024,USB-C Hub,Accessories,East,Online,Pooja Iyer,1,63.85,10,57.46,35.19,22.27
+ORD-10261,11/13/2024,Tablet S10,Electronics,Central,Reseller,Arjun Sharma,4,488.04,15,1659.34,884.61,774.73
+ORD-10262,6/26/2024,Laptop Pro X1,Electronics,West,Retail,Priya Patel,2,1652.68,5,3140.09,1819.41,1320.68
+ORD-10263,6/20/2024,Wireless Mouse,Accessories,East,Reseller,Priya Patel,1,63.87,0,63.87,39.16,24.71
+ORD-10264,2/20/2024,Webcam HD,Electronics,North,Online,Priya Patel,1,85.81,0,85.81,43.76,42.05
+ORD-10265,1/24/2024,Desk Lamp LED,Office,North,Reseller,Karan Mehta,1,44.27,5,42.06,26.14,15.92
+ORD-10266,12/6/2023,Tablet S10,Electronics,North,Retail,Neha Singh,2,435.92,15,741.06,484.42,256.64
+ORD-10267,8/3/2024,Phone Stand,Accessories,Central,Online,Ravi Kumar,1,31.93,0,31.93,20.28,11.65
+ORD-10268,1/17/2023,Webcam HD,Electronics,West,Online,Amit Verma,5,75.13,5,356.87,222.59,134.28
+ORD-10269,7/31/2024,USB-C Hub,Accessories,East,Reseller,Ravi Kumar,1,98.42,10,88.58,61.94,26.64
+ORD-10270,3/22/2023,Phone Stand,Accessories,North,B2B,Pooja Iyer,2,27.71,20,44.34,29.78,14.56
+ORD-10271,9/1/2024,Headphones Pro,Electronics,West,Reseller,Neha Singh,1,284.94,10,256.45,143.8,112.65
+ORD-10272,7/20/2024,Webcam HD,Electronics,North,B2B,Neha Singh,4,126.96,5,482.45,295.63,186.82
+ORD-10273,3/17/2023,Phone Stand,Accessories,West,B2B,Deepa Nair,1,29.61,0,29.61,17.08,12.53
+ORD-10274,4/4/2023,Wireless Mouse,Accessories,South,Online,Ravi Kumar,1,55.56,0,55.56,28,27.56
+ORD-10275,4/4/2024,Desk Lamp LED,Office,Central,Online,Pooja Iyer,2,65.16,5,123.8,60.98,62.82
+ORD-10276,11/29/2023,Headphones Pro,Electronics,Central,Retail,Pooja Iyer,3,219.41,0,658.23,398.78,259.45
+ORD-10277,6/23/2023,Chair Ergonomic,Office,South,Online,Ravi Kumar,2,1014.7,0,2029.4,1022.17,1007.23
+ORD-10278,10/10/2023,Desk Lamp LED,Office,South,Reseller,Pooja Iyer,1,48.03,5,45.63,24.03,21.6
+ORD-10279,7/20/2023,Headphones Pro,Electronics,Central,Reseller,Deepa Nair,1,358.1,0,358.1,189.48,168.62
+ORD-10280,12/9/2023,Standing Desk,Office,East,B2B,Pooja Iyer,1,425.63,10,383.07,242.13,140.94
+ORD-10281,7/25/2023,Phone Stand,Accessories,West,Retail,Deepa Nair,1,36.16,0,36.16,18.58,17.58
+ORD-10282,10/15/2023,Desk Lamp LED,Office,Central,Retail,Vikram Das,3,48.21,0,144.63,81.39,63.24
+ORD-10283,4/17/2024,Laptop Pro X1,Electronics,North,Reseller,Sunita Rao,4,1538.32,0,6153.28,3792,2361.28
+ORD-10284,10/10/2024,USB-C Hub,Accessories,West,Online,Sunita Rao,1,64.83,0,64.83,34.66,30.17
+ORD-10285,5/5/2024,Headphones Pro,Electronics,West,Online,Deepa Nair,2,392.63,5,746,489.94,256.06
+ORD-10286,7/3/2024,Phone Stand,Accessories,East,Retail,Pooja Iyer,2,35.11,15,59.69,35.09,24.6
+ORD-10287,7/30/2024,Laptop Pro X1,Electronics,West,Online,Arjun Sharma,5,1620.06,10,7290.27,4864.53,2425.74
+ORD-10288,9/22/2023,Wireless Mouse,Accessories,South,Reseller,Deepa Nair,1,49.28,10,44.35,28.95,15.4
+ORD-10289,4/19/2024,Desk Lamp LED,Office,North,Reseller,Priya Patel,3,67.85,5,193.37,105.64,87.73
+ORD-10290,3/1/2024,Mechanical KB,Accessories,East,B2B,Deepa Nair,4,133.27,0,533.08,317.73,215.35
+ORD-10291,7/31/2023,Standing Desk,Office,West,B2B,Priya Patel,2,724.26,0,1448.52,861,587.52
+ORD-10292,2/15/2023,Mechanical KB,Accessories,South,Retail,Vikram Das,3,113.48,0,340.44,197.32,143.12
+ORD-10293,7/19/2024,USB-C Hub,Accessories,West,Retail,Ravi Kumar,1,104.09,5,98.89,51.67,47.22
+ORD-10294,11/4/2024,Tablet S10,Electronics,Central,Reseller,Karan Mehta,1,485.87,0,485.87,237.82,248.05
+ORD-10295,12/22/2024,Laptop Pro X1,Electronics,Central,Online,Vikram Das,1,927.83,0,927.83,565.24,362.59
+ORD-10296,1/10/2024,USB-C Hub,Accessories,Central,B2B,Pooja Iyer,1,57.09,5,54.24,35.54,18.7
+ORD-10297,9/17/2024,Desk Lamp LED,Office,South,B2B,Pooja Iyer,1,58.13,0,58.13,31.48,26.65
+ORD-10298,3/28/2023,Headphones Pro,Electronics,East,Retail,Vikram Das,2,291.18,0,582.36,275.68,306.68
+ORD-10299,3/4/2024,Desk Lamp LED,Office,Central,Retail,Vikram Das,2,58.55,5,111.24,64.09,47.15
+ORD-10300,5/16/2024,USB-C Hub,Accessories,East,Online,Sunita Rao,1,102.93,0,102.93,59.07,43.86
+ORD-10301,7/19/2023,USB-C Hub,Accessories,West,Reseller,Sunita Rao,3,99.58,20,238.99,164.01,74.98
+ORD-10302,6/21/2023,Standing Desk,Office,East,Retail,Vikram Das,1,799.03,0,799.03,406.24,392.79
+ORD-10303,6/22/2023,Mechanical KB,Accessories,Central,Online,Pooja Iyer,3,172.27,5,490.97,283.76,207.21
+ORD-10304,10/2/2023,Wireless Mouse,Accessories,North,Reseller,Vikram Das,3,41.1,10,110.97,75.77,35.2
+ORD-10305,3/11/2024,"Monitor 27""",Electronics,North,Reseller,Amit Verma,1,460.29,10,414.26,234.54,179.72
+ORD-10306,3/31/2023,Webcam HD,Electronics,Central,B2B,Pooja Iyer,1,101.73,20,81.38,50.6,30.78
+ORD-10307,3/14/2024,Tablet S10,Electronics,North,B2B,Vikram Das,1,629.96,0,629.96,309.56,320.4
+ORD-10308,9/3/2024,Mechanical KB,Accessories,East,Online,Ravi Kumar,2,131.63,0,263.26,133.7,129.56
+ORD-10309,3/2/2023,Desk Lamp LED,Office,South,Retail,Deepa Nair,5,56.8,15,241.4,176.99,64.41
+ORD-10310,11/23/2024,"Monitor 27""",Electronics,West,Reseller,Priya Patel,1,336.75,0,336.75,193.82,142.93
+ORD-10311,4/6/2023,Tablet S10,Electronics,West,Reseller,Deepa Nair,1,760.88,10,684.79,475.9,208.89
+ORD-10312,1/3/2023,Headphones Pro,Electronics,East,Online,Vikram Das,3,212.31,10,573.24,410.46,162.78
+ORD-10313,8/12/2023,Desk Lamp LED,Office,East,B2B,Vikram Das,5,67.81,10,305.15,174.47,130.68
+ORD-10314,5/14/2023,Headphones Pro,Electronics,North,Online,Priya Patel,2,370.8,5,704.52,434.96,269.56
+ORD-10315,4/15/2024,Tablet S10,Electronics,West,Retail,Ravi Kumar,1,720.82,15,612.7,390.18,222.52
+ORD-10316,11/6/2023,Tablet S10,Electronics,East,Online,Deepa Nair,1,469.53,15,399.1,272.76,126.34
+ORD-10317,10/26/2024,Tablet S10,Electronics,South,Reseller,Priya Patel,1,540.92,0,540.92,319.08,221.84
+ORD-10318,4/8/2023,Phone Stand,Accessories,West,Online,Arjun Sharma,1,32.13,5,30.52,15.91,14.61
+ORD-10319,12/18/2023,Phone Stand,Accessories,North,Retail,Karan Mehta,3,20.14,20,48.34,28.79,19.55
+ORD-10320,4/15/2023,Wireless Mouse,Accessories,South,Retail,Priya Patel,1,55.22,0,55.22,29.08,26.14
+ORD-10321,7/30/2024,Chair Ergonomic,Office,South,Reseller,Pooja Iyer,1,1000.56,10,900.5,594.82,305.68
+ORD-10322,3/29/2024,Tablet S10,Electronics,Central,Reseller,Deepa Nair,3,623.07,0,1869.21,1122.44,746.77
+ORD-10323,11/19/2023,Desk Lamp LED,Office,Central,B2B,Arjun Sharma,3,44.3,0,132.9,66.4,66.5
+ORD-10324,11/5/2023,Tablet S10,Electronics,North,Retail,Sunita Rao,1,465.43,5,442.16,245.91,196.25
+ORD-10325,4/26/2023,Desk Lamp LED,Office,North,B2B,Deepa Nair,1,64.94,5,61.69,40.77,20.92
+ORD-10326,2/1/2024,USB-C Hub,Accessories,West,Online,Arjun Sharma,3,66.25,5,188.81,116.58,72.23
+ORD-10327,3/11/2023,Headphones Pro,Electronics,West,B2B,Vikram Das,1,311.64,0,311.64,199.37,112.27
+ORD-10328,3/9/2024,Desk Lamp LED,Office,East,Online,Amit Verma,2,59.22,0,118.44,67.89,50.55
+ORD-10329,6/7/2024,Wireless Mouse,Accessories,Central,Online,Amit Verma,4,61.5,20,196.8,126.78,70.02
+ORD-10330,3/23/2024,Phone Stand,Accessories,West,Online,Sunita Rao,2,27.72,10,49.9,25.9,24
+ORD-10331,9/15/2024,Headphones Pro,Electronics,North,Retail,Arjun Sharma,1,303.73,10,273.36,147.35,126.01
+ORD-10332,5/23/2024,USB-C Hub,Accessories,South,B2B,Ravi Kumar,5,102.34,5,486.12,304.03,182.09
+ORD-10333,10/3/2023,Phone Stand,Accessories,West,B2B,Vikram Das,2,25.64,0,51.28,26.51,24.77
+ORD-10334,9/27/2023,Wireless Mouse,Accessories,East,Online,Sunita Rao,2,46.93,5,89.17,50.78,38.39
+ORD-10335,6/20/2023,Headphones Pro,Electronics,North,Retail,Vikram Das,1,373.26,0,373.26,210.81,162.45
+ORD-10336,2/15/2023,Laptop Pro X1,Electronics,South,Retail,Arjun Sharma,3,1054.02,0,3162.06,1653.11,1508.95
+ORD-10337,11/2/2024,Chair Ergonomic,Office,East,Online,Pooja Iyer,1,586.46,0,586.46,348.39,238.07
+ORD-10338,5/3/2023,Webcam HD,Electronics,North,Reseller,Priya Patel,2,120.72,15,205.22,147.49,57.73
+ORD-10339,10/17/2023,Standing Desk,Office,East,Retail,Amit Verma,3,488.09,0,1464.27,792.68,671.59
+ORD-10340,11/8/2023,Headphones Pro,Electronics,South,Retail,Ravi Kumar,2,218.4,0,436.8,281.46,155.34
+ORD-10341,2/24/2024,Laptop Pro X1,Electronics,North,B2B,Arjun Sharma,1,1119.16,5,1063.2,658.84,404.36
+ORD-10342,1/21/2024,Tablet S10,Electronics,South,Reseller,Sunita Rao,3,461.36,10,1245.67,769.5,476.17
+ORD-10343,5/26/2023,Laptop Pro X1,Electronics,Central,Reseller,Deepa Nair,2,1705.43,0,3410.86,2146.99,1263.87
+ORD-10344,3/28/2023,Standing Desk,Office,Central,Online,Karan Mehta,2,607.22,5,1153.72,642.28,511.44
+ORD-10345,5/14/2023,Tablet S10,Electronics,East,B2B,Sunita Rao,1,802.49,0,802.49,489.65,312.84
+ORD-10346,8/28/2023,Mechanical KB,Accessories,South,Online,Ravi Kumar,1,152.5,0,152.5,86.46,66.04
+ORD-10347,4/22/2024,Standing Desk,Office,West,B2B,Sunita Rao,1,679.09,0,679.09,410.22,268.87
+ORD-10348,5/3/2023,Mechanical KB,Accessories,Central,Online,Neha Singh,1,159.33,10,143.4,94.15,49.25
+ORD-10349,6/1/2023,Webcam HD,Electronics,East,B2B,Ravi Kumar,1,126.84,0,126.84,70.1,56.74
+ORD-10350,2/19/2024,Laptop Pro X1,Electronics,North,Retail,Priya Patel,3,1109.68,5,3162.59,1561.14,1601.45
+ORD-10351,3/5/2023,Laptop Pro X1,Electronics,East,Online,Pooja Iyer,3,1251.03,20,3002.47,2307.15,695.32
+ORD-10352,9/23/2023,Headphones Pro,Electronics,West,Retail,Priya Patel,4,313.87,0,1255.48,614.62,640.86
+ORD-10353,5/6/2023,Webcam HD,Electronics,West,Reseller,Arjun Sharma,1,120.58,5,114.55,68.1,46.45
+ORD-10354,11/30/2024,Desk Lamp LED,Office,West,Retail,Arjun Sharma,1,45.45,0,45.45,22.95,22.5
+ORD-10355,9/26/2024,Headphones Pro,Electronics,West,Online,Priya Patel,2,298.97,5,568.04,374.64,193.4
+ORD-10356,1/28/2024,Mechanical KB,Accessories,Central,Online,Karan Mehta,1,99.16,0,99.16,55.05,44.11
+ORD-10357,1/3/2024,Phone Stand,Accessories,East,Reseller,Amit Verma,1,21.13,10,19.02,11.9,7.12
+ORD-10358,1/27/2023,USB-C Hub,Accessories,North,Reseller,Vikram Das,1,60.79,0,60.79,36.82,23.97
+ORD-10359,8/21/2024,Webcam HD,Electronics,East,Online,Neha Singh,5,109.3,20,437.2,317.72,119.48
+ORD-10360,2/2/2024,Headphones Pro,Electronics,Central,B2B,Deepa Nair,1,262.92,10,236.63,127.57,109.06
+ORD-10361,1/29/2023,Headphones Pro,Electronics,South,Reseller,Vikram Das,2,222.81,0,445.62,213.19,232.43
+ORD-10362,6/29/2023,Mechanical KB,Accessories,Central,Reseller,Arjun Sharma,1,163.22,0,163.22,80.59,82.63
+ORD-10363,9/20/2024,Webcam HD,Electronics,East,Online,Arjun Sharma,1,101.15,0,101.15,64.1,37.05
+ORD-10364,8/23/2024,USB-C Hub,Accessories,East,Online,Deepa Nair,2,87.32,0,174.64,96.97,77.67
+ORD-10365,11/9/2024,Phone Stand,Accessories,South,Reseller,Sunita Rao,1,21.04,0,21.04,10.04,11
+ORD-10366,11/21/2023,Tablet S10,Electronics,East,Retail,Pooja Iyer,1,489.68,20,391.74,311.32,80.42
+ORD-10367,1/23/2024,USB-C Hub,Accessories,Central,Reseller,Pooja Iyer,1,56.3,10,50.67,33.54,17.13
+ORD-10368,7/6/2023,Laptop Pro X1,Electronics,Central,Online,Sunita Rao,2,1713,15,2912.1,1693.06,1219.04
+ORD-10369,12/6/2023,USB-C Hub,Accessories,North,B2B,Sunita Rao,2,57.97,0,115.94,56.07,59.87
+ORD-10370,9/29/2023,Laptop Pro X1,Electronics,North,Online,Karan Mehta,1,1279.58,10,1151.62,777.22,374.4
+ORD-10371,3/5/2024,Standing Desk,Office,Central,Reseller,Priya Patel,5,598.59,15,2544.01,1573.52,970.49
+ORD-10372,8/14/2024,Standing Desk,Office,North,B2B,Arjun Sharma,2,665.61,10,1198.1,618.67,579.43
+ORD-10373,9/25/2023,Webcam HD,Electronics,North,Online,Deepa Nair,5,95.73,0,478.65,251.34,227.31
+ORD-10374,9/20/2024,Headphones Pro,Electronics,Central,Reseller,Ravi Kumar,4,296.95,10,1069.02,689.79,379.23
+ORD-10375,4/14/2023,Laptop Pro X1,Electronics,Central,B2B,Amit Verma,1,1480.3,20,1184.24,830.19,354.05
+ORD-10376,9/1/2023,Mechanical KB,Accessories,North,B2B,Arjun Sharma,1,129.64,0,129.64,71.07,58.57
+ORD-10377,3/31/2023,Desk Lamp LED,Office,North,Retail,Ravi Kumar,1,59.59,10,53.63,29.2,24.43
+ORD-10378,10/26/2023,Tablet S10,Electronics,West,Reseller,Amit Verma,5,530.44,5,2519.59,1609.82,909.77
+ORD-10379,10/19/2024,Wireless Mouse,Accessories,West,Online,Amit Verma,2,43.26,0,86.52,45.33,41.19
+ORD-10380,4/21/2024,Standing Desk,Office,North,Online,Deepa Nair,1,693.28,10,623.95,332.93,291.02
+ORD-10381,2/28/2024,Chair Ergonomic,Office,Central,Reseller,Vikram Das,5,682.79,5,3243.25,2110.37,1132.88
+ORD-10382,5/1/2024,Tablet S10,Electronics,North,Retail,Priya Patel,2,801.17,0,1602.34,847.58,754.76
+ORD-10383,6/27/2023,Standing Desk,Office,North,Reseller,Priya Patel,4,756.26,0,3025.04,1477.87,1547.17
+ORD-10384,3/21/2024,Tablet S10,Electronics,East,Online,Priya Patel,1,626.15,10,563.54,356.29,207.25
+ORD-10385,7/23/2024,Desk Lamp LED,Office,North,Reseller,Priya Patel,1,72.67,0,72.67,39.36,33.31
+ORD-10386,6/3/2023,Desk Lamp LED,Office,North,Online,Amit Verma,1,78.68,5,74.75,50.19,24.56
+ORD-10387,12/19/2023,Chair Ergonomic,Office,West,Online,Ravi Kumar,4,567.96,0,2271.84,1282.24,989.6
+ORD-10388,2/17/2024,Mechanical KB,Accessories,East,Retail,Arjun Sharma,1,111.77,5,106.18,51.16,55.02
+ORD-10389,5/1/2024,Phone Stand,Accessories,East,B2B,Amit Verma,4,34.78,15,118.25,85.35,32.9
+ORD-10390,12/13/2024,Standing Desk,Office,West,B2B,Amit Verma,2,407.89,20,652.62,416.13,236.49
+ORD-10391,3/2/2024,Phone Stand,Accessories,West,Reseller,Vikram Das,2,28.83,0,57.66,36.48,21.18
+ORD-10392,2/27/2023,Webcam HD,Electronics,South,Online,Ravi Kumar,2,82.56,0,165.12,91.04,74.08
+ORD-10393,7/25/2023,"Monitor 27""",Electronics,South,B2B,Deepa Nair,3,563.19,0,1689.57,1070.52,619.05
+ORD-10394,6/1/2024,Standing Desk,Office,West,Reseller,Ravi Kumar,1,792.81,15,673.89,395.13,278.76
+ORD-10395,8/23/2024,Standing Desk,Office,North,B2B,Arjun Sharma,2,712.11,0,1424.22,714.58,709.64
+ORD-10396,2/20/2023,Desk Lamp LED,Office,South,Retail,Amit Verma,1,52.48,5,49.86,32.61,17.25
+ORD-10397,2/24/2024,Tablet S10,Electronics,West,Retail,Ravi Kumar,2,577.42,15,981.61,677.24,304.37
+ORD-10398,1/9/2023,Headphones Pro,Electronics,East,Reseller,Karan Mehta,1,231.12,5,219.56,136.95,82.61
+ORD-10399,4/15/2024,Webcam HD,Electronics,West,Online,Arjun Sharma,1,115.87,5,110.08,71.24,38.84
+ORD-10400,11/9/2024,Chair Ergonomic,Office,East,B2B,Priya Patel,5,595.05,10,2677.72,1692.19,985.53
+ORD-10401,3/7/2023,Standing Desk,Office,East,Retail,Ravi Kumar,1,588.53,0,588.53,297.43,291.1
+ORD-10402,9/4/2023,Chair Ergonomic,Office,East,Retail,Arjun Sharma,4,823.16,10,2963.38,1876.83,1086.55
+ORD-10403,5/24/2024,Tablet S10,Electronics,North,Retail,Deepa Nair,5,810.96,0,4054.8,2139.54,1915.26
+ORD-10404,12/31/2024,Phone Stand,Accessories,East,B2B,Ravi Kumar,1,20.88,5,19.84,13.18,6.66
+ORD-10405,7/25/2024,Tablet S10,Electronics,Central,Retail,Deepa Nair,1,787.2,0,787.2,394.96,392.24
+ORD-10406,4/2/2023,Tablet S10,Electronics,East,B2B,Amit Verma,1,774.07,0,774.07,413.43,360.64
+ORD-10407,10/29/2023,Headphones Pro,Electronics,Central,Online,Sunita Rao,1,242.81,0,242.81,140.07,102.74
+ORD-10408,5/27/2024,"Monitor 27""",Electronics,South,Retail,Neha Singh,1,567.34,10,510.61,302.18,208.43
+ORD-10409,2/24/2024,Webcam HD,Electronics,South,Online,Sunita Rao,5,88.25,15,375.06,211.2,163.86
+ORD-10410,10/8/2024,Webcam HD,Electronics,South,Retail,Pooja Iyer,5,80.43,0,402.15,217.33,184.82
+ORD-10411,5/16/2024,USB-C Hub,Accessories,West,Reseller,Karan Mehta,3,95.84,10,258.77,154.32,104.45
+ORD-10412,1/28/2024,Standing Desk,Office,East,Retail,Arjun Sharma,1,453.6,5,430.92,290.31,140.61
+ORD-10413,1/5/2023,Tablet S10,Electronics,South,Online,Karan Mehta,2,489.68,0,979.36,508.16,471.2
+ORD-10414,8/25/2024,Chair Ergonomic,Office,West,B2B,Karan Mehta,1,877.11,0,877.11,561.08,316.03
+ORD-10415,5/18/2023,Tablet S10,Electronics,West,Online,Neha Singh,1,806.11,15,685.19,393.13,292.06
+ORD-10416,5/15/2023,"Monitor 27""",Electronics,North,Reseller,Amit Verma,1,565.92,0,565.92,268.6,297.32
+ORD-10417,9/30/2024,Chair Ergonomic,Office,North,Online,Priya Patel,1,811.94,20,649.55,471.5,178.05
+ORD-10418,3/30/2024,Desk Lamp LED,Office,North,B2B,Karan Mehta,1,58.85,5,55.91,28.28,27.63
+ORD-10419,4/14/2023,Tablet S10,Electronics,North,Online,Amit Verma,2,754.23,0,1508.46,720.19,788.27
+ORD-10420,4/19/2023,Wireless Mouse,Accessories,South,B2B,Karan Mehta,1,57.92,5,55.02,35.7,19.32
+ORD-10421,6/14/2023,Mechanical KB,Accessories,East,Retail,Arjun Sharma,1,162.8,5,154.66,103.64,51.02
+ORD-10422,11/18/2024,Laptop Pro X1,Electronics,North,Online,Priya Patel,1,968.64,0,968.64,531.61,437.03
+ORD-10423,10/21/2024,Mechanical KB,Accessories,North,Retail,Arjun Sharma,1,107.41,20,85.93,58.31,27.62
+ORD-10424,1/4/2024,Mechanical KB,Accessories,North,Online,Ravi Kumar,3,97.76,0,293.28,137.55,155.73
+ORD-10425,10/24/2024,Tablet S10,Electronics,North,B2B,Deepa Nair,1,548.21,0,548.21,314.87,233.34
+ORD-10426,4/27/2023,USB-C Hub,Accessories,West,Reseller,Ravi Kumar,1,88.78,20,71.02,46.8,24.22
+ORD-10427,5/16/2023,Wireless Mouse,Accessories,West,Reseller,Pooja Iyer,2,64.46,0,128.92,62.12,66.8
+ORD-10428,3/24/2024,Tablet S10,Electronics,South,Reseller,Sunita Rao,1,639.82,0,639.82,291.61,348.21
+ORD-10429,2/26/2024,Wireless Mouse,Accessories,Central,Retail,Deepa Nair,1,42.3,0,42.3,19.14,23.16
+ORD-10430,6/19/2024,Chair Ergonomic,Office,West,B2B,Karan Mehta,2,1031.72,5,1960.27,1228.43,731.84
+ORD-10431,7/25/2024,USB-C Hub,Accessories,Central,Reseller,Sunita Rao,4,94.66,5,359.71,241.15,118.56
+ORD-10432,3/18/2023,USB-C Hub,Accessories,Central,Retail,Vikram Das,3,77.66,0,232.98,117.8,115.18
+ORD-10433,1/23/2024,Tablet S10,Electronics,West,Online,Sunita Rao,1,478.42,0,478.42,291.96,186.46
+ORD-10434,11/20/2023,Standing Desk,Office,West,Online,Vikram Das,1,450.18,5,427.67,211.82,215.85
+ORD-10435,1/1/2023,Chair Ergonomic,Office,Central,Retail,Sunita Rao,3,618.81,10,1670.79,1072.1,598.69
+ORD-10436,1/8/2024,Webcam HD,Electronics,Central,Reseller,Deepa Nair,3,75.8,10,204.66,117.43,87.23
+ORD-10437,4/8/2024,Phone Stand,Accessories,East,B2B,Priya Patel,1,32.42,10,29.18,16.8,12.38
+ORD-10438,6/18/2023,Laptop Pro X1,Electronics,East,Retail,Neha Singh,1,1729.65,10,1556.69,919.9,636.79
+ORD-10439,2/7/2024,Wireless Mouse,Accessories,West,Online,Pooja Iyer,1,40.36,10,36.32,20.89,15.43
+ORD-10440,4/6/2024,Wireless Mouse,Accessories,North,Online,Vikram Das,1,56.37,5,53.55,36.23,17.32
+ORD-10441,8/22/2024,Desk Lamp LED,Office,Central,Retail,Ravi Kumar,1,70.71,5,67.17,34.33,32.84
+ORD-10442,2/1/2024,Wireless Mouse,Accessories,West,Retail,Amit Verma,2,40.91,5,77.73,51.24,26.49
+ORD-10443,12/18/2023,Desk Lamp LED,Office,Central,B2B,Vikram Das,5,39.79,5,189,105.95,83.05
+ORD-10444,12/29/2024,Webcam HD,Electronics,East,B2B,Ravi Kumar,2,67.34,5,127.95,66.25,61.7
+ORD-10445,10/27/2024,Phone Stand,Accessories,North,B2B,Vikram Das,5,24.75,0,123.75,71.45,52.3
+ORD-10446,8/19/2024,Standing Desk,Office,Central,B2B,Karan Mehta,2,683.17,10,1229.71,819.22,410.49
+ORD-10447,6/19/2024,Laptop Pro X1,Electronics,East,Retail,Amit Verma,1,1613.23,0,1613.23,744.22,869.01
+ORD-10448,9/14/2023,Tablet S10,Electronics,Central,Online,Deepa Nair,1,667.45,0,667.45,327.58,339.87
+ORD-10449,4/15/2023,Standing Desk,Office,Central,Reseller,Neha Singh,2,693.11,10,1247.6,685.99,561.61
+ORD-10450,12/13/2024,Chair Ergonomic,Office,East,Online,Arjun Sharma,1,583.15,10,524.84,307.62,217.22
+ORD-10451,9/15/2023,Phone Stand,Accessories,South,B2B,Pooja Iyer,1,30.05,15,25.54,16.19,9.35
+ORD-10452,9/9/2024,Chair Ergonomic,Office,North,Retail,Ravi Kumar,1,774.51,10,697.06,418.05,279.01
+ORD-10453,6/10/2024,Phone Stand,Accessories,South,B2B,Arjun Sharma,1,36.87,0,36.87,18.54,18.33
+ORD-10454,4/22/2024,Webcam HD,Electronics,North,B2B,Sunita Rao,2,109.91,0,219.82,113.1,106.72
+ORD-10455,7/17/2024,Headphones Pro,Electronics,South,Online,Vikram Das,1,369.82,10,332.84,182.69,150.15
+ORD-10456,3/1/2024,USB-C Hub,Accessories,East,B2B,Deepa Nair,2,77.81,5,147.84,97.52,50.32
+ORD-10457,8/12/2023,Mechanical KB,Accessories,North,Online,Deepa Nair,5,147.98,5,702.9,416.02,286.88
+ORD-10458,9/4/2023,Standing Desk,Office,East,Reseller,Priya Patel,4,606.26,5,2303.79,1556.34,747.45
+ORD-10459,9/20/2023,Desk Lamp LED,Office,East,Reseller,Sunita Rao,2,61.43,0,122.86,75.49,47.37
+ORD-10460,10/31/2023,Laptop Pro X1,Electronics,South,Online,Priya Patel,4,1105.68,0,4422.72,2828.96,1593.76
+ORD-10461,11/17/2024,"Monitor 27""",Electronics,South,Reseller,Priya Patel,2,338.51,0,677.02,417.81,259.21
+ORD-10462,12/3/2024,Phone Stand,Accessories,North,Retail,Amit Verma,1,19.96,5,18.96,9.33,9.63
+ORD-10463,3/14/2023,Chair Ergonomic,Office,West,Reseller,Deepa Nair,2,779.72,0,1559.44,822.77,736.67
+ORD-10464,2/3/2024,Laptop Pro X1,Electronics,Central,Online,Priya Patel,2,1119.77,5,2127.56,1284.76,842.8
+ORD-10465,5/29/2024,Webcam HD,Electronics,West,Reseller,Karan Mehta,1,122.24,10,110.02,57.12,52.9
+ORD-10466,2/1/2023,Tablet S10,Electronics,Central,B2B,Ravi Kumar,1,531.59,5,505.01,280.79,224.22
+ORD-10467,11/24/2024,Mechanical KB,Accessories,North,Retail,Priya Patel,4,98.99,20,316.77,229.49,87.28
+ORD-10468,1/6/2023,Laptop Pro X1,Electronics,South,B2B,Neha Singh,2,966.08,0,1932.16,902.37,1029.79
+ORD-10469,10/23/2024,Desk Lamp LED,Office,East,Retail,Priya Patel,3,48.57,0,145.71,83.55,62.16
+ORD-10470,11/18/2024,USB-C Hub,Accessories,Central,Reseller,Vikram Das,3,60.53,15,154.35,115.58,38.77
+ORD-10471,10/25/2023,Wireless Mouse,Accessories,East,B2B,Ravi Kumar,2,40.39,0,80.78,45.73,35.05
+ORD-10472,11/2/2024,Tablet S10,Electronics,West,Reseller,Deepa Nair,1,459.72,0,459.72,224.67,235.05
+ORD-10473,11/6/2024,Headphones Pro,Electronics,East,Reseller,Ravi Kumar,1,222.77,5,211.63,116.49,95.14
+ORD-10474,11/17/2023,Laptop Pro X1,Electronics,East,Retail,Deepa Nair,1,984.57,0,984.57,528.94,455.63
+ORD-10475,4/18/2024,Standing Desk,Office,Central,Online,Amit Verma,1,687.95,10,619.16,324.55,294.61
+ORD-10476,7/5/2024,USB-C Hub,Accessories,North,Online,Pooja Iyer,1,100.78,10,90.7,60.01,30.69
+ORD-10477,2/19/2024,Headphones Pro,Electronics,Central,Reseller,Ravi Kumar,3,242.37,0,727.11,365.1,362.01
+ORD-10478,2/6/2024,Webcam HD,Electronics,West,Online,Karan Mehta,1,86.11,10,77.5,43.76,33.74
+ORD-10479,5/29/2024,Webcam HD,Electronics,South,Retail,Sunita Rao,1,130.51,0,130.51,84.36,46.15
+ORD-10480,7/3/2023,USB-C Hub,Accessories,West,B2B,Arjun Sharma,2,103.23,5,196.14,98.94,97.2
+ORD-10481,5/14/2024,"Monitor 27""",Electronics,Central,B2B,Karan Mehta,1,550.61,0,550.61,321.4,229.21
+ORD-10482,4/10/2024,Standing Desk,Office,Central,B2B,Amit Verma,4,699.08,0,2796.32,1316.07,1480.25
+ORD-10483,7/11/2024,Headphones Pro,Electronics,North,B2B,Karan Mehta,2,372.11,0,744.22,422.37,321.85
+ORD-10484,6/12/2024,"Monitor 27""",Electronics,Central,Online,Vikram Das,1,574.65,10,517.18,349.69,167.49
+ORD-10485,3/26/2024,USB-C Hub,Accessories,South,Retail,Deepa Nair,1,80.13,0,80.13,39.45,40.68
+ORD-10486,5/2/2023,Headphones Pro,Electronics,West,Reseller,Neha Singh,2,370.29,5,703.55,350.05,353.5
+ORD-10487,6/15/2023,Headphones Pro,Electronics,Central,Retail,Ravi Kumar,2,378.74,5,719.61,360.24,359.37
+ORD-10488,6/8/2024,Tablet S10,Electronics,South,Reseller,Pooja Iyer,1,806.23,5,765.92,404.45,361.47
+ORD-10489,10/14/2024,Headphones Pro,Electronics,North,Retail,Sunita Rao,1,258.26,10,232.43,130.86,101.57
+ORD-10490,4/27/2024,Headphones Pro,Electronics,Central,Retail,Pooja Iyer,3,355.21,0,1065.63,607.59,458.04
+ORD-10491,6/7/2024,Tablet S10,Electronics,Central,Online,Neha Singh,1,830.43,10,747.39,449.01,298.38
+ORD-10492,1/30/2024,Desk Lamp LED,Office,West,Retail,Pooja Iyer,1,43.77,0,43.77,27.66,16.11
+ORD-10493,7/1/2023,Wireless Mouse,Accessories,Central,Online,Priya Patel,1,58.89,5,55.95,35.73,20.22
+ORD-10494,11/6/2024,Standing Desk,Office,West,Reseller,Deepa Nair,1,457.9,5,435,288.2,146.8
+ORD-10495,12/15/2024,Laptop Pro X1,Electronics,West,B2B,Pooja Iyer,2,936.79,0,1873.58,1138.97,734.61
+ORD-10496,12/14/2024,Phone Stand,Accessories,North,B2B,Pooja Iyer,2,19.8,5,37.62,23.89,13.73
+ORD-10497,2/23/2024,Chair Ergonomic,Office,Central,Online,Vikram Das,1,695.7,0,695.7,314.05,381.65
+ORD-10498,1/20/2024,Laptop Pro X1,Electronics,South,Reseller,Pooja Iyer,2,943.81,10,1698.86,986.19,712.67
+ORD-10499,9/25/2023,Mechanical KB,Accessories,West,Retail,Karan Mehta,3,127.27,5,362.72,192.86,169.86
+ORD-10500,7/24/2024,Chair Ergonomic,Office,East,B2B,Karan Mehta,1,1012.11,0,1012.11,506.82,505.29
+ORD-10501,5/22/2023,Phone Stand,Accessories,South,Online,Neha Singh,3,37.44,10,101.09,60.58,40.51
+ORD-10502,2/15/2024,Chair Ergonomic,Office,North,Retail,Karan Mehta,3,686.89,10,1854.6,1209.43,645.17
+ORD-10503,1/6/2023,Tablet S10,Electronics,North,Online,Amit Verma,3,479.02,10,1293.35,819.19,474.16
+ORD-10504,1/15/2024,"Monitor 27""",Electronics,Central,B2B,Pooja Iyer,1,328.5,0,328.5,212.5,116
+ORD-10505,6/29/2023,Laptop Pro X1,Electronics,Central,B2B,Neha Singh,2,1638.33,5,3112.83,1904.97,1207.86
+ORD-10506,9/5/2024,Laptop Pro X1,Electronics,East,Retail,Arjun Sharma,2,1313.96,10,2365.13,1536.82,828.31
+ORD-10507,3/30/2023,USB-C Hub,Accessories,Central,Retail,Vikram Das,5,77.84,10,350.28,205.9,144.38
+ORD-10508,12/21/2024,Laptop Pro X1,Electronics,Central,B2B,Deepa Nair,1,889.7,0,889.7,548.01,341.69
+ORD-10509,8/20/2023,Mechanical KB,Accessories,East,Retail,Karan Mehta,2,154.72,0,309.44,174.83,134.61
+ORD-10510,4/20/2023,Chair Ergonomic,Office,Central,B2B,Vikram Das,2,904.15,5,1717.88,856.05,861.83
+ORD-10511,9/14/2023,Headphones Pro,Electronics,East,Reseller,Sunita Rao,2,300.89,20,481.42,363.47,117.95
+ORD-10512,1/29/2023,Headphones Pro,Electronics,South,Retail,Deepa Nair,1,218.72,0,218.72,132.92,85.8
+ORD-10513,12/28/2023,Desk Lamp LED,Office,North,Reseller,Deepa Nair,2,42.67,0,85.34,42.64,42.7
+ORD-10514,7/21/2024,Wireless Mouse,Accessories,East,Retail,Neha Singh,4,60.83,5,231.15,153.02,78.13
+ORD-10515,7/24/2023,Standing Desk,Office,South,B2B,Ravi Kumar,1,736.92,0,736.92,365.4,371.52
+ORD-10516,5/3/2023,Wireless Mouse,Accessories,Central,Online,Sunita Rao,4,62.74,10,225.86,143.74,82.12
+ORD-10517,9/27/2024,Webcam HD,Electronics,East,Reseller,Ravi Kumar,1,102.77,15,87.35,58.06,29.29
+ORD-10518,10/14/2023,Chair Ergonomic,Office,West,Reseller,Vikram Das,1,653.9,10,588.51,363.01,225.5
+ORD-10519,5/29/2024,Laptop Pro X1,Electronics,North,Reseller,Deepa Nair,1,1681.64,15,1429.39,910.51,518.88
+ORD-10520,1/9/2023,Phone Stand,Accessories,Central,B2B,Ravi Kumar,1,21.64,0,21.64,11.15,10.49
+ORD-10521,9/27/2023,Chair Ergonomic,Office,West,Reseller,Neha Singh,1,808.04,5,767.64,422.75,344.89
+ORD-10522,12/18/2024,Desk Lamp LED,Office,Central,Retail,Pooja Iyer,3,40.89,0,122.67,66.26,56.41
+ORD-10523,8/23/2023,Tablet S10,Electronics,West,Retail,Ravi Kumar,3,769.05,10,2076.44,1294.47,781.97
+ORD-10524,6/3/2023,Phone Stand,Accessories,Central,B2B,Sunita Rao,1,37.4,0,37.4,17.84,19.56
+ORD-10525,9/14/2023,Mechanical KB,Accessories,North,Retail,Amit Verma,2,127.69,5,242.61,150.19,92.42
+ORD-10526,10/6/2024,Standing Desk,Office,Central,B2B,Deepa Nair,1,496.92,10,447.23,259.42,187.81
+ORD-10527,2/26/2024,Laptop Pro X1,Electronics,Central,Retail,Amit Verma,1,1155.29,15,982,565.85,416.15
+ORD-10528,11/29/2023,Webcam HD,Electronics,West,B2B,Sunita Rao,2,75.01,5,142.52,94.2,48.32
+ORD-10529,5/29/2023,Tablet S10,Electronics,Central,Reseller,Priya Patel,3,852.66,5,2430.08,1366.89,1063.19
+ORD-10530,6/15/2023,Wireless Mouse,Accessories,Central,Reseller,Amit Verma,1,64.67,0,64.67,38.29,26.38
+ORD-10531,1/7/2024,Standing Desk,Office,North,Retail,Neha Singh,2,441.17,5,838.22,426.58,411.64
+ORD-10532,9/15/2023,Tablet S10,Electronics,North,Online,Priya Patel,4,621.75,10,2238.3,1202.17,1036.13
+ORD-10533,7/15/2024,Standing Desk,Office,North,B2B,Pooja Iyer,1,756.43,10,680.79,491.08,189.71
+ORD-10534,3/28/2023,USB-C Hub,Accessories,East,Reseller,Ravi Kumar,2,77.49,15,131.73,77.41,54.32
+ORD-10535,6/23/2024,USB-C Hub,Accessories,East,Reseller,Sunita Rao,3,104.38,0,313.14,194.8,118.34
+ORD-10536,10/6/2023,Chair Ergonomic,Office,Central,Reseller,Pooja Iyer,2,709.61,0,1419.22,791.72,627.5
+ORD-10537,6/20/2024,Desk Lamp LED,Office,South,Online,Sunita Rao,2,79.84,5,151.7,87.24,64.46
+ORD-10538,1/10/2024,Mechanical KB,Accessories,South,B2B,Amit Verma,1,90.81,0,90.81,50.37,40.44
+ORD-10539,7/1/2024,Standing Desk,Office,North,Reseller,Amit Verma,1,788.35,15,670.1,429.98,240.12
+ORD-10540,8/25/2023,Headphones Pro,Electronics,West,Reseller,Neha Singh,3,333.14,5,949.45,626.07,323.38
+ORD-10541,10/23/2024,USB-C Hub,Accessories,South,B2B,Amit Verma,1,65.56,0,65.56,35.04,30.52
+ORD-10542,6/28/2024,Tablet S10,Electronics,East,Online,Sunita Rao,3,873.52,5,2489.53,1274.85,1214.68
+ORD-10543,4/8/2024,Headphones Pro,Electronics,North,Online,Ravi Kumar,1,333.11,5,316.45,151.19,165.26
+ORD-10544,10/16/2023,Wireless Mouse,Accessories,South,Online,Sunita Rao,1,42.6,10,38.34,21.15,17.19
+ORD-10545,12/17/2023,"Monitor 27""",Electronics,North,B2B,Priya Patel,1,314.25,10,282.82,164.75,118.07
+ORD-10546,2/27/2023,USB-C Hub,Accessories,East,Reseller,Arjun Sharma,1,67.44,0,67.44,32.8,34.64
+ORD-10547,9/12/2023,Wireless Mouse,Accessories,South,Reseller,Priya Patel,1,47.76,20,38.21,30.99,7.22
+ORD-10548,11/12/2024,Chair Ergonomic,Office,East,Retail,Arjun Sharma,5,602.14,5,2860.16,1542.75,1317.41
+ORD-10549,7/16/2024,Phone Stand,Accessories,North,Retail,Priya Patel,2,37.04,0,74.08,36.28,37.8
+ORD-10550,10/10/2024,"Monitor 27""",Electronics,West,Retail,Arjun Sharma,1,392.89,0,392.89,222.74,170.15
+ORD-10551,8/18/2024,Laptop Pro X1,Electronics,North,Retail,Ravi Kumar,3,1508.22,5,4298.43,2372.19,1926.24
+ORD-10552,4/4/2023,Standing Desk,Office,North,Online,Deepa Nair,2,721.2,0,1442.4,868.2,574.2
+ORD-10553,6/7/2023,Tablet S10,Electronics,Central,B2B,Sunita Rao,2,812.13,10,1461.83,806.5,655.33
+ORD-10554,7/17/2023,Phone Stand,Accessories,North,Reseller,Sunita Rao,1,37.35,0,37.35,18.68,18.67
+ORD-10555,10/29/2023,Chair Ergonomic,Office,East,Reseller,Amit Verma,2,683.68,5,1298.99,763.98,535.01
+ORD-10556,7/21/2024,Headphones Pro,Electronics,Central,B2B,Sunita Rao,1,374.78,5,356.04,230.07,125.97
+ORD-10557,10/15/2024,Laptop Pro X1,Electronics,East,Retail,Deepa Nair,2,1146.43,10,2063.57,1315.98,747.59
+ORD-10558,3/6/2023,Phone Stand,Accessories,West,Retail,Pooja Iyer,2,28.67,5,54.47,31.81,22.66
+ORD-10559,11/27/2023,Mechanical KB,Accessories,North,Retail,Ravi Kumar,1,91.63,0,91.63,53.31,38.32
+ORD-10560,7/26/2023,Laptop Pro X1,Electronics,West,Reseller,Vikram Das,1,1559.87,0,1559.87,902.15,657.72
+ORD-10561,12/19/2024,Headphones Pro,Electronics,North,Retail,Sunita Rao,2,203.45,0,406.9,241.52,165.38
+ORD-10562,4/24/2024,Wireless Mouse,Accessories,West,B2B,Arjun Sharma,3,56.68,0,170.04,108.43,61.61
+ORD-10563,9/30/2023,Headphones Pro,Electronics,South,Online,Priya Patel,2,309,10,556.2,287.73,268.47
+ORD-10564,8/25/2023,Phone Stand,Accessories,South,Reseller,Priya Patel,2,33.44,0,66.88,33.42,33.46
+ORD-10565,8/13/2024,Tablet S10,Electronics,South,Retail,Vikram Das,1,758.68,5,720.75,475.36,245.39
+ORD-10566,5/31/2024,Desk Lamp LED,Office,East,B2B,Vikram Das,1,78.03,0,78.03,42.03,36
+ORD-10567,1/16/2024,Webcam HD,Electronics,South,Retail,Karan Mehta,1,75.67,5,71.89,38.95,32.94
+ORD-10568,9/18/2023,Chair Ergonomic,Office,North,B2B,Pooja Iyer,1,835.74,5,793.95,376.12,417.83
+ORD-10569,6/14/2024,Laptop Pro X1,Electronics,South,B2B,Arjun Sharma,1,1605.37,15,1364.56,1038.48,326.08
+ORD-10570,10/10/2023,Phone Stand,Accessories,North,Online,Sunita Rao,4,24.82,5,94.32,56.03,38.29
+ORD-10571,6/9/2023,Webcam HD,Electronics,East,Online,Pooja Iyer,1,129.76,0,129.76,64.44,65.32
+ORD-10572,8/5/2024,Desk Lamp LED,Office,South,Reseller,Pooja Iyer,4,69.37,10,249.73,168.87,80.86
+ORD-10573,9/1/2024,Wireless Mouse,Accessories,North,B2B,Deepa Nair,2,50.51,0,101.02,53.17,47.85
+ORD-10574,3/2/2024,Desk Lamp LED,Office,Central,Online,Karan Mehta,4,60.6,0,242.4,145.33,97.07
+ORD-10575,11/9/2023,Laptop Pro X1,Electronics,South,Retail,Arjun Sharma,2,967.75,0,1935.5,997.49,938.01
+ORD-10576,2/7/2024,Tablet S10,Electronics,West,B2B,Karan Mehta,5,555.8,10,2501.1,1300.62,1200.48
+ORD-10577,5/16/2023,USB-C Hub,Accessories,East,Online,Karan Mehta,1,101.97,5,96.87,57.07,39.8
+ORD-10578,3/20/2024,Chair Ergonomic,Office,West,Reseller,Pooja Iyer,3,769.83,0,2309.49,1297.61,1011.88
+ORD-10579,7/28/2024,"Monitor 27""",Electronics,West,B2B,Pooja Iyer,2,551.3,10,992.34,511.97,480.37
+ORD-10580,4/26/2023,Wireless Mouse,Accessories,Central,Online,Amit Verma,2,55.5,5,105.45,57.07,48.38
+ORD-10581,12/25/2023,USB-C Hub,Accessories,North,Retail,Neha Singh,2,54.98,20,87.97,52.69,35.28
+ORD-10582,1/18/2024,Tablet S10,Electronics,South,Retail,Amit Verma,1,460.49,10,414.44,275.33,139.11
+ORD-10583,12/18/2023,Laptop Pro X1,Electronics,South,Retail,Neha Singh,2,904.76,0,1809.52,822.52,987
+ORD-10584,6/19/2024,Chair Ergonomic,Office,North,Reseller,Pooja Iyer,3,1051.48,5,2996.72,2045.53,951.19
+ORD-10585,6/23/2024,Tablet S10,Electronics,Central,B2B,Arjun Sharma,1,825.48,0,825.48,501.76,323.72
+ORD-10586,11/1/2024,Standing Desk,Office,East,Online,Arjun Sharma,4,450.49,0,1801.96,1049.82,752.14
+ORD-10587,10/26/2024,Mechanical KB,Accessories,East,Reseller,Pooja Iyer,1,109.74,20,87.79,64.96,22.83
+ORD-10588,4/1/2023,Chair Ergonomic,Office,North,Online,Neha Singh,1,914.99,5,869.24,581.27,287.97
+ORD-10589,11/9/2023,Chair Ergonomic,Office,East,B2B,Amit Verma,1,571.13,0,571.13,296.62,274.51
+ORD-10590,5/28/2024,"Monitor 27""",Electronics,North,B2B,Neha Singh,1,551.95,0,551.95,291.12,260.83
+ORD-10591,12/16/2023,USB-C Hub,Accessories,Central,Retail,Karan Mehta,4,53.02,10,190.87,111.65,79.22
+ORD-10592,8/9/2024,"Monitor 27""",Electronics,Central,Retail,Neha Singh,1,537.51,20,430.01,277.28,152.73
+ORD-10593,5/22/2023,Tablet S10,Electronics,Central,Retail,Karan Mehta,2,793.28,10,1427.9,757.78,670.12
+ORD-10594,11/2/2024,USB-C Hub,Accessories,North,Retail,Deepa Nair,4,57.41,15,195.19,128.94,66.25
+ORD-10595,1/31/2023,USB-C Hub,Accessories,West,B2B,Ravi Kumar,3,57.97,15,147.82,92.56,55.26
+ORD-10596,4/20/2023,"Monitor 27""",Electronics,Central,Retail,Pooja Iyer,1,541.44,0,541.44,310.46,230.98
+ORD-10597,8/25/2023,"Monitor 27""",Electronics,Central,Reseller,Deepa Nair,2,526.06,0,1052.12,573.74,478.38
+ORD-10598,2/1/2024,USB-C Hub,Accessories,North,B2B,Karan Mehta,1,65.09,0,65.09,29.71,35.38
+ORD-10599,11/18/2024,"Monitor 27""",Electronics,West,Reseller,Deepa Nair,5,317.93,10,1430.69,1010.1,420.59
+ORD-10600,9/10/2023,Standing Desk,Office,East,Reseller,Pooja Iyer,1,605.47,10,544.92,372.28,172.64
+ORD-10601,8/8/2024,Phone Stand,Accessories,Central,Online,Sunita Rao,2,34.6,5,65.74,42.03,23.71
+ORD-10602,2/13/2023,Standing Desk,Office,North,Reseller,Vikram Das,4,511.08,0,2044.32,1322.2,722.12
+ORD-10603,2/20/2023,Tablet S10,Electronics,East,Reseller,Ravi Kumar,1,572.86,5,544.22,346.43,197.79
+ORD-10604,10/29/2023,Desk Lamp LED,Office,West,Online,Vikram Das,2,50.24,0,100.48,48.07,52.41
+ORD-10605,7/4/2023,Wireless Mouse,Accessories,West,B2B,Sunita Rao,3,62.94,15,160.5,90.08,70.42
+ORD-10606,7/3/2023,Laptop Pro X1,Electronics,North,B2B,Deepa Nair,1,1701.26,15,1446.07,1065.86,380.21
+ORD-10607,10/26/2024,Phone Stand,Accessories,North,Reseller,Deepa Nair,4,25.19,10,90.68,47.83,42.85
+ORD-10608,6/20/2024,Wireless Mouse,Accessories,South,Reseller,Vikram Das,2,66.73,10,120.11,76.39,43.72
+ORD-10609,2/14/2023,Desk Lamp LED,Office,South,Retail,Ravi Kumar,3,50.48,15,128.72,88.12,40.6
+ORD-10610,12/30/2024,USB-C Hub,Accessories,East,Retail,Priya Patel,1,56.57,0,56.57,36.33,20.24
+ORD-10611,7/27/2023,USB-C Hub,Accessories,West,Online,Pooja Iyer,1,94.67,10,85.2,52.02,33.18
+ORD-10612,9/1/2023,Standing Desk,Office,Central,Online,Neha Singh,1,596.23,10,536.61,321,215.61
+ORD-10613,10/12/2023,Chair Ergonomic,Office,South,Online,Deepa Nair,2,701.24,5,1332.36,644.84,687.52
+ORD-10614,5/29/2023,Laptop Pro X1,Electronics,North,Online,Priya Patel,3,1691.81,10,4567.89,2586.89,1981
+ORD-10615,7/2/2023,Desk Lamp LED,Office,Central,Retail,Sunita Rao,1,75.52,0,75.52,44.55,30.97
+ORD-10616,8/15/2024,Phone Stand,Accessories,West,Online,Karan Mehta,1,34.25,0,34.25,17.62,16.63
+ORD-10617,3/8/2023,Chair Ergonomic,Office,Central,Reseller,Vikram Das,1,814.55,0,814.55,411.25,403.3
+ORD-10618,12/13/2024,"Monitor 27""",Electronics,Central,Online,Sunita Rao,1,316.54,0,316.54,204.44,112.1
+ORD-10619,12/6/2024,Phone Stand,Accessories,East,B2B,Vikram Das,2,20.72,10,37.3,22.19,15.11
+ORD-10620,9/30/2024,Headphones Pro,Electronics,West,Reseller,Ravi Kumar,1,300.87,0,300.87,166.66,134.21
+ORD-10621,8/27/2023,Headphones Pro,Electronics,North,Retail,Pooja Iyer,2,326.71,20,522.74,297.17,225.57
+ORD-10622,2/28/2024,Desk Lamp LED,Office,South,B2B,Amit Verma,1,51.68,0,51.68,25.45,26.23
+ORD-10623,11/12/2023,Wireless Mouse,Accessories,East,B2B,Karan Mehta,1,37.24,5,35.38,17.61,17.77
+ORD-10624,8/5/2024,Phone Stand,Accessories,East,Reseller,Sunita Rao,2,32.27,0,64.54,33.31,31.23
+ORD-10625,10/23/2024,Laptop Pro X1,Electronics,East,Reseller,Karan Mehta,1,1099.8,0,1099.8,685.22,414.58
+ORD-10626,2/27/2023,Phone Stand,Accessories,Central,Online,Neha Singh,3,25.2,0,75.6,38.79,36.81
+ORD-10627,12/2/2024,Headphones Pro,Electronics,South,B2B,Arjun Sharma,1,215.49,15,183.17,99.82,83.35
+ORD-10628,1/20/2024,Webcam HD,Electronics,Central,Online,Amit Verma,2,73.8,10,132.84,77.92,54.92
+ORD-10629,11/19/2023,Phone Stand,Accessories,East,Reseller,Amit Verma,2,20.58,0,41.16,25.74,15.42
+ORD-10630,6/21/2024,"Monitor 27""",Electronics,North,Reseller,Vikram Das,1,600.33,0,600.33,363.53,236.8
+ORD-10631,5/9/2024,Laptop Pro X1,Electronics,Central,B2B,Deepa Nair,4,1610.33,0,6441.32,3521.43,2919.89
+ORD-10632,4/11/2023,USB-C Hub,Accessories,North,Reseller,Karan Mehta,3,92.46,15,235.77,132.18,103.59
+ORD-10633,6/18/2024,Phone Stand,Accessories,North,B2B,Sunita Rao,1,35.98,0,35.98,22.29,13.69
+ORD-10634,4/16/2023,Laptop Pro X1,Electronics,East,Retail,Deepa Nair,2,1465.84,10,2638.51,1657.9,980.61
+ORD-10635,7/17/2023,"Monitor 27""",Electronics,East,Retail,Ravi Kumar,1,581.08,5,552.03,339.48,212.55
+ORD-10636,4/28/2023,Mechanical KB,Accessories,East,B2B,Amit Verma,1,148.56,5,141.13,72.99,68.14
+ORD-10637,12/22/2024,USB-C Hub,Accessories,East,Reseller,Arjun Sharma,3,53.48,5,152.42,82.19,70.23
+ORD-10638,1/30/2023,USB-C Hub,Accessories,West,Reseller,Ravi Kumar,1,56.17,10,50.55,25.88,24.67
+ORD-10639,9/2/2024,Phone Stand,Accessories,East,B2B,Deepa Nair,4,29.55,5,112.29,63.73,48.56
+ORD-10640,12/31/2024,"Monitor 27""",Electronics,West,Retail,Priya Patel,3,301.05,10,812.84,573.1,239.74
+ORD-10641,4/24/2024,Phone Stand,Accessories,West,Retail,Neha Singh,1,33.83,0,33.83,20.41,13.42
+ORD-10642,9/23/2024,USB-C Hub,Accessories,East,B2B,Sunita Rao,1,76.5,0,76.5,48.46,28.04
+ORD-10643,1/31/2023,Standing Desk,Office,East,B2B,Pooja Iyer,1,442.43,0,442.43,273.93,168.5
+ORD-10644,5/11/2023,Headphones Pro,Electronics,Central,Online,Amit Verma,2,384.75,5,731.02,362.74,368.28
+ORD-10645,4/17/2024,Chair Ergonomic,Office,West,Reseller,Priya Patel,1,929.96,5,883.46,520.4,363.06
+ORD-10646,8/2/2023,Webcam HD,Electronics,East,Retail,Ravi Kumar,3,117.09,5,333.71,188.66,145.05
+ORD-10647,11/16/2024,Tablet S10,Electronics,Central,Reseller,Deepa Nair,1,483.95,15,411.36,264.88,146.48
+ORD-10648,4/10/2023,Chair Ergonomic,Office,North,Reseller,Deepa Nair,3,960.74,0,2882.22,1337.12,1545.1
+ORD-10649,10/22/2024,Standing Desk,Office,North,Retail,Ravi Kumar,2,525.29,0,1050.58,659.19,391.39
+ORD-10650,6/28/2024,Standing Desk,Office,East,B2B,Pooja Iyer,1,774.59,5,735.86,380.43,355.43
+ORD-10651,11/8/2023,Tablet S10,Electronics,North,Online,Pooja Iyer,4,490.85,15,1668.89,1242.88,426.01
+ORD-10652,2/18/2024,Chair Ergonomic,Office,North,Online,Vikram Das,3,649.43,15,1656.05,1227.84,428.21
+ORD-10653,4/23/2023,Webcam HD,Electronics,West,B2B,Karan Mehta,3,110.84,15,282.64,196.33,86.31
+ORD-10654,1/26/2024,Desk Lamp LED,Office,Central,Reseller,Deepa Nair,1,42.25,0,42.25,20.19,22.06
+ORD-10655,6/7/2023,Desk Lamp LED,Office,North,Retail,Sunita Rao,1,73.83,15,62.76,33.39,29.37
+ORD-10656,3/23/2024,Tablet S10,Electronics,West,Reseller,Pooja Iyer,5,625.46,0,3127.3,1911.37,1215.93
+ORD-10657,4/10/2024,USB-C Hub,Accessories,South,Reseller,Pooja Iyer,2,90.4,5,171.76,94.21,77.55
+ORD-10658,8/14/2024,Laptop Pro X1,Electronics,Central,B2B,Arjun Sharma,1,1525.54,10,1372.99,768.64,604.35
+ORD-10659,8/4/2024,Laptop Pro X1,Electronics,North,Retail,Vikram Das,1,1505.84,0,1505.84,967.27,538.57
+ORD-10660,4/21/2024,Mechanical KB,Accessories,North,B2B,Pooja Iyer,2,149.98,5,284.96,149.69,135.27
+ORD-10661,12/18/2023,Laptop Pro X1,Electronics,Central,B2B,Karan Mehta,2,905.12,0,1810.24,1142.64,667.6
+ORD-10662,10/29/2023,Webcam HD,Electronics,Central,B2B,Arjun Sharma,1,87.71,0,87.71,52.62,35.09
+ORD-10663,4/29/2024,Tablet S10,Electronics,Central,Online,Amit Verma,2,758.02,5,1440.24,770.68,669.56
+ORD-10664,3/26/2023,Standing Desk,Office,Central,B2B,Amit Verma,1,616,0,616,308.25,307.75
+ORD-10665,1/15/2023,Mechanical KB,Accessories,West,B2B,Ravi Kumar,2,99.4,5,188.86,118.84,70.02
+ORD-10666,12/18/2024,Mechanical KB,Accessories,North,Retail,Pooja Iyer,1,90.55,0,90.55,41.35,49.2
+ORD-10667,5/22/2024,USB-C Hub,Accessories,South,Retail,Pooja Iyer,3,98.36,5,280.33,171.78,108.55
+ORD-10668,12/20/2023,Phone Stand,Accessories,West,Reseller,Sunita Rao,1,20.95,0,20.95,9.65,11.3
+ORD-10669,5/2/2024,Mechanical KB,Accessories,West,Reseller,Amit Verma,2,163.04,10,293.47,171.51,121.96
+ORD-10670,6/27/2024,USB-C Hub,Accessories,East,Online,Priya Patel,4,107.09,0,428.36,231.21,197.15
+ORD-10671,10/14/2024,Chair Ergonomic,Office,East,B2B,Amit Verma,1,686.65,10,617.98,398.54,219.44
+ORD-10672,4/11/2023,Mechanical KB,Accessories,South,Retail,Vikram Das,1,147.77,5,140.38,86.45,53.93
+ORD-10673,11/24/2024,Webcam HD,Electronics,North,Online,Karan Mehta,2,73.63,0,147.26,86.08,61.18
+ORD-10674,6/21/2024,Wireless Mouse,Accessories,South,Online,Arjun Sharma,1,61.91,5,58.81,31.37,27.44
+ORD-10675,4/5/2023,Headphones Pro,Electronics,Central,Online,Priya Patel,1,357.4,5,339.53,176.33,163.2
+ORD-10676,9/11/2024,Wireless Mouse,Accessories,South,Online,Ravi Kumar,1,50.96,10,45.86,28.7,17.16
+ORD-10677,10/29/2023,Mechanical KB,Accessories,East,Reseller,Deepa Nair,1,111.17,15,94.49,70.54,23.95
+ORD-10678,6/15/2023,Mechanical KB,Accessories,North,B2B,Amit Verma,3,160.36,0,481.08,253.87,227.21
+ORD-10679,3/27/2024,USB-C Hub,Accessories,West,Online,Ravi Kumar,1,76.64,20,61.31,40.51,20.8
+ORD-10680,3/17/2024,Chair Ergonomic,Office,North,Online,Priya Patel,1,831.97,5,790.37,493.42,296.95
+ORD-10681,8/8/2024,Wireless Mouse,Accessories,North,Online,Karan Mehta,2,53.64,10,96.55,58.95,37.6
+ORD-10682,6/5/2023,Mechanical KB,Accessories,West,Reseller,Karan Mehta,2,168.95,15,287.21,186.88,100.33
+ORD-10683,3/13/2023,Desk Lamp LED,Office,West,Online,Pooja Iyer,2,61.68,0,123.36,75.69,47.67
+ORD-10684,1/3/2024,Chair Ergonomic,Office,North,B2B,Vikram Das,1,565.11,0,565.11,366.98,198.13
+ORD-10685,3/24/2023,Webcam HD,Electronics,Central,Online,Karan Mehta,3,96.92,10,261.68,142.65,119.03
+ORD-10686,7/15/2023,Tablet S10,Electronics,West,Online,Sunita Rao,1,785.46,0,785.46,461.67,323.79
+ORD-10687,7/14/2023,Phone Stand,Accessories,West,Reseller,Priya Patel,1,37.34,0,37.34,21.23,16.11
+ORD-10688,10/20/2024,Chair Ergonomic,Office,North,Online,Deepa Nair,1,701.85,5,666.76,378.9,287.86
+ORD-10689,12/12/2023,Laptop Pro X1,Electronics,Central,Reseller,Vikram Das,3,874.58,0,2623.74,1604.21,1019.53
+ORD-10690,8/16/2024,USB-C Hub,Accessories,North,Reseller,Pooja Iyer,1,92.99,0,92.99,50.94,42.05
+ORD-10691,9/6/2023,Laptop Pro X1,Electronics,East,Online,Sunita Rao,2,1256.43,0,2512.86,1155.89,1356.97
+ORD-10692,6/24/2023,Headphones Pro,Electronics,Central,Retail,Priya Patel,3,401.04,0,1203.12,568.88,634.24
+ORD-10693,3/12/2024,"Monitor 27""",Electronics,North,Retail,Deepa Nair,1,459.68,10,413.71,243.82,169.89
+ORD-10694,2/16/2023,"Monitor 27""",Electronics,West,Retail,Deepa Nair,2,367.18,0,734.36,351.21,383.15
+ORD-10695,6/18/2023,Chair Ergonomic,Office,Central,Reseller,Ravi Kumar,1,990.99,15,842.34,465.76,376.58
+ORD-10696,5/13/2024,Laptop Pro X1,Electronics,Central,B2B,Karan Mehta,1,1706.23,0,1706.23,1008.98,697.25
+ORD-10697,5/2/2024,Phone Stand,Accessories,West,Retail,Ravi Kumar,2,37.05,0,74.1,41.1,33
+ORD-10698,12/9/2024,Headphones Pro,Electronics,East,B2B,Karan Mehta,1,209.3,0,209.3,133.96,75.34
+ORD-10699,7/25/2024,Laptop Pro X1,Electronics,East,Retail,Sunita Rao,1,1641.43,0,1641.43,770.06,871.37
+ORD-10700,11/6/2024,Tablet S10,Electronics,West,Reseller,Ravi Kumar,1,461.78,0,461.78,221.58,240.2
+ORD-10701,11/17/2024,USB-C Hub,Accessories,East,B2B,Pooja Iyer,4,57.68,0,230.72,113.5,117.22
+ORD-10702,2/14/2023,Standing Desk,Office,North,Reseller,Vikram Das,1,511.05,0,511.05,246.13,264.92
+ORD-10703,3/14/2023,Wireless Mouse,Accessories,South,B2B,Neha Singh,4,49.45,10,178.02,101.91,76.11
+ORD-10704,11/30/2023,Wireless Mouse,Accessories,South,Online,Sunita Rao,1,35.95,0,35.95,17.62,18.33
+ORD-10705,5/11/2024,Headphones Pro,Electronics,South,Reseller,Deepa Nair,1,365.99,5,347.69,209.3,138.39
+ORD-10706,4/13/2024,USB-C Hub,Accessories,South,Online,Pooja Iyer,2,95.17,5,180.82,93.35,87.47
+ORD-10707,10/15/2023,Laptop Pro X1,Electronics,East,Retail,Amit Verma,1,1099.58,15,934.64,532.46,402.18
+ORD-10708,6/10/2023,Headphones Pro,Electronics,Central,Retail,Priya Patel,3,393.04,5,1120.16,570.68,549.48
+ORD-10709,6/18/2024,Desk Lamp LED,Office,East,Online,Karan Mehta,1,77.4,20,61.92,47.79,14.13
+ORD-10710,9/10/2023,Phone Stand,Accessories,South,Online,Karan Mehta,1,28.19,5,26.78,17.91,8.87
+ORD-10711,2/11/2023,Laptop Pro X1,Electronics,West,Reseller,Priya Patel,5,1104.62,10,4970.79,2955.63,2015.16
+ORD-10712,5/22/2024,Standing Desk,Office,South,Retail,Deepa Nair,1,717.83,5,681.94,428.08,253.86
+ORD-10713,9/2/2023,Mechanical KB,Accessories,West,Online,Sunita Rao,2,128.74,0,257.48,131.56,125.92
+ORD-10714,5/22/2023,Standing Desk,Office,West,Online,Priya Patel,4,776.5,5,2950.7,1627.81,1322.89
+ORD-10715,12/8/2024,Desk Lamp LED,Office,Central,Retail,Priya Patel,1,40.99,0,40.99,20.66,20.33
+ORD-10716,12/10/2023,Headphones Pro,Electronics,North,Online,Karan Mehta,2,218.62,0,437.24,255.76,181.48
+ORD-10717,4/21/2024,Webcam HD,Electronics,North,Retail,Ravi Kumar,2,110.15,0,220.3,123.76,96.54
+ORD-10718,9/2/2023,Webcam HD,Electronics,South,Retail,Deepa Nair,2,101.35,5,192.56,121.71,70.85
+ORD-10719,10/1/2023,Webcam HD,Electronics,West,Reseller,Vikram Das,2,80.4,5,152.76,84.35,68.41
+ORD-10720,5/6/2023,Chair Ergonomic,Office,West,B2B,Priya Patel,1,1039.34,5,987.37,654.67,332.7
+ORD-10721,4/13/2024,"Monitor 27""",Electronics,North,Online,Ravi Kumar,1,499.77,0,499.77,320.68,179.09
+ORD-10722,4/25/2023,Mechanical KB,Accessories,North,B2B,Karan Mehta,2,153.91,5,292.43,170.57,121.86
+ORD-10723,7/8/2024,Tablet S10,Electronics,North,B2B,Neha Singh,4,811.08,5,3082.1,1938.62,1143.48
+ORD-10724,1/23/2023,Wireless Mouse,Accessories,West,B2B,Deepa Nair,4,37.89,0,151.56,87.74,63.82
+ORD-10725,8/30/2024,Standing Desk,Office,Central,Retail,Amit Verma,2,692.19,5,1315.16,749.78,565.38
+ORD-10726,9/24/2023,USB-C Hub,Accessories,South,B2B,Amit Verma,1,77.33,0,77.33,47.88,29.45
+ORD-10727,6/20/2023,Standing Desk,Office,South,Retail,Ravi Kumar,2,781.45,0,1562.9,760.28,802.62
+ORD-10728,4/30/2023,"Monitor 27""",Electronics,South,Retail,Vikram Das,1,497.06,0,497.06,249.56,247.5
+ORD-10729,2/5/2023,Phone Stand,Accessories,South,B2B,Priya Patel,2,23.78,20,38.05,25.67,12.38
+ORD-10730,2/19/2024,Laptop Pro X1,Electronics,South,Online,Vikram Das,4,1153.59,10,4152.92,2932.71,1220.21
+ORD-10731,12/6/2023,Chair Ergonomic,Office,Central,Retail,Pooja Iyer,2,581.45,0,1162.9,748.82,414.08
+ORD-10732,3/28/2024,Phone Stand,Accessories,Central,Online,Amit Verma,1,28.94,0,28.94,13.25,15.69
+ORD-10733,2/16/2024,Laptop Pro X1,Electronics,Central,Retail,Pooja Iyer,2,1088.4,0,2176.8,1121.65,1055.15
+ORD-10734,8/16/2023,Chair Ergonomic,Office,West,Online,Vikram Das,3,890.89,10,2405.4,1247.38,1158.02
+ORD-10735,7/19/2023,Desk Lamp LED,Office,East,Reseller,Ravi Kumar,1,74.41,5,70.69,34.32,36.37
+ORD-10736,3/13/2024,Phone Stand,Accessories,West,Online,Neha Singh,1,28.38,0,28.38,14.77,13.61
+ORD-10737,3/30/2024,Phone Stand,Accessories,West,Reseller,Ravi Kumar,2,28.83,5,54.78,27.84,26.94
+ORD-10738,9/4/2024,Headphones Pro,Electronics,East,Online,Pooja Iyer,1,298.24,0,298.24,185.95,112.29
+ORD-10739,4/1/2023,Desk Lamp LED,Office,West,Retail,Neha Singh,1,66.31,5,62.99,32.16,30.83
+ORD-10740,1/26/2024,USB-C Hub,Accessories,Central,B2B,Sunita Rao,1,60.36,5,57.34,30.81,26.53
+ORD-10741,4/19/2024,Chair Ergonomic,Office,West,Online,Amit Verma,1,887.06,10,798.35,452.43,345.92
+ORD-10742,7/3/2023,Desk Lamp LED,Office,East,Reseller,Priya Patel,1,72.43,10,65.19,34.32,30.87
+ORD-10743,1/6/2024,Headphones Pro,Electronics,West,Online,Deepa Nair,2,229.47,5,435.99,264.17,171.82
+ORD-10744,8/12/2024,Chair Ergonomic,Office,West,Retail,Deepa Nair,1,926.35,0,926.35,443.93,482.42
+ORD-10745,2/24/2023,USB-C Hub,Accessories,East,B2B,Vikram Das,1,69.92,5,66.42,36.44,29.98
+ORD-10746,3/20/2023,Tablet S10,Electronics,South,B2B,Deepa Nair,2,628.44,10,1131.19,589.35,541.84
+ORD-10747,11/5/2023,Tablet S10,Electronics,East,Retail,Arjun Sharma,1,473.78,10,426.4,263.84,162.56
+ORD-10748,6/14/2024,USB-C Hub,Accessories,South,Online,Neha Singh,1,101.8,10,91.62,64.56,27.06
+ORD-10749,5/30/2024,USB-C Hub,Accessories,Central,Online,Karan Mehta,1,103.48,0,103.48,59.26,44.22
+ORD-10750,3/20/2023,Standing Desk,Office,East,Retail,Sunita Rao,1,570.09,0,570.09,296.24,273.85
+ORD-10751,6/19/2024,Headphones Pro,Electronics,North,Retail,Ravi Kumar,3,396.86,0,1190.58,542.61,647.97
+ORD-10752,5/26/2023,Phone Stand,Accessories,West,Online,Priya Patel,2,35.47,0,70.94,45.84,25.1
+ORD-10753,5/10/2024,Laptop Pro X1,Electronics,Central,Online,Sunita Rao,3,1572.31,0,4716.93,2870.78,1846.15
+ORD-10754,9/17/2023,Wireless Mouse,Accessories,North,Retail,Pooja Iyer,1,46.6,0,46.6,21.87,24.73
+ORD-10755,7/9/2023,"Monitor 27""",Electronics,East,B2B,Deepa Nair,2,545.6,0,1091.2,653.89,437.31
+ORD-10756,5/27/2024,USB-C Hub,Accessories,Central,Online,Vikram Das,3,99.57,5,283.77,138.5,145.27
+ORD-10757,7/16/2023,"Monitor 27""",Electronics,North,Retail,Vikram Das,5,580.02,0,2900.1,1307.56,1592.54
+ORD-10758,5/1/2024,Phone Stand,Accessories,South,B2B,Karan Mehta,1,36.31,5,34.49,23.29,11.2
+ORD-10759,8/8/2023,Desk Lamp LED,Office,West,Online,Vikram Das,2,69.62,5,132.28,71.41,60.87
+ORD-10760,5/22/2024,USB-C Hub,Accessories,East,Reseller,Priya Patel,3,100.09,10,270.24,137.56,132.68
+ORD-10761,10/18/2023,Desk Lamp LED,Office,South,Reseller,Amit Verma,1,51.09,10,45.98,31.58,14.4
+ORD-10762,7/13/2023,Desk Lamp LED,Office,East,Retail,Arjun Sharma,3,76.58,15,195.28,146.53,48.75
+ORD-10763,5/18/2024,Tablet S10,Electronics,North,Retail,Karan Mehta,2,819.47,0,1638.94,959.28,679.66
+ORD-10764,12/12/2024,Desk Lamp LED,Office,North,B2B,Neha Singh,2,43.06,0,86.12,55.6,30.52
+ORD-10765,7/25/2023,Webcam HD,Electronics,West,B2B,Pooja Iyer,2,120.02,20,192.03,148.25,43.78
+ORD-10766,10/7/2023,Headphones Pro,Electronics,Central,Reseller,Sunita Rao,3,265.41,10,716.61,415.01,301.6
+ORD-10767,10/13/2023,Chair Ergonomic,Office,South,Retail,Arjun Sharma,1,653.49,5,620.82,358.03,262.79
+ORD-10768,2/24/2023,Wireless Mouse,Accessories,Central,B2B,Ravi Kumar,3,39.68,5,113.09,57.83,55.26
+ORD-10769,9/28/2024,Mechanical KB,Accessories,West,Reseller,Neha Singh,2,131.08,10,235.94,145.23,90.71
+ORD-10770,11/8/2024,Mechanical KB,Accessories,Central,Online,Arjun Sharma,1,95.89,5,91.1,58.67,32.43
+ORD-10771,5/2/2023,Desk Lamp LED,Office,North,Retail,Vikram Das,1,73.41,0,73.41,39.78,33.63
+ORD-10772,11/7/2023,Tablet S10,Electronics,West,Reseller,Priya Patel,4,477.05,0,1908.2,977.94,930.26
+ORD-10773,11/22/2024,Headphones Pro,Electronics,Central,Retail,Vikram Das,1,222.19,5,211.08,120.86,90.22
+ORD-10774,2/5/2024,Laptop Pro X1,Electronics,East,B2B,Arjun Sharma,1,1090.66,5,1036.13,638.36,397.77
+ORD-10775,8/27/2024,Laptop Pro X1,Electronics,North,B2B,Karan Mehta,1,1471.27,10,1324.14,880.42,443.72
+ORD-10776,3/14/2024,Wireless Mouse,Accessories,South,Retail,Amit Verma,1,48.27,0,48.27,28.11,20.16
+ORD-10777,3/28/2023,Headphones Pro,Electronics,North,B2B,Arjun Sharma,4,293.17,0,1172.68,606.88,565.8
+ORD-10778,11/4/2024,Standing Desk,Office,West,Online,Deepa Nair,3,461.17,5,1314.33,696.35,617.98
+ORD-10779,8/7/2024,Desk Lamp LED,Office,South,B2B,Sunita Rao,1,69.94,5,66.44,32.87,33.57
+ORD-10780,11/14/2024,Chair Ergonomic,Office,West,Online,Vikram Das,1,583.33,5,554.16,313.36,240.8
+ORD-10781,10/22/2023,"Monitor 27""",Electronics,Central,Online,Pooja Iyer,1,384.46,0,384.46,234.87,149.59
+ORD-10782,8/29/2024,Wireless Mouse,Accessories,South,B2B,Priya Patel,1,58.05,0,58.05,31.64,26.41
+ORD-10783,11/6/2023,Tablet S10,Electronics,West,Reseller,Amit Verma,2,488.24,0,976.48,500.61,475.87
+ORD-10784,6/11/2024,Headphones Pro,Electronics,Central,Retail,Pooja Iyer,1,376.28,10,338.65,170.73,167.92
+ORD-10785,8/7/2023,Standing Desk,Office,Central,Reseller,Pooja Iyer,2,719.03,10,1294.25,724.19,570.06
+ORD-10786,10/3/2024,Phone Stand,Accessories,East,Reseller,Karan Mehta,1,24.56,0,24.56,12.23,12.33
+ORD-10787,3/7/2023,Webcam HD,Electronics,South,B2B,Pooja Iyer,2,96.69,10,174.04,98.12,75.92
+ORD-10788,2/20/2024,"Monitor 27""",Electronics,East,Reseller,Sunita Rao,1,363.62,0,363.62,221.59,142.03
+ORD-10789,3/22/2024,Chair Ergonomic,Office,North,B2B,Amit Verma,1,775.19,15,658.91,391.12,267.79
+ORD-10790,7/17/2024,Tablet S10,Electronics,North,Online,Priya Patel,1,855.54,15,727.21,468.12,259.09
+ORD-10791,9/8/2024,Webcam HD,Electronics,North,Reseller,Ravi Kumar,1,103.51,0,103.51,65.14,38.37
+ORD-10792,4/25/2023,"Monitor 27""",Electronics,Central,B2B,Sunita Rao,2,496.76,5,943.84,579.07,364.77
+ORD-10793,9/1/2023,Wireless Mouse,Accessories,West,Retail,Karan Mehta,2,48.09,10,86.56,59.29,27.27
+ORD-10794,5/28/2023,"Monitor 27""",Electronics,Central,Online,Sunita Rao,1,552.9,0,552.9,293.96,258.94
+ORD-10795,1/19/2024,Chair Ergonomic,Office,South,B2B,Ravi Kumar,2,594.12,0,1188.24,647.56,540.68
+ORD-10796,5/1/2024,Webcam HD,Electronics,Central,Online,Arjun Sharma,2,118.75,10,213.75,152.8,60.95
+ORD-10797,11/18/2024,Phone Stand,Accessories,East,Online,Vikram Das,1,21.06,5,20.01,13.51,6.5
+ORD-10798,3/29/2024,"Monitor 27""",Electronics,East,B2B,Priya Patel,1,444.19,15,377.56,286.77,90.79
+ORD-10799,11/1/2023,"Monitor 27""",Electronics,West,Online,Amit Verma,1,346.17,15,294.24,199.49,94.75
+ORD-10800,5/18/2024,Wireless Mouse,Accessories,North,Retail,Amit Verma,1,63.84,5,60.65,37.89,22.76
+ORD-10801,3/9/2023,Chair Ergonomic,Office,West,Online,Arjun Sharma,1,824.04,5,782.84,492.41,290.43
+ORD-10802,10/18/2024,Tablet S10,Electronics,South,B2B,Deepa Nair,1,559.43,5,531.46,252.09,279.37
+ORD-10803,3/26/2023,Headphones Pro,Electronics,South,Reseller,Deepa Nair,1,305.39,0,305.39,184.31,121.08
+ORD-10804,5/4/2024,Standing Desk,Office,East,B2B,Neha Singh,4,729.98,0,2919.92,1660.28,1259.64
+ORD-10805,2/29/2024,Wireless Mouse,Accessories,Central,Retail,Arjun Sharma,1,41.14,0,41.14,25.38,15.76
+ORD-10806,7/25/2024,Laptop Pro X1,Electronics,South,B2B,Ravi Kumar,2,1703.07,5,3235.83,2196.37,1039.46
+ORD-10807,2/15/2024,Laptop Pro X1,Electronics,South,Online,Arjun Sharma,2,1065.42,5,2024.3,1367.16,657.14
+ORD-10808,6/22/2024,Phone Stand,Accessories,North,Retail,Neha Singh,1,37.53,15,31.9,21.94,9.96
+ORD-10809,9/30/2023,"Monitor 27""",Electronics,Central,Retail,Amit Verma,1,432.4,5,410.78,268.64,142.14
+ORD-10810,11/24/2024,Phone Stand,Accessories,East,Retail,Pooja Iyer,1,22.09,0,22.09,10.07,12.02
+ORD-10811,9/12/2023,Standing Desk,Office,South,B2B,Karan Mehta,1,596.49,10,536.84,269.65,267.19
+ORD-10812,8/6/2023,Tablet S10,Electronics,North,Online,Arjun Sharma,2,763.97,10,1375.15,765.87,609.28
+ORD-10813,8/29/2023,Webcam HD,Electronics,Central,Online,Arjun Sharma,1,115.06,0,115.06,67.21,47.85
+ORD-10814,5/31/2024,Mechanical KB,Accessories,Central,Online,Pooja Iyer,2,160.8,0,321.6,168.58,153.02
+ORD-10815,9/24/2023,USB-C Hub,Accessories,North,B2B,Vikram Das,1,77.73,5,73.84,42.26,31.58
+ORD-10816,5/26/2023,Desk Lamp LED,Office,East,B2B,Karan Mehta,1,77.89,0,77.89,42.83,35.06
+ORD-10817,9/27/2023,Mechanical KB,Accessories,South,B2B,Sunita Rao,2,125.95,10,226.71,129.12,97.59
+ORD-10818,7/23/2024,USB-C Hub,Accessories,South,Online,Neha Singh,3,102.49,10,276.72,141.63,135.09
+ORD-10819,2/6/2023,USB-C Hub,Accessories,West,Online,Sunita Rao,1,66.93,0,66.93,31.67,35.26
+ORD-10820,12/27/2024,Webcam HD,Electronics,South,Online,Deepa Nair,2,66.61,5,126.56,79.13,47.43
+ORD-10821,7/28/2023,Wireless Mouse,Accessories,East,Retail,Pooja Iyer,3,59.68,0,179.04,98.78,80.26
+ORD-10822,6/22/2024,Laptop Pro X1,Electronics,West,Online,Deepa Nair,3,1759.7,0,5279.1,2635.49,2643.61
+ORD-10823,10/19/2023,Laptop Pro X1,Electronics,North,B2B,Ravi Kumar,2,1092.46,10,1966.43,1241.18,725.25
+ORD-10824,3/25/2023,Laptop Pro X1,Electronics,East,Online,Deepa Nair,1,1296.38,10,1166.74,746.29,420.45
+ORD-10825,11/2/2024,Laptop Pro X1,Electronics,Central,Retail,Neha Singh,2,1004.53,5,1908.61,1305.82,602.79
+ORD-10826,10/21/2024,Laptop Pro X1,Electronics,Central,Reseller,Priya Patel,1,1131.07,10,1017.96,632.76,385.2
+ORD-10827,9/19/2023,Desk Lamp LED,Office,South,Retail,Karan Mehta,1,61.16,20,48.93,28.61,20.32
+ORD-10828,10/19/2023,Desk Lamp LED,Office,West,B2B,Pooja Iyer,2,48.42,20,77.47,49.36,28.11
+ORD-10829,1/3/2024,USB-C Hub,Accessories,West,Reseller,Amit Verma,2,58.55,10,105.39,64.16,41.23
+ORD-10830,9/6/2024,Headphones Pro,Electronics,West,Reseller,Priya Patel,1,308.3,10,277.47,176.59,100.88
+ORD-10831,6/9/2024,Laptop Pro X1,Electronics,South,Reseller,Vikram Das,1,1642.13,5,1560.02,964.34,595.68
+ORD-10832,10/24/2024,Tablet S10,Electronics,West,B2B,Ravi Kumar,2,548.19,0,1096.38,692.3,404.08
+ORD-10833,12/1/2024,USB-C Hub,Accessories,North,Online,Arjun Sharma,4,55.43,10,199.55,112.88,86.67
+ORD-10834,4/21/2023,Chair Ergonomic,Office,East,B2B,Amit Verma,2,915.6,5,1739.64,1087.85,651.79
+ORD-10835,3/25/2023,Headphones Pro,Electronics,South,Reseller,Arjun Sharma,3,306.19,0,918.57,498.39,420.18
+ORD-10836,3/2/2024,Wireless Mouse,Accessories,West,B2B,Deepa Nair,4,49.43,0,197.72,106.97,90.75
+ORD-10837,8/5/2023,USB-C Hub,Accessories,North,Reseller,Vikram Das,1,91.8,10,82.62,57.31,25.31
+ORD-10838,1/6/2023,Laptop Pro X1,Electronics,West,Reseller,Amit Verma,1,976.49,0,976.49,529.29,447.2
+ORD-10839,9/23/2024,Headphones Pro,Electronics,East,Online,Ravi Kumar,1,304.69,10,274.22,161.18,113.04
+ORD-10840,1/15/2023,USB-C Hub,Accessories,North,Retail,Sunita Rao,1,59.62,10,53.66,29.07,24.59
+ORD-10841,5/29/2023,Tablet S10,Electronics,South,Online,Amit Verma,2,827.92,5,1573.05,1006.75,566.3
+ORD-10842,6/1/2023,Standing Desk,Office,West,Reseller,Sunita Rao,1,752.7,0,752.7,361.66,391.04
+ORD-10843,4/5/2024,Laptop Pro X1,Electronics,North,B2B,Arjun Sharma,2,1504.22,0,3008.44,1855.51,1152.93
+ORD-10844,10/7/2024,Wireless Mouse,Accessories,Central,B2B,Arjun Sharma,3,41.3,5,117.7,68.04,49.66
+ORD-10845,2/14/2024,Standing Desk,Office,West,Retail,Arjun Sharma,1,514.83,5,489.09,301.55,187.54
+ORD-10846,1/20/2023,Chair Ergonomic,Office,West,Reseller,Priya Patel,1,565.6,0,565.6,355.52,210.08
+ORD-10847,9/29/2024,Standing Desk,Office,East,Retail,Sunita Rao,4,610.83,0,2443.32,1109.66,1333.66
+ORD-10848,3/24/2024,Webcam HD,Electronics,Central,Reseller,Ravi Kumar,1,103.05,0,103.05,53.36,49.69
+ORD-10849,12/29/2024,Mechanical KB,Accessories,East,Reseller,Ravi Kumar,1,94.28,5,89.57,54.73,34.84
+ORD-10850,8/1/2023,Headphones Pro,Electronics,South,Retail,Pooja Iyer,1,349.59,10,314.63,166.34,148.29
+ORD-10851,4/14/2023,Standing Desk,Office,Central,Online,Arjun Sharma,3,688.42,15,1755.47,1026.32,729.15
+ORD-10852,9/25/2023,Webcam HD,Electronics,North,Online,Deepa Nair,1,102.25,0,102.25,64.3,37.95
+ORD-10853,4/27/2023,Desk Lamp LED,Office,East,B2B,Arjun Sharma,2,65.98,0,131.96,66.19,65.77
+ORD-10854,10/1/2023,Chair Ergonomic,Office,North,Online,Sunita Rao,4,704.53,15,2395.4,1608.75,786.65
+ORD-10855,4/24/2023,Standing Desk,Office,North,Online,Vikram Das,5,696.4,10,3133.8,2164.68,969.12
+ORD-10856,6/21/2023,Wireless Mouse,Accessories,East,Reseller,Vikram Das,2,66.32,15,112.74,63.85,48.89
+ORD-10857,4/12/2023,Standing Desk,Office,South,Reseller,Karan Mehta,1,710.84,0,710.84,337.36,373.48
+ORD-10858,9/9/2023,Laptop Pro X1,Electronics,East,B2B,Karan Mehta,3,1271.3,5,3623.2,1846.89,1776.31
+ORD-10859,10/6/2024,Webcam HD,Electronics,South,Retail,Karan Mehta,2,86.28,0,172.56,92.21,80.35
+ORD-10860,2/24/2024,Desk Lamp LED,Office,North,Reseller,Ravi Kumar,4,50.23,20,160.74,117.83,42.91
+ORD-10861,6/13/2024,Laptop Pro X1,Electronics,South,Reseller,Arjun Sharma,4,1657.43,0,6629.72,4285.38,2344.34
+ORD-10862,2/7/2023,Desk Lamp LED,Office,Central,B2B,Karan Mehta,2,52.17,5,99.12,48.16,50.96
+ORD-10863,11/28/2024,Desk Lamp LED,Office,East,Online,Amit Verma,2,44.64,15,75.89,45.78,30.11
+ORD-10864,9/17/2024,Chair Ergonomic,Office,Central,Reseller,Deepa Nair,4,794.7,10,2860.92,1560.88,1300.04
+ORD-10865,2/19/2024,Tablet S10,Electronics,West,Retail,Vikram Das,3,528.72,15,1348.24,884.26,463.98
+ORD-10866,10/18/2023,Chair Ergonomic,Office,South,Online,Arjun Sharma,1,666.4,5,633.08,345.29,287.79
+ORD-10867,8/29/2024,Chair Ergonomic,Office,Central,Online,Arjun Sharma,1,900.84,10,810.76,481.54,329.22
+ORD-10868,9/23/2023,Webcam HD,Electronics,North,Reseller,Amit Verma,2,94.52,0,189.04,109.68,79.36
+ORD-10869,1/6/2023,Headphones Pro,Electronics,Central,Retail,Deepa Nair,1,228.08,20,182.46,147.75,34.71
+ORD-10870,10/19/2023,Mechanical KB,Accessories,West,Retail,Priya Patel,2,110.45,10,198.81,105.59,93.22
+ORD-10871,6/12/2024,Webcam HD,Electronics,West,Reseller,Priya Patel,2,126.91,10,228.44,119.19,109.25
+ORD-10872,3/5/2023,Wireless Mouse,Accessories,Central,Reseller,Pooja Iyer,1,47.6,0,47.6,22.16,25.44
+ORD-10873,6/15/2024,Chair Ergonomic,Office,West,Reseller,Karan Mehta,3,1047.46,15,2671.02,1814.07,856.95
+ORD-10874,5/28/2023,USB-C Hub,Accessories,Central,Online,Neha Singh,2,99.1,5,188.29,127.56,60.73
+ORD-10875,4/29/2024,Standing Desk,Office,North,Reseller,Priya Patel,1,692.92,0,692.92,439.55,253.37
+ORD-10876,1/14/2024,Wireless Mouse,Accessories,East,B2B,Amit Verma,2,35.01,0,70.02,36.71,33.31
+ORD-10877,1/29/2023,Standing Desk,Office,East,B2B,Neha Singh,3,447.35,0,1342.05,616.98,725.07
+ORD-10878,5/15/2024,USB-C Hub,Accessories,West,B2B,Pooja Iyer,1,95.22,5,90.46,43.7,46.76
+ORD-10879,12/12/2023,Standing Desk,Office,South,Reseller,Sunita Rao,3,428.53,5,1221.31,734.25,487.06
+ORD-10880,4/4/2024,Tablet S10,Electronics,Central,Reseller,Karan Mehta,1,715.7,10,644.13,411.49,232.64
+ORD-10881,2/9/2024,"Monitor 27""",Electronics,East,Online,Ravi Kumar,1,388.15,0,388.15,209.07,179.08
+ORD-10882,1/26/2023,Phone Stand,Accessories,North,Online,Neha Singh,2,21.91,10,39.44,24.64,14.8
+ORD-10883,7/8/2024,Headphones Pro,Electronics,West,Online,Priya Patel,2,379.33,0,758.66,370.13,388.53
+ORD-10884,6/28/2024,Tablet S10,Electronics,Central,Reseller,Priya Patel,1,867.89,0,867.89,433.13,434.76
+ORD-10885,9/13/2024,Chair Ergonomic,Office,East,Reseller,Ravi Kumar,1,798.32,5,758.4,508.35,250.05
+ORD-10886,1/25/2023,Desk Lamp LED,Office,North,Retail,Amit Verma,3,42.61,0,127.83,60.45,67.38
+ORD-10887,7/7/2023,USB-C Hub,Accessories,South,Online,Pooja Iyer,1,97.6,0,97.6,51.87,45.73
+ORD-10888,7/5/2023,Webcam HD,Electronics,West,B2B,Amit Verma,1,123.35,0,123.35,63.4,59.95
+ORD-10889,5/4/2023,Desk Lamp LED,Office,Central,Reseller,Priya Patel,1,75.05,0,75.05,37.32,37.73
+ORD-10890,3/4/2023,Mechanical KB,Accessories,South,Online,Amit Verma,1,123.39,5,117.22,56.24,60.98
+ORD-10891,8/23/2024,Chair Ergonomic,Office,East,Reseller,Sunita Rao,2,923.88,0,1847.76,1121.67,726.09
+ORD-10892,10/13/2024,Wireless Mouse,Accessories,South,Retail,Vikram Das,2,40.16,10,72.29,44.83,27.46
+ORD-10893,7/22/2024,Desk Lamp LED,Office,East,Retail,Arjun Sharma,1,74.07,0,74.07,45.62,28.45
+ORD-10894,5/8/2024,Laptop Pro X1,Electronics,South,B2B,Arjun Sharma,1,1665.95,0,1665.95,1082.61,583.34
+ORD-10895,6/30/2024,USB-C Hub,Accessories,South,B2B,Karan Mehta,2,101.62,0,203.24,96.46,106.78
+ORD-10896,9/17/2024,"Monitor 27""",Electronics,East,Reseller,Amit Verma,2,466.24,10,839.23,595.93,243.3
+ORD-10897,11/9/2024,"Monitor 27""",Electronics,North,Retail,Arjun Sharma,5,331.01,0,1655.05,943.22,711.83
+ORD-10898,5/2/2024,Headphones Pro,Electronics,West,Reseller,Vikram Das,1,364.39,0,364.39,204.48,159.91
+ORD-10899,10/26/2024,Wireless Mouse,Accessories,West,Online,Deepa Nair,2,43.29,5,82.25,53.09,29.16
+ORD-10900,9/7/2024,Desk Lamp LED,Office,North,Online,Sunita Rao,1,60.58,0,60.58,35.71,24.87
+ORD-10901,7/17/2023,Webcam HD,Electronics,East,Retail,Priya Patel,1,118.73,0,118.73,60.1,58.63
+ORD-10902,10/2/2024,Headphones Pro,Electronics,East,Online,Amit Verma,1,247.4,10,222.66,135.76,86.9
+ORD-10903,12/21/2024,Standing Desk,Office,West,Online,Amit Verma,2,406.56,0,813.12,499.44,313.68
+ORD-10904,5/27/2024,Headphones Pro,Electronics,Central,Retail,Priya Patel,1,382.7,5,363.56,215.51,148.05
+ORD-10905,5/12/2023,Headphones Pro,Electronics,Central,B2B,Neha Singh,2,393.01,0,786.02,488.19,297.83
+ORD-10906,1/24/2023,Tablet S10,Electronics,Central,Reseller,Arjun Sharma,5,481.97,10,2168.87,1206.33,962.54
+ORD-10907,10/18/2024,Desk Lamp LED,Office,West,B2B,Priya Patel,2,51.92,10,93.46,53.44,40.02
+ORD-10908,6/14/2024,Tablet S10,Electronics,South,Online,Amit Verma,1,865.55,0,865.55,542.49,323.06
+ORD-10909,6/29/2024,Desk Lamp LED,Office,Central,Online,Neha Singh,1,74.36,0,74.36,34.68,39.68
+ORD-10910,3/9/2024,Phone Stand,Accessories,North,Online,Arjun Sharma,5,28.12,15,119.51,72.53,46.98
+ORD-10911,3/18/2024,Standing Desk,Office,East,Retail,Priya Patel,3,606.57,5,1728.72,940.54,788.18
+ORD-10912,9/2/2023,Standing Desk,Office,South,Online,Pooja Iyer,5,618.27,10,2782.22,1712.41,1069.81
+ORD-10913,3/25/2024,Headphones Pro,Electronics,North,Online,Karan Mehta,3,301.36,5,858.88,422.3,436.58
+ORD-10914,12/11/2024,Webcam HD,Electronics,East,Reseller,Priya Patel,1,72.2,0,72.2,38.87,33.33
+ORD-10915,11/24/2024,Wireless Mouse,Accessories,Central,Reseller,Neha Singh,1,37.54,0,37.54,19.91,17.63
+ORD-10916,11/6/2024,Headphones Pro,Electronics,Central,Online,Deepa Nair,2,220.53,5,419.01,236.24,182.77
+ORD-10917,11/22/2024,Tablet S10,Electronics,North,Online,Pooja Iyer,3,472.13,5,1345.57,691.9,653.67
+ORD-10918,3/11/2023,Phone Stand,Accessories,Central,B2B,Deepa Nair,2,30.17,10,54.31,28.67,25.64
+ORD-10919,5/7/2024,Desk Lamp LED,Office,North,Retail,Amit Verma,2,72.42,5,137.6,88.27,49.33
+ORD-10920,3/22/2024,Headphones Pro,Electronics,Central,Retail,Ravi Kumar,2,294.75,10,530.55,334.09,196.46
+ORD-10921,11/13/2023,Standing Desk,Office,South,Online,Neha Singh,2,464.23,0,928.46,513.94,414.52
+ORD-10922,7/26/2024,Chair Ergonomic,Office,South,Online,Deepa Nair,3,975.93,5,2781.4,1434.83,1346.57
+ORD-10923,11/14/2024,"Monitor 27""",Electronics,Central,B2B,Pooja Iyer,1,331.26,10,298.13,194.94,103.19
+ORD-10924,3/4/2024,Mechanical KB,Accessories,West,Retail,Arjun Sharma,1,133.85,0,133.85,84.61,49.24
+ORD-10925,8/17/2023,Tablet S10,Electronics,East,Reseller,Neha Singh,2,724.94,5,1377.39,791.85,585.54
+ORD-10926,7/8/2023,Desk Lamp LED,Office,Central,Online,Ravi Kumar,3,70.69,0,212.07,110.61,101.46
+ORD-10927,3/26/2024,Mechanical KB,Accessories,North,Retail,Neha Singh,1,132.43,5,125.81,60.76,65.05
+ORD-10928,6/28/2023,Mechanical KB,Accessories,South,Retail,Neha Singh,1,162.24,0,162.24,100.51,61.73
+ORD-10929,6/30/2023,Laptop Pro X1,Electronics,West,Online,Deepa Nair,3,1607.81,15,4099.92,2824.07,1275.85
+ORD-10930,11/9/2023,"Monitor 27""",Electronics,Central,Reseller,Priya Patel,1,328.1,0,328.1,158.89,169.21
+ORD-10931,5/28/2023,Wireless Mouse,Accessories,East,B2B,Pooja Iyer,4,59.81,0,239.24,133.14,106.1
+ORD-10932,10/13/2024,Desk Lamp LED,Office,Central,B2B,Ravi Kumar,1,50.73,0,50.73,24.75,25.98
+ORD-10933,9/11/2023,Webcam HD,Electronics,Central,Reseller,Neha Singh,1,102.69,10,92.42,63.7,28.72
+ORD-10934,3/25/2023,Phone Stand,Accessories,West,B2B,Sunita Rao,3,29.33,10,79.19,42.54,36.65
+ORD-10935,4/20/2024,Chair Ergonomic,Office,West,Reseller,Amit Verma,1,921.19,10,829.07,503.58,325.49
+ORD-10936,2/15/2024,Headphones Pro,Electronics,South,Reseller,Neha Singh,2,257.96,10,464.33,253.54,210.79
+ORD-10937,8/12/2023,Desk Lamp LED,Office,East,B2B,Vikram Das,1,68.33,15,58.08,43.53,14.55
+ORD-10938,5/18/2023,Wireless Mouse,Accessories,North,Reseller,Vikram Das,3,61.85,0,185.55,92.04,93.51
+ORD-10939,12/11/2023,Headphones Pro,Electronics,East,B2B,Karan Mehta,1,207.39,5,197.02,126.69,70.33
+ORD-10940,7/3/2023,Laptop Pro X1,Electronics,East,Online,Amit Verma,1,1567.08,0,1567.08,987.72,579.36
+ORD-10941,4/11/2023,"Monitor 27""",Electronics,East,B2B,Amit Verma,1,518.73,0,518.73,268.05,250.68
+ORD-10942,11/30/2024,Phone Stand,Accessories,Central,B2B,Arjun Sharma,3,21.69,0,65.07,31.08,33.99
+ORD-10943,10/16/2023,Mechanical KB,Accessories,Central,Online,Sunita Rao,3,108.6,10,293.22,173.05,120.17
+ORD-10944,6/8/2024,Tablet S10,Electronics,South,Reseller,Neha Singh,5,874.53,20,3498.12,2166.72,1331.4
+ORD-10945,8/24/2024,Chair Ergonomic,Office,North,B2B,Neha Singh,3,939.3,10,2536.11,1528.09,1008.02
+ORD-10946,12/15/2024,Desk Lamp LED,Office,South,Retail,Amit Verma,1,42.76,5,40.62,19.5,21.12
+ORD-10947,1/10/2023,Phone Stand,Accessories,West,Reseller,Vikram Das,1,21.15,10,19.04,10.47,8.57
+ORD-10948,11/30/2023,Mechanical KB,Accessories,East,Reseller,Karan Mehta,2,91.02,5,172.94,86.98,85.96
+ORD-10949,2/5/2024,"Monitor 27""",Electronics,West,B2B,Priya Patel,1,380.69,0,380.69,196.35,184.34
+ORD-10950,4/17/2023,USB-C Hub,Accessories,North,Retail,Neha Singh,2,93.82,0,187.64,107.08,80.56
+ORD-10951,1/31/2024,Wireless Mouse,Accessories,North,B2B,Vikram Das,1,36.85,0,36.85,17.1,19.75
+ORD-10952,6/25/2023,Laptop Pro X1,Electronics,South,Reseller,Sunita Rao,1,1670.31,15,1419.76,1082.23,337.53
+ORD-10953,3/12/2023,Phone Stand,Accessories,East,Reseller,Sunita Rao,1,28.15,15,23.93,17.57,6.36
+ORD-10954,9/10/2024,USB-C Hub,Accessories,West,B2B,Neha Singh,2,76.65,0,153.3,90.96,62.34
+ORD-10955,5/27/2023,Laptop Pro X1,Electronics,East,Reseller,Sunita Rao,1,1653.65,10,1488.28,825.78,662.5
+ORD-10956,8/12/2024,Standing Desk,Office,East,B2B,Karan Mehta,1,698.93,0,698.93,442.97,255.96
+ORD-10957,6/29/2023,Headphones Pro,Electronics,West,Retail,Pooja Iyer,1,393.28,0,393.28,210.96,182.32
+ORD-10958,2/7/2024,Wireless Mouse,Accessories,Central,B2B,Priya Patel,2,43.26,0,86.52,41.67,44.85
+ORD-10959,8/11/2023,Phone Stand,Accessories,East,Online,Priya Patel,4,34.22,5,130.04,64.91,65.13
+ORD-10960,11/30/2023,Chair Ergonomic,Office,North,Online,Sunita Rao,1,574.11,0,574.11,263.47,310.64
+ORD-10961,12/18/2023,Desk Lamp LED,Office,North,Retail,Deepa Nair,2,40.87,15,69.48,36.96,32.52
+ORD-10962,4/20/2024,Tablet S10,Electronics,West,Retail,Sunita Rao,1,749.96,0,749.96,373.82,376.14
+ORD-10963,6/15/2023,Mechanical KB,Accessories,Central,Reseller,Ravi Kumar,1,161,0,161,81.92,79.08
+ORD-10964,11/18/2024,Wireless Mouse,Accessories,South,Online,Vikram Das,3,35.01,10,94.53,54.79,39.74
+ORD-10965,3/28/2024,"Monitor 27""",Electronics,North,Reseller,Amit Verma,2,462.99,10,833.38,535.4,297.98
+ORD-10966,2/23/2023,Standing Desk,Office,South,B2B,Neha Singh,2,502.91,0,1005.82,493.2,512.62
+ORD-10967,4/4/2023,"Monitor 27""",Electronics,North,Retail,Priya Patel,1,491.28,0,491.28,301.7,189.58
+ORD-10968,6/21/2023,Tablet S10,Electronics,East,Retail,Pooja Iyer,2,844.75,0,1689.5,1035.87,653.63
+ORD-10969,7/8/2024,"Monitor 27""",Electronics,East,Retail,Arjun Sharma,1,550.52,5,522.99,259.39,263.6
+ORD-10970,10/31/2024,Desk Lamp LED,Office,East,B2B,Arjun Sharma,1,49.94,0,49.94,23.13,26.81
+ORD-10971,8/12/2023,Wireless Mouse,Accessories,Central,Retail,Amit Verma,1,56.35,10,50.72,36.52,14.2
+ORD-10972,9/6/2024,Wireless Mouse,Accessories,South,B2B,Ravi Kumar,1,48.45,5,46.03,30.76,15.27
+ORD-10973,12/5/2024,Tablet S10,Electronics,Central,Reseller,Karan Mehta,1,453.49,15,385.47,234.46,151.01
+ORD-10974,10/17/2024,Chair Ergonomic,Office,North,Online,Amit Verma,2,693.05,5,1316.79,627.43,689.36
+ORD-10975,3/14/2024,"Monitor 27""",Electronics,East,Retail,Ravi Kumar,3,429.24,5,1223.33,675.93,547.4
+ORD-10976,7/29/2023,Desk Lamp LED,Office,West,B2B,Ravi Kumar,2,76,0,152,98.45,53.55
+ORD-10977,11/22/2023,Mechanical KB,Accessories,East,Online,Neha Singh,2,95.68,10,172.22,123.53,48.69
+ORD-10978,12/6/2023,Phone Stand,Accessories,South,Retail,Pooja Iyer,1,19.39,0,19.39,12.28,7.11
+ORD-10979,6/17/2024,Desk Lamp LED,Office,North,Retail,Arjun Sharma,1,72.91,5,69.26,45.49,23.77
+ORD-10980,5/25/2023,Tablet S10,Electronics,South,Retail,Vikram Das,4,790.93,0,3163.72,1770.95,1392.77
+ORD-10981,3/12/2024,Wireless Mouse,Accessories,South,Retail,Amit Verma,2,50.09,0,100.18,49.99,50.19
+ORD-10982,8/13/2024,Mechanical KB,Accessories,North,B2B,Karan Mehta,1,144.97,5,137.72,87.89,49.83
+ORD-10983,6/21/2023,Desk Lamp LED,Office,South,Reseller,Arjun Sharma,1,77.54,5,73.66,41.61,32.05
+ORD-10984,3/13/2024,Desk Lamp LED,Office,South,Retail,Amit Verma,3,61.49,10,166.02,104.97,61.05
+ORD-10985,4/19/2024,Desk Lamp LED,Office,East,Retail,Sunita Rao,1,68.27,0,68.27,37.29,30.98
+ORD-10986,6/8/2023,"Monitor 27""",Electronics,East,Reseller,Karan Mehta,4,604.81,0,2419.24,1442.05,977.19
+ORD-10987,2/9/2024,Desk Lamp LED,Office,Central,Online,Karan Mehta,5,50.1,0,250.5,144.84,105.66
+ORD-10988,5/8/2023,Laptop Pro X1,Electronics,East,B2B,Vikram Das,1,1586.45,5,1507.13,852.34,654.79
+ORD-10989,5/15/2024,Phone Stand,Accessories,West,Retail,Neha Singh,2,34.92,0,69.84,36.81,33.03
+ORD-10990,2/5/2023,Standing Desk,Office,South,B2B,Pooja Iyer,4,519.67,0,2078.68,947.15,1131.53
+ORD-10991,11/28/2024,Standing Desk,Office,South,Online,Priya Patel,1,446.85,0,446.85,260.3,186.55
+ORD-10992,10/21/2024,Wireless Mouse,Accessories,North,Retail,Karan Mehta,2,42.51,0,85.02,54.82,30.2
+ORD-10993,3/13/2024,USB-C Hub,Accessories,West,B2B,Karan Mehta,1,82.69,0,82.69,48.1,34.59
+ORD-10994,4/2/2023,Phone Stand,Accessories,East,Retail,Karan Mehta,1,34.34,5,32.62,21.05,11.57
+ORD-10995,11/12/2023,Phone Stand,Accessories,West,Reseller,Amit Verma,1,21.45,0,21.45,10.07,11.38
+ORD-10996,3/17/2024,Phone Stand,Accessories,South,Online,Sunita Rao,1,29.59,0,29.59,14.49,15.1
+ORD-10997,8/6/2023,Headphones Pro,Electronics,East,Reseller,Sunita Rao,1,332.94,0,332.94,200.37,132.57
+ORD-10998,10/1/2024,Tablet S10,Electronics,North,B2B,Priya Patel,1,528.47,5,502.05,246.87,255.18
+ORD-10999,1/31/2023,Webcam HD,Electronics,North,B2B,Arjun Sharma,2,74.55,5,141.64,70.1,71.54
+ORD-11000,8/19/2024,Tablet S10,Electronics,West,B2B,Sunita Rao,3,724.79,0,2174.37,1322.79,851.58
+ORD-11001,12/12/2023,Standing Desk,Office,East,Retail,Deepa Nair,2,426.93,0,853.86,442.83,411.03
+ORD-11002,2/13/2024,Tablet S10,Electronics,North,Online,Sunita Rao,1,543.71,0,543.71,280.58,263.13
+ORD-11003,2/16/2024,Phone Stand,Accessories,Central,B2B,Neha Singh,2,23.76,15,40.39,27.1,13.29
+ORD-11004,4/7/2024,Webcam HD,Electronics,South,Online,Deepa Nair,2,113.57,10,204.43,120.98,83.45
+ORD-11005,10/10/2024,Laptop Pro X1,Electronics,West,Retail,Pooja Iyer,1,1138.11,0,1138.11,586.25,551.86
+ORD-11006,2/14/2024,Standing Desk,Office,West,Online,Karan Mehta,2,501.43,10,902.57,639.64,262.93
+ORD-11007,9/13/2024,Mechanical KB,Accessories,Central,Online,Ravi Kumar,1,129.26,0,129.26,72.95,56.31
+ORD-11008,3/31/2023,Standing Desk,Office,South,Reseller,Priya Patel,1,601.92,10,541.73,376.17,165.56
+ORD-11009,11/9/2024,Standing Desk,Office,North,Online,Karan Mehta,2,428.76,0,857.52,547.82,309.7
+ORD-11010,1/30/2023,Phone Stand,Accessories,South,B2B,Sunita Rao,1,22.33,15,18.98,13.47,5.51
+ORD-11011,5/7/2023,Tablet S10,Electronics,East,Retail,Pooja Iyer,2,828.53,15,1408.5,908.72,499.78
+ORD-11012,3/8/2023,Headphones Pro,Electronics,West,Reseller,Neha Singh,2,305.5,0,611,364.89,246.11
+ORD-11013,9/23/2023,"Monitor 27""",Electronics,South,Online,Pooja Iyer,1,430.55,0,430.55,257.52,173.03
+ORD-11014,5/11/2023,Webcam HD,Electronics,North,Retail,Karan Mehta,3,125.68,20,301.63,169.79,131.84
+ORD-11015,11/24/2023,Desk Lamp LED,Office,Central,Retail,Priya Patel,3,45.57,10,123.04,64.97,58.07
+ORD-11016,1/10/2023,Desk Lamp LED,Office,South,Reseller,Sunita Rao,2,42.12,5,80.03,53.79,26.24
+ORD-11017,9/7/2024,USB-C Hub,Accessories,North,B2B,Amit Verma,1,81.76,10,73.58,50.33,23.25
+ORD-11018,12/6/2024,Chair Ergonomic,Office,South,Reseller,Amit Verma,1,570.85,20,456.68,311.49,145.19
+ORD-11019,1/21/2024,Phone Stand,Accessories,South,Online,Ravi Kumar,1,20.72,10,18.65,12.29,6.36
+ORD-11020,2/6/2024,Standing Desk,Office,North,Reseller,Deepa Nair,1,530.15,10,477.14,255.45,221.69
+ORD-11021,11/25/2024,Desk Lamp LED,Office,East,B2B,Neha Singh,1,43.2,0,43.2,20.06,23.14
+ORD-11022,7/15/2024,Phone Stand,Accessories,North,B2B,Sunita Rao,1,37.46,0,37.46,21.21,16.25
+ORD-11023,6/17/2023,Tablet S10,Electronics,South,Retail,Neha Singh,2,842.22,5,1600.22,1060.26,539.96
+ORD-11024,10/28/2024,Phone Stand,Accessories,South,Reseller,Karan Mehta,1,24.84,10,22.36,14.55,7.81
+ORD-11025,6/22/2023,Tablet S10,Electronics,North,Online,Vikram Das,4,883.7,0,3534.8,1717.65,1817.15
+ORD-11026,12/13/2023,Tablet S10,Electronics,North,Online,Neha Singh,2,460.07,20,736.11,488.41,247.7
+ORD-11027,5/15/2024,Desk Lamp LED,Office,North,Reseller,Karan Mehta,1,71.89,5,68.3,43.06,25.24
+ORD-11028,10/9/2024,Mechanical KB,Accessories,West,Retail,Arjun Sharma,2,105.48,0,210.96,98.42,112.54
+ORD-11029,8/9/2024,Headphones Pro,Electronics,Central,Retail,Karan Mehta,5,350.51,5,1664.92,821.79,843.13
+ORD-11030,10/22/2024,Standing Desk,Office,Central,Retail,Karan Mehta,2,490.07,0,980.14,504.82,475.32
+ORD-11031,1/21/2023,Phone Stand,Accessories,North,Online,Neha Singh,1,22.07,10,19.86,12.27,7.59
+ORD-11032,5/1/2023,Tablet S10,Electronics,East,Online,Arjun Sharma,1,791.45,5,751.88,443.96,307.92
+ORD-11033,8/11/2024,USB-C Hub,Accessories,North,Online,Priya Patel,1,91.42,0,91.42,56.71,34.71
+ORD-11034,11/2/2023,Chair Ergonomic,Office,North,Retail,Amit Verma,1,586.86,5,557.52,375.03,182.49
+ORD-11035,6/15/2024,Laptop Pro X1,Electronics,West,B2B,Vikram Das,4,1694.46,0,6777.84,3239.61,3538.23
+ORD-11036,9/12/2024,Webcam HD,Electronics,South,Online,Neha Singh,2,95.03,0,190.06,116.69,73.37
+ORD-11037,11/3/2023,USB-C Hub,Accessories,Central,B2B,Amit Verma,3,56.34,0,169.02,94.72,74.3
+ORD-11038,9/29/2024,USB-C Hub,Accessories,South,Reseller,Sunita Rao,1,77.11,5,73.25,44.72,28.53
+ORD-11039,9/18/2023,Wireless Mouse,Accessories,East,Retail,Deepa Nair,2,47.25,15,80.32,46.38,33.94
+ORD-11040,11/4/2024,Headphones Pro,Electronics,East,Reseller,Karan Mehta,2,213.88,5,406.37,262.78,143.59
+ORD-11041,9/10/2024,Laptop Pro X1,Electronics,West,Online,Deepa Nair,1,1303.09,0,1303.09,764.65,538.44
+ORD-11042,4/2/2023,Tablet S10,Electronics,South,B2B,Arjun Sharma,1,729.43,0,729.43,455,274.43
+ORD-11043,1/22/2024,Wireless Mouse,Accessories,North,Retail,Vikram Das,5,37.91,0,189.55,114.97,74.58
+ORD-11044,11/10/2023,Phone Stand,Accessories,Central,B2B,Vikram Das,2,20.6,10,37.08,21.41,15.67
+ORD-11045,9/14/2024,Mechanical KB,Accessories,South,B2B,Vikram Das,1,126.65,0,126.65,76.04,50.61
+ORD-11046,8/31/2024,Chair Ergonomic,Office,Central,Retail,Ravi Kumar,4,927.33,5,3523.85,1861.38,1662.47
+ORD-11047,1/23/2024,USB-C Hub,Accessories,East,Retail,Pooja Iyer,2,60.92,0,121.84,70.4,51.44
+ORD-11048,12/24/2024,Desk Lamp LED,Office,East,B2B,Karan Mehta,1,40.7,5,38.66,22.13,16.53
+ORD-11049,8/23/2023,Chair Ergonomic,Office,East,Online,Priya Patel,1,959.96,15,815.97,510.03,305.94
+ORD-11050,9/3/2023,Wireless Mouse,Accessories,Central,Reseller,Arjun Sharma,4,46.83,0,187.32,112.15,75.17
+ORD-11051,11/24/2024,Desk Lamp LED,Office,Central,Online,Karan Mehta,2,43.58,10,78.44,48.2,30.24
+ORD-11052,9/23/2024,Laptop Pro X1,Electronics,Central,B2B,Neha Singh,1,1235,10,1111.5,660.72,450.78
+ORD-11053,11/8/2024,Phone Stand,Accessories,Central,Online,Pooja Iyer,5,22.28,10,100.26,61.9,38.36
+ORD-11054,6/22/2023,Standing Desk,Office,North,B2B,Ravi Kumar,2,780.53,15,1326.9,772.75,554.15
+ORD-11055,12/28/2023,Chair Ergonomic,Office,North,B2B,Neha Singh,5,552.54,5,2624.56,1449.47,1175.09
+ORD-11056,5/1/2023,Chair Ergonomic,Office,Central,Reseller,Neha Singh,1,982.91,5,933.76,442.75,491.01
+ORD-11057,10/20/2024,Mechanical KB,Accessories,West,Online,Deepa Nair,2,114.42,15,194.51,143.83,50.68
+ORD-11058,9/22/2024,Laptop Pro X1,Electronics,South,Reseller,Deepa Nair,1,1247.97,0,1247.97,648.87,599.1
+ORD-11059,4/14/2023,Laptop Pro X1,Electronics,West,Online,Sunita Rao,1,1498.2,0,1498.2,943.42,554.78
+ORD-11060,6/9/2023,Laptop Pro X1,Electronics,East,Reseller,Ravi Kumar,3,1683.75,0,5051.25,2651.21,2400.04
+ORD-11061,10/3/2023,Chair Ergonomic,Office,East,Reseller,Arjun Sharma,1,702.2,5,667.09,338.72,328.37
+ORD-11062,12/27/2024,Webcam HD,Electronics,East,Online,Ravi Kumar,1,66.11,0,66.11,34.97,31.14
+ORD-11063,7/23/2023,Tablet S10,Electronics,West,Reseller,Ravi Kumar,4,857.1,20,2742.72,1624.23,1118.49
+ORD-11064,2/14/2024,Webcam HD,Electronics,North,Online,Arjun Sharma,2,87.04,15,147.97,91.87,56.1
+ORD-11065,6/9/2023,USB-C Hub,Accessories,East,Reseller,Pooja Iyer,1,104.59,0,104.59,48.15,56.44
+ORD-11066,1/9/2023,Phone Stand,Accessories,South,Retail,Vikram Das,1,21.44,0,21.44,12.91,8.53
+ORD-11067,9/13/2023,USB-C Hub,Accessories,West,Retail,Sunita Rao,1,77.13,0,77.13,45.52,31.61
+ORD-11068,4/16/2023,Phone Stand,Accessories,Central,Retail,Neha Singh,2,32.29,5,61.35,41.88,19.47
+ORD-11069,5/16/2023,Wireless Mouse,Accessories,North,Retail,Priya Patel,1,59.83,0,59.83,28.67,31.16
+ORD-11070,1/25/2024,Laptop Pro X1,Electronics,East,Reseller,Sunita Rao,1,974.33,0,974.33,483.55,490.78
+ORD-11071,6/6/2024,Laptop Pro X1,Electronics,East,Reseller,Neha Singh,1,1622.85,0,1622.85,848.29,774.56
+ORD-11072,2/18/2023,Webcam HD,Electronics,East,Reseller,Amit Verma,1,85.5,0,85.5,43.98,41.52
+ORD-11073,4/14/2023,Headphones Pro,Electronics,North,Online,Arjun Sharma,1,343.55,0,343.55,177.57,165.98
+ORD-11074,7/19/2024,Tablet S10,Electronics,Central,B2B,Neha Singh,3,806.22,0,2418.66,1480.24,938.42
+ORD-11075,10/10/2023,Tablet S10,Electronics,Central,Online,Arjun Sharma,1,573.01,0,573.01,272.81,300.2
+ORD-11076,11/1/2024,Headphones Pro,Electronics,Central,B2B,Amit Verma,3,220.12,0,660.36,310.19,350.17
+ORD-11077,4/30/2024,Phone Stand,Accessories,South,Reseller,Vikram Das,5,34.09,0,170.45,78.2,92.25
+ORD-11078,9/16/2023,Phone Stand,Accessories,East,B2B,Sunita Rao,4,30,10,108,67.45,40.55
+ORD-11079,5/1/2023,Tablet S10,Electronics,Central,Online,Ravi Kumar,4,810.99,0,3243.96,2064.02,1179.94
+ORD-11080,10/8/2023,Headphones Pro,Electronics,South,Reseller,Sunita Rao,2,242.6,0,485.2,273.28,211.92
+ORD-11081,6/29/2024,Tablet S10,Electronics,West,Reseller,Karan Mehta,4,815.48,20,2609.54,1957.63,651.91
+ORD-11082,10/6/2023,Headphones Pro,Electronics,North,Reseller,Vikram Das,1,255.98,0,255.98,145.5,110.48
+ORD-11083,6/21/2024,Phone Stand,Accessories,North,Retail,Neha Singh,1,36.93,15,31.39,18.6,12.79
+ORD-11084,6/30/2024,Laptop Pro X1,Electronics,South,B2B,Arjun Sharma,1,1629.28,0,1629.28,1021.1,608.18
+ORD-11085,9/12/2023,Tablet S10,Electronics,Central,B2B,Deepa Nair,5,624.09,0,3120.45,1809.02,1311.43
+ORD-11086,12/23/2024,Wireless Mouse,Accessories,East,B2B,Arjun Sharma,4,33.04,0,132.16,83.22,48.94
+ORD-11087,1/11/2023,Tablet S10,Electronics,North,Online,Karan Mehta,3,502.73,0,1508.19,732,776.19
+ORD-11088,9/21/2023,Tablet S10,Electronics,South,B2B,Amit Verma,4,652.3,5,2478.74,1600.4,878.34
+ORD-11089,8/18/2024,"Monitor 27""",Electronics,West,B2B,Ravi Kumar,2,510.95,15,868.62,551.02,317.6
+ORD-11090,4/6/2023,Standing Desk,Office,Central,Reseller,Ravi Kumar,1,710.59,5,675.06,344.79,330.27
+ORD-11091,10/16/2023,Tablet S10,Electronics,Central,Retail,Priya Patel,1,533.87,0,533.87,282.33,251.54
+ORD-11092,3/15/2023,USB-C Hub,Accessories,Central,Retail,Arjun Sharma,1,80.15,5,76.14,42.52,33.62
+ORD-11093,4/13/2023,Headphones Pro,Electronics,North,Retail,Neha Singh,1,355.08,0,355.08,214,141.08
+ORD-11094,10/2/2023,Wireless Mouse,Accessories,North,B2B,Priya Patel,1,39.62,5,37.64,25.49,12.15
+ORD-11095,5/23/2023,"Monitor 27""",Electronics,East,Reseller,Ravi Kumar,1,562.5,5,534.38,271.48,262.9
+ORD-11096,2/27/2023,"Monitor 27""",Electronics,North,Online,Vikram Das,2,383.31,0,766.62,348.23,418.39
+ORD-11097,4/16/2023,Mechanical KB,Accessories,North,Retail,Karan Mehta,2,143.04,10,257.47,180.93,76.54
+ORD-11098,5/31/2023,Desk Lamp LED,Office,North,Reseller,Ravi Kumar,1,77.46,0,77.46,45.46,32
+ORD-11099,8/18/2023,Wireless Mouse,Accessories,North,B2B,Priya Patel,1,55.55,20,44.44,31.84,12.6
+ORD-11100,9/11/2024,Laptop Pro X1,Electronics,West,Retail,Amit Verma,1,1277.55,5,1213.67,621.24,592.43
+ORD-11101,10/21/2023,Headphones Pro,Electronics,East,Online,Arjun Sharma,1,264.73,0,264.73,154.16,110.57
+ORD-11102,11/2/2024,USB-C Hub,Accessories,West,Online,Priya Patel,1,58.16,0,58.16,35.44,22.72
+ORD-11103,3/13/2024,Headphones Pro,Electronics,South,Reseller,Deepa Nair,5,286.75,0,1433.75,930.44,503.31
+ORD-11104,5/21/2024,Webcam HD,Electronics,East,Retail,Neha Singh,1,123.65,10,111.29,75.27,36.02
+ORD-11105,3/4/2024,Desk Lamp LED,Office,South,Reseller,Priya Patel,2,58.96,5,112.02,65.71,46.31
+ORD-11106,3/7/2024,Headphones Pro,Electronics,North,Retail,Deepa Nair,2,308.31,10,554.96,304.53,250.43
+ORD-11107,7/28/2023,Laptop Pro X1,Electronics,North,Online,Deepa Nair,5,1646.04,0,8230.2,5279.86,2950.34
+ORD-11108,5/23/2023,Webcam HD,Electronics,West,Retail,Neha Singh,1,129.13,0,129.13,83.21,45.92
+ORD-11109,2/27/2023,"Monitor 27""",Electronics,North,Reseller,Deepa Nair,2,389.12,0,778.24,372.48,405.76
+ORD-11110,12/19/2024,Laptop Pro X1,Electronics,South,Online,Ravi Kumar,1,907.19,5,861.83,516,345.83
+ORD-11111,5/25/2023,Webcam HD,Electronics,South,Retail,Sunita Rao,1,125.58,0,125.58,76.95,48.63
+ORD-11112,5/24/2023,Phone Stand,Accessories,East,Reseller,Arjun Sharma,2,35.8,10,64.44,38.11,26.33
+ORD-11113,4/24/2023,Mechanical KB,Accessories,Central,Retail,Arjun Sharma,1,141.41,15,120.2,84.88,35.32
+ORD-11114,3/9/2024,Desk Lamp LED,Office,Central,B2B,Neha Singh,2,59.32,15,100.84,73.07,27.77
+ORD-11115,6/10/2023,Desk Lamp LED,Office,South,Reseller,Pooja Iyer,1,75.76,0,75.76,48.5,27.26
+ORD-11116,8/13/2023,Laptop Pro X1,Electronics,North,Reseller,Sunita Rao,1,1564.96,10,1408.46,893.62,514.84
+ORD-11117,10/30/2024,Webcam HD,Electronics,West,Retail,Amit Verma,2,81.33,10,146.39,99.33,47.06
+ORD-11118,4/17/2023,Wireless Mouse,Accessories,East,Retail,Vikram Das,1,58.3,5,55.38,26.56,28.82
+ORD-11119,3/8/2023,Wireless Mouse,Accessories,South,Online,Neha Singh,1,51.01,0,51.01,24.87,26.14
+ORD-11120,3/29/2023,Mechanical KB,Accessories,North,Online,Deepa Nair,5,129.82,5,616.64,394.68,221.96
+ORD-11121,11/13/2023,Wireless Mouse,Accessories,South,B2B,Karan Mehta,1,35.48,0,35.48,18.79,16.69
+ORD-11122,12/31/2023,Phone Stand,Accessories,Central,Online,Vikram Das,5,19.48,10,87.66,51.76,35.9
+ORD-11123,1/25/2023,USB-C Hub,Accessories,East,Retail,Ravi Kumar,2,58.98,0,117.96,73.18,44.78
+ORD-11124,4/19/2024,Tablet S10,Electronics,South,Retail,Ravi Kumar,1,780.15,5,741.14,387.2,353.94
+ORD-11125,6/12/2024,Chair Ergonomic,Office,West,Retail,Deepa Nair,5,1041.12,5,4945.32,3142.76,1802.56
+ORD-11126,1/4/2024,Mechanical KB,Accessories,West,Retail,Neha Singh,2,91.09,15,154.85,107.95,46.9
+ORD-11127,9/13/2024,Headphones Pro,Electronics,North,Retail,Amit Verma,1,302.82,0,302.82,166.4,136.42
+ORD-11128,3/31/2023,Chair Ergonomic,Office,North,B2B,Pooja Iyer,1,772.61,5,733.98,393.35,340.63
+ORD-11129,12/28/2023,Webcam HD,Electronics,West,B2B,Sunita Rao,1,71.18,0,71.18,35.7,35.48
+ORD-11130,5/24/2023,Tablet S10,Electronics,East,Reseller,Karan Mehta,4,816.66,20,2613.31,1707.45,905.86
+ORD-11131,11/27/2024,Headphones Pro,Electronics,East,Online,Karan Mehta,1,228.95,0,228.95,146.62,82.33
+ORD-11132,4/5/2024,Chair Ergonomic,Office,North,Retail,Vikram Das,1,935.62,15,795.28,537.16,258.12
+ORD-11133,6/8/2023,Laptop Pro X1,Electronics,North,Retail,Karan Mehta,3,1630.98,0,4892.94,2592.55,2300.39
+ORD-11134,11/16/2024,Standing Desk,Office,West,Online,Priya Patel,1,449.69,5,427.21,283.32,143.89
+ORD-11135,4/21/2023,USB-C Hub,Accessories,East,Online,Deepa Nair,4,93.29,15,317.19,182.81,134.38
+ORD-11136,9/10/2024,Webcam HD,Electronics,North,Retail,Sunita Rao,1,98.76,10,88.88,49.94,38.94
+ORD-11137,10/17/2024,USB-C Hub,Accessories,North,B2B,Karan Mehta,1,70.43,5,66.91,42.6,24.31
+ORD-11138,8/7/2023,Standing Desk,Office,East,B2B,Ravi Kumar,1,720.03,15,612.03,422.47,189.56
+ORD-11139,5/26/2023,Wireless Mouse,Accessories,West,Retail,Amit Verma,1,60.49,5,57.47,35.84,21.63
+ORD-11140,2/25/2023,USB-C Hub,Accessories,South,Retail,Deepa Nair,1,66.09,15,56.18,39.7,16.48
+ORD-11141,5/8/2024,Desk Lamp LED,Office,East,Reseller,Arjun Sharma,1,71.81,10,64.63,42.32,22.31
+ORD-11142,9/3/2024,Chair Ergonomic,Office,East,Online,Ravi Kumar,1,805.27,10,724.74,385.66,339.08
+ORD-11143,6/1/2023,Standing Desk,Office,East,Online,Sunita Rao,1,801.44,0,801.44,468.67,332.77
+ORD-11144,10/11/2024,USB-C Hub,Accessories,South,Reseller,Vikram Das,1,64.45,20,51.56,31.82,19.74
+ORD-11145,9/7/2024,USB-C Hub,Accessories,Central,Online,Deepa Nair,1,82.57,0,82.57,53.2,29.37
+ORD-11146,1/17/2023,Webcam HD,Electronics,West,Reseller,Karan Mehta,1,75.62,0,75.62,35.92,39.7
+ORD-11147,12/27/2023,Desk Lamp LED,Office,North,Retail,Sunita Rao,1,41.4,5,39.33,24.96,14.37
+ORD-11148,1/18/2024,Desk Lamp LED,Office,West,B2B,Pooja Iyer,1,43.86,5,41.67,23.08,18.59
+ORD-11149,3/31/2023,Wireless Mouse,Accessories,West,Online,Sunita Rao,3,49.73,0,149.19,85.52,63.67
+ORD-11150,9/30/2024,Phone Stand,Accessories,North,B2B,Karan Mehta,4,28.84,0,115.36,65.32,50.04
+ORD-11151,8/17/2023,"Monitor 27""",Electronics,North,B2B,Sunita Rao,3,496.44,5,1414.85,925.27,489.58
+ORD-11152,10/22/2024,Desk Lamp LED,Office,South,B2B,Amit Verma,2,47.68,10,85.82,50.06,35.76
+ORD-11153,9/28/2023,Tablet S10,Electronics,North,Reseller,Arjun Sharma,1,675.57,15,574.23,394.98,179.25
+ORD-11154,1/27/2023,Laptop Pro X1,Electronics,Central,B2B,Deepa Nair,1,991.96,0,991.96,609.07,382.89
+ORD-11155,8/8/2024,USB-C Hub,Accessories,West,Online,Pooja Iyer,5,95.15,0,475.75,232.42,243.33
+ORD-11156,5/12/2023,Desk Lamp LED,Office,East,Retail,Karan Mehta,4,76.02,0,304.08,161.35,142.73
+ORD-11157,4/12/2023,"Monitor 27""",Electronics,West,B2B,Vikram Das,2,496.64,0,993.28,561.59,431.69
+ORD-11158,11/27/2023,USB-C Hub,Accessories,Central,Retail,Arjun Sharma,1,58.11,0,58.11,33.46,24.65
+ORD-11159,12/25/2024,Headphones Pro,Electronics,South,Reseller,Deepa Nair,2,210.8,20,337.28,191.85,145.43
+ORD-11160,9/3/2023,USB-C Hub,Accessories,West,B2B,Arjun Sharma,2,76.58,0,153.16,94.67,58.49
+ORD-11161,3/26/2023,Mechanical KB,Accessories,North,Online,Sunita Rao,4,130.79,5,497,296.04,200.96
+ORD-11162,5/6/2023,Headphones Pro,Electronics,West,B2B,Neha Singh,1,391.55,0,391.55,183.46,208.09
+ORD-11163,4/14/2023,Desk Lamp LED,Office,North,Retail,Karan Mehta,1,64.96,0,64.96,41.69,23.27
+ORD-11164,11/18/2023,Desk Lamp LED,Office,South,Online,Priya Patel,2,42.19,5,80.16,43.01,37.15
+ORD-11165,12/22/2023,Webcam HD,Electronics,East,Online,Neha Singh,1,69.62,5,66.14,33.53,32.61
+ORD-11166,1/31/2023,Headphones Pro,Electronics,East,Online,Neha Singh,2,227.09,5,431.47,224.03,207.44
+ORD-11167,12/2/2023,Laptop Pro X1,Electronics,East,Reseller,Neha Singh,1,926.72,0,926.72,440.48,486.24
+ORD-11168,12/23/2023,Wireless Mouse,Accessories,West,Reseller,Neha Singh,2,34.19,10,61.54,41.84,19.7
+ORD-11169,6/27/2023,Mechanical KB,Accessories,North,B2B,Ravi Kumar,1,171.35,10,154.22,110.07,44.15
+ORD-11170,5/14/2024,"Monitor 27""",Electronics,East,Online,Pooja Iyer,1,571.1,5,542.54,288.03,254.51
+ORD-11171,3/15/2024,Desk Lamp LED,Office,West,Retail,Arjun Sharma,1,61.35,0,61.35,37.66,23.69
+ORD-11172,9/17/2023,Chair Ergonomic,Office,Central,B2B,Karan Mehta,2,825.1,0,1650.2,955.5,694.7
+ORD-11173,4/28/2023,Laptop Pro X1,Electronics,North,Retail,Deepa Nair,1,1537.31,0,1537.31,801.78,735.53
+ORD-11174,5/29/2023,Webcam HD,Electronics,East,Retail,Sunita Rao,3,122.46,0,367.38,166.12,201.26
+ORD-11175,11/26/2023,Headphones Pro,Electronics,Central,Retail,Priya Patel,4,218.79,5,831.4,499.16,332.24
+ORD-11176,10/12/2023,Chair Ergonomic,Office,Central,Reseller,Karan Mehta,2,700.03,15,1190.05,818.01,372.04
+ORD-11177,11/24/2023,Webcam HD,Electronics,East,Reseller,Priya Patel,1,73.23,0,73.23,33.64,39.59
+ORD-11178,4/8/2024,Wireless Mouse,Accessories,East,Online,Pooja Iyer,1,55.69,0,55.69,31.48,24.21
+ORD-11179,4/17/2024,Laptop Pro X1,Electronics,Central,Online,Deepa Nair,1,1479.33,10,1331.4,930.74,400.66
+ORD-11180,1/17/2023,Tablet S10,Electronics,East,B2B,Deepa Nair,1,494.92,0,494.92,294.3,200.62
+ORD-11181,3/23/2023,Desk Lamp LED,Office,West,Reseller,Priya Patel,2,59.66,0,119.32,63.08,56.24
+ORD-11182,9/24/2024,Webcam HD,Electronics,East,Reseller,Neha Singh,1,102.22,0,102.22,48.84,53.38
+ORD-11183,4/1/2023,USB-C Hub,Accessories,North,Online,Amit Verma,1,89.66,15,76.21,56.54,19.67
+ORD-11184,4/24/2023,Laptop Pro X1,Electronics,West,B2B,Ravi Kumar,1,1458.55,0,1458.55,857.02,601.53
+ORD-11185,8/20/2024,USB-C Hub,Accessories,West,Reseller,Priya Patel,1,94.14,0,94.14,56.54,37.6
+ORD-11186,6/24/2024,Chair Ergonomic,Office,West,Retail,Priya Patel,1,1037.67,5,985.79,525.17,460.62
+ORD-11187,10/31/2023,Mechanical KB,Accessories,South,Online,Priya Patel,2,113.33,0,226.66,112.98,113.68
+ORD-11188,3/3/2023,Standing Desk,Office,West,Online,Deepa Nair,1,597.09,10,537.38,314.67,222.71
+ORD-11189,8/27/2024,"Monitor 27""",Electronics,West,Retail,Vikram Das,3,506.71,5,1444.12,971.17,472.95
+ORD-11190,5/14/2023,Wireless Mouse,Accessories,Central,Retail,Karan Mehta,1,64.66,0,64.66,40.32,24.34
+ORD-11191,3/12/2023,"Monitor 27""",Electronics,North,Retail,Sunita Rao,1,440.34,0,440.34,274.76,165.58
+ORD-11192,4/23/2023,Wireless Mouse,Accessories,Central,Reseller,Deepa Nair,1,54.59,15,46.4,24.88,21.52
+ORD-11193,5/2/2023,Mechanical KB,Accessories,Central,Reseller,Vikram Das,4,161.4,0,645.6,309.97,335.63
+ORD-11194,2/24/2023,Webcam HD,Electronics,West,Retail,Amit Verma,1,80.36,0,80.36,42.31,38.05
+ORD-11195,2/17/2024,"Monitor 27""",Electronics,North,Online,Neha Singh,1,385.75,0,385.75,213.6,172.15
+ORD-11196,8/13/2023,Wireless Mouse,Accessories,Central,Online,Amit Verma,1,56.77,15,48.25,28.26,19.99
+ORD-11197,9/27/2024,"Monitor 27""",Electronics,East,Reseller,Neha Singh,2,444.19,5,843.96,438.84,405.12
+ORD-11198,7/28/2023,USB-C Hub,Accessories,North,Retail,Vikram Das,1,100.48,0,100.48,59.96,40.52
+ORD-11199,9/29/2024,Phone Stand,Accessories,East,Online,Ravi Kumar,1,30.18,0,30.18,15.02,15.16
+ORD-11200,12/7/2023,USB-C Hub,Accessories,East,Online,Ravi Kumar,4,52.61,0,210.44,114.67,95.77
+ORD-11201,3/20/2023,Mechanical KB,Accessories,West,Online,Sunita Rao,1,122.68,10,110.41,63.85,46.56
+ORD-11202,4/28/2024,"Monitor 27""",Electronics,South,Retail,Ravi Kumar,1,519.82,10,467.84,336.89,130.95
+ORD-11203,4/13/2023,Wireless Mouse,Accessories,Central,B2B,Sunita Rao,1,56.08,10,50.47,33.48,16.99
+ORD-11204,1/9/2024,Mechanical KB,Accessories,Central,Reseller,Priya Patel,1,93.59,10,84.23,48.36,35.87
+ORD-11205,12/3/2024,Mechanical KB,Accessories,South,Retail,Deepa Nair,2,87.12,5,165.53,92.71,72.82
+ORD-11206,2/1/2023,Standing Desk,Office,North,Retail,Karan Mehta,1,533.25,10,479.92,278.29,201.63
+ORD-11207,4/21/2023,Tablet S10,Electronics,West,Retail,Amit Verma,5,759.69,15,3228.68,2392.43,836.25
+ORD-11208,12/24/2023,Tablet S10,Electronics,East,Retail,Arjun Sharma,4,450.54,0,1802.16,1169.22,632.94
+ORD-11209,6/16/2024,Headphones Pro,Electronics,Central,B2B,Amit Verma,2,374.04,10,673.27,455.63,217.64
+ORD-11210,1/9/2023,Wireless Mouse,Accessories,East,Retail,Amit Verma,1,36.15,10,32.53,17.35,15.18
+ORD-11211,10/23/2023,Standing Desk,Office,Central,Online,Arjun Sharma,1,506.8,0,506.8,250.09,256.71
+ORD-11212,11/10/2023,Standing Desk,Office,South,B2B,Amit Verma,1,458.19,0,458.19,210.76,247.43
+ORD-11213,11/12/2024,Chair Ergonomic,Office,South,Retail,Karan Mehta,5,618.25,5,2936.69,1832,1104.69
+ORD-11214,3/24/2023,Headphones Pro,Electronics,West,Reseller,Karan Mehta,1,311.94,0,311.94,155.89,156.05
+ORD-11215,9/25/2023,Wireless Mouse,Accessories,East,Retail,Neha Singh,4,47.4,5,180.12,101.85,78.27
+ORD-11216,5/19/2023,Mechanical KB,Accessories,West,Retail,Karan Mehta,1,159.35,0,159.35,81.18,78.17
+ORD-11217,4/9/2023,Desk Lamp LED,Office,East,Reseller,Deepa Nair,1,66.58,5,63.25,42.41,20.84
+ORD-11218,4/22/2024,Desk Lamp LED,Office,West,Online,Ravi Kumar,1,64.65,5,61.42,36.32,25.1
+ORD-11219,11/6/2023,Headphones Pro,Electronics,Central,B2B,Arjun Sharma,3,218.51,5,622.75,376.39,246.36
+ORD-11220,5/9/2023,Desk Lamp LED,Office,West,Online,Priya Patel,1,76.61,0,76.61,47.88,28.73
+ORD-11221,10/4/2023,Laptop Pro X1,Electronics,East,Reseller,Deepa Nair,3,1085.76,5,3094.42,1529.23,1565.19
+ORD-11222,5/5/2023,Laptop Pro X1,Electronics,South,Retail,Vikram Das,2,1675.66,10,3016.19,1543.63,1472.56
+ORD-11223,5/22/2024,Phone Stand,Accessories,East,Online,Sunita Rao,1,37.04,15,31.48,17.81,13.67
+ORD-11224,12/5/2024,Headphones Pro,Electronics,Central,Online,Neha Singh,1,202.04,0,202.04,126.47,75.57
+ORD-11225,4/17/2023,"Monitor 27""",Electronics,North,B2B,Karan Mehta,1,513.45,10,462.11,236.77,225.34
+ORD-11226,7/8/2023,Standing Desk,Office,West,Online,Karan Mehta,3,758.15,10,2047,1397.28,649.72
+ORD-11227,10/13/2024,USB-C Hub,Accessories,Central,Retail,Sunita Rao,1,68.79,0,68.79,34.27,34.52
+ORD-11228,10/24/2023,Standing Desk,Office,East,Reseller,Karan Mehta,1,513.67,0,513.67,268.89,244.78
+ORD-11229,4/20/2023,Phone Stand,Accessories,North,Reseller,Arjun Sharma,1,32.18,10,28.96,16.31,12.65
+ORD-11230,11/7/2023,Headphones Pro,Electronics,East,Retail,Sunita Rao,1,224.8,10,202.32,121.14,81.18
+ORD-11231,4/14/2024,Phone Stand,Accessories,Central,Retail,Deepa Nair,1,32.88,20,26.3,20.42,5.88
+ORD-11232,6/21/2024,Phone Stand,Accessories,Central,B2B,Sunita Rao,1,38.29,0,38.29,19.93,18.36
+ORD-11233,5/24/2023,Phone Stand,Accessories,West,Reseller,Sunita Rao,1,35.81,10,32.23,18.94,13.29
+ORD-11234,11/5/2024,Headphones Pro,Electronics,East,Retail,Deepa Nair,1,221.47,10,199.32,128.85,70.47
+ORD-11235,8/17/2024,Headphones Pro,Electronics,South,Retail,Priya Patel,1,340.54,5,323.51,156.3,167.21
+ORD-11236,4/19/2023,Tablet S10,Electronics,South,Online,Ravi Kumar,1,733.19,10,659.87,363.89,295.98
+ORD-11237,1/29/2024,Phone Stand,Accessories,North,Online,Priya Patel,3,20.53,5,58.51,35.25,23.26
+ORD-11238,1/19/2024,Standing Desk,Office,West,Reseller,Ravi Kumar,2,462.15,10,831.87,475.3,356.57
+ORD-11239,8/10/2024,Tablet S10,Electronics,South,Retail,Ravi Kumar,2,745.69,0,1491.38,873.61,617.77
+ORD-11240,6/25/2024,Desk Lamp LED,Office,North,Retail,Arjun Sharma,3,77.33,0,231.99,133.59,98.4
+ORD-11241,1/6/2023,USB-C Hub,Accessories,South,Reseller,Neha Singh,1,58.75,5,55.81,27.28,28.53
+ORD-11242,8/7/2024,"Monitor 27""",Electronics,South,Online,Sunita Rao,3,508.94,5,1450.48,961.82,488.66
+ORD-11243,10/2/2024,Desk Lamp LED,Office,East,Online,Priya Patel,1,48.03,0,48.03,29.13,18.9
+ORD-11244,8/25/2023,Standing Desk,Office,East,B2B,Karan Mehta,1,655.96,5,623.16,402.93,220.23
+ORD-11245,1/2/2024,Phone Stand,Accessories,Central,Retail,Vikram Das,1,22.47,15,19.1,10.45,8.65
+ORD-11246,5/27/2024,Headphones Pro,Electronics,Central,Reseller,Amit Verma,1,378.41,5,359.49,237.78,121.71
+ORD-11247,1/31/2023,Tablet S10,Electronics,North,Retail,Neha Singh,1,466,5,442.7,292.46,150.24
+ORD-11248,12/4/2023,Chair Ergonomic,Office,North,Online,Deepa Nair,4,580.46,10,2089.66,1154.24,935.42
+ORD-11249,3/2/2024,Wireless Mouse,Accessories,South,B2B,Arjun Sharma,2,46.94,5,89.19,52.6,36.59
+ORD-11250,2/6/2023,Wireless Mouse,Accessories,South,Online,Arjun Sharma,1,41.03,0,41.03,22.38,18.65
+ORD-11251,7/20/2023,Laptop Pro X1,Electronics,Central,Reseller,Arjun Sharma,2,1666.26,15,2832.64,1991.46,841.18
+ORD-11252,1/22/2024,Desk Lamp LED,Office,West,Online,Pooja Iyer,2,43.35,5,82.36,41.4,40.96
+ORD-11253,12/27/2023,Webcam HD,Electronics,Central,Online,Neha Singh,1,66.24,5,62.93,32.88,30.05
+ORD-11254,7/3/2024,Desk Lamp LED,Office,North,Online,Arjun Sharma,2,70.72,20,113.15,84.01,29.14
+ORD-11255,3/25/2024,USB-C Hub,Accessories,South,B2B,Ravi Kumar,1,77.81,0,77.81,45.21,32.6
+ORD-11256,2/12/2024,Headphones Pro,Electronics,Central,Retail,Sunita Rao,1,243.39,0,243.39,121.7,121.69
+ORD-11257,1/1/2024,Phone Stand,Accessories,East,B2B,Neha Singh,4,21.34,15,72.56,43.58,28.98
+ORD-11258,10/1/2023,Chair Ergonomic,Office,West,Reseller,Amit Verma,1,652.28,5,619.67,338.75,280.92
+ORD-11259,7/28/2023,Wireless Mouse,Accessories,Central,Retail,Priya Patel,4,61.86,10,222.7,126.44,96.26
+ORD-11260,5/26/2023,Webcam HD,Electronics,North,Online,Sunita Rao,1,123.98,0,123.98,74.74,49.24
+ORD-11261,10/4/2023,Laptop Pro X1,Electronics,East,Reseller,Sunita Rao,1,1140.28,0,1140.28,532.4,607.88
+ORD-11262,1/27/2024,Laptop Pro X1,Electronics,West,Online,Amit Verma,1,933.22,0,933.22,454.37,478.85
+ORD-11263,7/8/2024,Laptop Pro X1,Electronics,East,B2B,Pooja Iyer,3,1703.6,15,4344.18,3071.06,1273.12
+ORD-11264,1/29/2023,"Monitor 27""",Electronics,North,Online,Vikram Das,1,330.16,10,297.14,176.8,120.34
+ORD-11265,11/25/2024,Desk Lamp LED,Office,Central,B2B,Ravi Kumar,1,43.82,20,35.06,23.43,11.63
+ORD-11266,4/23/2024,Desk Lamp LED,Office,East,Online,Neha Singh,2,65.35,15,111.09,59.21,51.88
+ORD-11267,10/30/2023,Chair Ergonomic,Office,East,Online,Priya Patel,1,687,0,687,358.85,328.15
+ORD-11268,8/5/2024,Mechanical KB,Accessories,North,Reseller,Arjun Sharma,2,153.51,10,276.32,165.41,110.91
+ORD-11269,2/7/2023,Standing Desk,Office,North,Online,Amit Verma,5,526.68,5,2501.73,1299.76,1201.97
+ORD-11270,7/18/2024,Headphones Pro,Electronics,East,B2B,Sunita Rao,1,364.62,0,364.62,219.94,144.68
+ORD-11271,8/21/2023,USB-C Hub,Accessories,North,Online,Ravi Kumar,2,91.92,0,183.84,84.55,99.29
+ORD-11272,6/2/2024,Tablet S10,Electronics,North,B2B,Amit Verma,3,805.05,5,2294.39,1433.32,861.07
+ORD-11273,11/25/2024,Laptop Pro X1,Electronics,South,B2B,Priya Patel,3,965.4,10,2606.58,1329.2,1277.38
+ORD-11274,6/3/2024,Wireless Mouse,Accessories,East,Reseller,Priya Patel,1,62.02,5,58.92,31.95,26.97
+ORD-11275,3/12/2024,Tablet S10,Electronics,East,Reseller,Deepa Nair,4,637.74,0,2550.96,1550.05,1000.91
+ORD-11276,10/29/2023,Standing Desk,Office,Central,Online,Priya Patel,2,485.96,0,971.92,618.2,353.72
+ORD-11277,8/5/2023,Headphones Pro,Electronics,Central,B2B,Neha Singh,3,353.51,5,1007.5,585.03,422.47
+ORD-11278,8/19/2024,Desk Lamp LED,Office,North,Online,Neha Singh,1,67.04,10,60.34,43.55,16.79
+ORD-11279,5/30/2024,Headphones Pro,Electronics,North,Online,Pooja Iyer,5,385.5,5,1831.12,1075.15,755.97
+ORD-11280,11/6/2024,Standing Desk,Office,East,Retail,Deepa Nair,2,433.14,5,822.97,534.67,288.3
+ORD-11281,1/6/2024,"Monitor 27""",Electronics,West,Reseller,Deepa Nair,1,348.05,0,348.05,204.87,143.18
+ORD-11282,12/27/2023,Wireless Mouse,Accessories,South,Reseller,Karan Mehta,2,33.83,0,67.66,37,30.66
+ORD-11283,8/6/2024,"Monitor 27""",Electronics,West,Retail,Pooja Iyer,3,538.33,20,1291.99,805.86,486.13
+ORD-11284,10/21/2023,Mechanical KB,Accessories,South,Reseller,Neha Singh,1,108.65,0,108.65,59.87,48.78
+ORD-11285,4/9/2024,USB-C Hub,Accessories,West,Online,Ravi Kumar,1,88.7,0,88.7,49.75,38.95
+ORD-11286,3/17/2024,Laptop Pro X1,Electronics,Central,Reseller,Karan Mehta,1,1243.53,0,1243.53,687.65,555.88
+ORD-11287,5/11/2023,Webcam HD,Electronics,East,Online,Arjun Sharma,1,127.36,5,120.99,60.34,60.65
+ORD-11288,12/30/2023,Wireless Mouse,Accessories,West,B2B,Sunita Rao,4,34.75,15,118.15,83.14,35.01
+ORD-11289,5/18/2023,Phone Stand,Accessories,Central,Online,Ravi Kumar,2,36.86,10,66.35,45.27,21.08
+ORD-11290,8/30/2024,Laptop Pro X1,Electronics,South,B2B,Priya Patel,2,1486.91,10,2676.44,1528.8,1147.64
+ORD-11291,11/1/2023,"Monitor 27""",Electronics,Central,Reseller,Amit Verma,1,332.93,0,332.93,184.79,148.14
+ORD-11292,1/29/2024,Webcam HD,Electronics,South,Reseller,Vikram Das,1,70.66,0,70.66,43.3,27.36
+ORD-11293,8/11/2024,Mechanical KB,Accessories,East,B2B,Sunita Rao,4,146.09,0,584.36,282.32,302.04
+ORD-11294,8/18/2023,Standing Desk,Office,North,Retail,Amit Verma,4,717.62,0,2870.48,1859.39,1011.09
+ORD-11295,4/9/2023,USB-C Hub,Accessories,North,Retail,Arjun Sharma,1,93.17,10,83.85,42.44,41.41
+ORD-11296,1/27/2023,Standing Desk,Office,West,Retail,Sunita Rao,1,463.23,0,463.23,247.97,215.26
+ORD-11297,4/23/2023,Mechanical KB,Accessories,West,B2B,Priya Patel,2,142.71,15,242.61,179.18,63.43
+ORD-11298,10/13/2023,USB-C Hub,Accessories,South,Online,Deepa Nair,2,66.17,0,132.34,61.65,70.69
+ORD-11299,6/3/2024,USB-C Hub,Accessories,North,B2B,Arjun Sharma,1,105.12,5,99.86,61.43,38.43
+ORD-11300,4/13/2023,Desk Lamp LED,Office,North,Online,Neha Singh,4,66.61,10,239.8,164.74,75.06
+ORD-11301,8/23/2024,USB-C Hub,Accessories,South,Reseller,Ravi Kumar,1,92.42,15,78.56,46.49,32.07
+ORD-11302,5/23/2024,Phone Stand,Accessories,South,Online,Karan Mehta,1,37.91,0,37.91,24.27,13.64
+ORD-11303,5/17/2024,Wireless Mouse,Accessories,East,Reseller,Pooja Iyer,2,59.74,0,119.48,63.76,55.72
+ORD-11304,10/15/2024,"Monitor 27""",Electronics,South,B2B,Sunita Rao,1,398.99,5,379.04,249.6,129.44
+ORD-11305,10/7/2024,Standing Desk,Office,North,B2B,Karan Mehta,1,508.18,0,508.18,238.49,269.69
+ORD-11306,11/30/2023,Standing Desk,Office,North,B2B,Karan Mehta,1,429.02,5,407.57,275.11,132.46
+ORD-11307,5/12/2023,Phone Stand,Accessories,West,Retail,Arjun Sharma,3,37.65,5,107.3,61.88,45.42
+ORD-11308,10/2/2023,Mechanical KB,Accessories,East,B2B,Deepa Nair,2,112.75,15,191.68,104.22,87.46
+ORD-11309,2/5/2024,Desk Lamp LED,Office,West,Retail,Deepa Nair,3,48.95,5,139.51,67.69,71.82
+ORD-11310,2/16/2023,Tablet S10,Electronics,South,Online,Pooja Iyer,1,555.65,5,527.87,268.55,259.32
+ORD-11311,12/4/2023,Headphones Pro,Electronics,West,Online,Deepa Nair,1,218.72,5,207.78,99.35,108.43
+ORD-11312,7/20/2024,Webcam HD,Electronics,South,Reseller,Neha Singh,1,121.11,0,121.11,67.47,53.64
+ORD-11313,6/15/2023,Mechanical KB,Accessories,North,Online,Arjun Sharma,4,162.93,0,651.72,388.86,262.86
+ORD-11314,4/15/2023,Chair Ergonomic,Office,North,Retail,Neha Singh,2,876.79,10,1578.22,888.4,689.82
+ORD-11315,10/6/2023,Laptop Pro X1,Electronics,East,Online,Priya Patel,2,1090.66,10,1963.19,1156.43,806.76
+ORD-11316,5/31/2024,Wireless Mouse,Accessories,Central,Retail,Priya Patel,2,61.21,10,110.18,55.45,54.73
+ORD-11317,8/25/2024,Phone Stand,Accessories,East,Reseller,Vikram Das,3,33.7,0,101.1,51.81,49.29
+ORD-11318,1/24/2023,Phone Stand,Accessories,Central,Reseller,Karan Mehta,1,20.61,5,19.58,13.27,6.31
+ORD-11319,3/15/2024,Mechanical KB,Accessories,Central,Retail,Karan Mehta,1,129.79,20,103.83,70.95,32.88
+ORD-11320,5/23/2024,Laptop Pro X1,Electronics,West,Retail,Pooja Iyer,2,1679.48,20,2687.17,1991.58,695.59
+ORD-11321,2/11/2024,Laptop Pro X1,Electronics,East,B2B,Ravi Kumar,3,1101.59,5,3139.53,1559.16,1580.37
+ORD-11322,3/27/2023,Tablet S10,Electronics,South,Online,Ravi Kumar,1,672.68,0,672.68,368.6,304.08
+ORD-11323,9/23/2024,Desk Lamp LED,Office,North,Reseller,Amit Verma,3,61,5,173.85,110.19,63.66
+ORD-11324,11/15/2023,Desk Lamp LED,Office,Central,Reseller,Arjun Sharma,2,41.65,10,74.97,48.96,26.01
+ORD-11325,12/7/2024,Mechanical KB,Accessories,South,B2B,Sunita Rao,1,90.2,5,85.69,49.61,36.08
+ORD-11326,5/9/2024,Phone Stand,Accessories,North,Reseller,Priya Patel,2,38.33,15,65.16,35.75,29.41
+ORD-11327,5/11/2023,Desk Lamp LED,Office,West,Online,Arjun Sharma,3,76.17,0,228.51,110.43,118.08
+ORD-11328,5/22/2024,Desk Lamp LED,Office,Central,Reseller,Karan Mehta,1,74.23,10,66.81,44.52,22.29
+ORD-11329,10/31/2023,Laptop Pro X1,Electronics,East,B2B,Pooja Iyer,1,1128.44,20,902.75,706.45,196.3
+ORD-11330,7/31/2024,Webcam HD,Electronics,Central,B2B,Vikram Das,2,125.01,0,250.02,122.73,127.29
+ORD-11331,9/15/2023,Headphones Pro,Electronics,South,Retail,Vikram Das,1,293.92,0,293.92,176.16,117.76
+ORD-11332,4/30/2024,Phone Stand,Accessories,North,B2B,Neha Singh,1,32.18,5,30.57,14.91,15.66
+ORD-11333,12/11/2024,"Monitor 27""",Electronics,Central,Retail,Priya Patel,1,301.56,5,286.48,173.4,113.08
+ORD-11334,10/13/2024,Webcam HD,Electronics,East,B2B,Karan Mehta,2,85.23,0,170.46,108.34,62.12
+ORD-11335,11/10/2023,Headphones Pro,Electronics,South,Online,Pooja Iyer,1,230.93,10,207.84,129.83,78.01
+ORD-11336,4/16/2023,USB-C Hub,Accessories,Central,Reseller,Deepa Nair,2,88.7,0,177.4,83.46,93.94
+ORD-11337,8/29/2024,Headphones Pro,Electronics,West,Retail,Ravi Kumar,2,352.01,20,563.22,403.53,159.69
+ORD-11338,8/26/2023,Laptop Pro X1,Electronics,South,Reseller,Arjun Sharma,5,1539.17,0,7695.85,3688.61,4007.24
+ORD-11339,3/21/2023,Webcam HD,Electronics,West,B2B,Amit Verma,4,99.12,0,396.48,213.28,183.2
+ORD-11340,5/1/2023,Chair Ergonomic,Office,East,B2B,Vikram Das,1,1034.16,0,1034.16,611.45,422.71
+ORD-11341,6/27/2024,Webcam HD,Electronics,East,Retail,Karan Mehta,1,125.02,5,118.77,60.41,58.36
+ORD-11342,3/28/2024,Chair Ergonomic,Office,West,B2B,Ravi Kumar,1,813.81,10,732.43,457.02,275.41
+ORD-11343,1/10/2024,Laptop Pro X1,Electronics,Central,Retail,Karan Mehta,3,946.7,10,2556.09,1518.93,1037.16
+ORD-11344,7/3/2023,Webcam HD,Electronics,South,Online,Pooja Iyer,4,120.93,20,386.98,252.6,134.38
+ORD-11345,12/3/2023,Mechanical KB,Accessories,Central,B2B,Arjun Sharma,1,88.08,0,88.08,55.87,32.21
+ORD-11346,10/9/2023,Tablet S10,Electronics,East,Online,Pooja Iyer,2,579,0,1158,684.21,473.79
+ORD-11347,4/27/2024,Laptop Pro X1,Electronics,Central,Online,Arjun Sharma,5,1492.4,5,7088.9,4064.47,3024.43
+ORD-11348,1/30/2023,Webcam HD,Electronics,South,Online,Karan Mehta,2,74.79,10,134.62,72.6,62.02
+ORD-11349,2/27/2023,Wireless Mouse,Accessories,East,Retail,Pooja Iyer,1,40.88,10,36.79,25.41,11.38
+ORD-11350,1/18/2023,Phone Stand,Accessories,South,B2B,Vikram Das,1,22.32,10,20.09,14.05,6.04
+ORD-11351,11/11/2024,Laptop Pro X1,Electronics,Central,Retail,Amit Verma,1,977.82,10,880.04,452.72,427.32
+ORD-11352,6/26/2023,Wireless Mouse,Accessories,South,Online,Amit Verma,1,61.78,0,61.78,34.05,27.73
+ORD-11353,7/28/2024,Mechanical KB,Accessories,Central,Reseller,Priya Patel,1,163.62,0,163.62,96.41,67.21
+ORD-11354,4/3/2023,Wireless Mouse,Accessories,North,Retail,Arjun Sharma,1,55.32,0,55.32,31.83,23.49
+ORD-11355,10/15/2024,"Monitor 27""",Electronics,South,Retail,Amit Verma,1,390.21,0,390.21,194.85,195.36
+ORD-11356,1/24/2024,Laptop Pro X1,Electronics,South,Retail,Amit Verma,2,926.94,0,1853.88,951.24,902.64
+ORD-11357,7/1/2023,"Monitor 27""",Electronics,East,B2B,Deepa Nair,5,562.24,0,2811.2,1317,1494.2
+ORD-11358,6/19/2024,Tablet S10,Electronics,Central,Reseller,Ravi Kumar,1,871.69,5,828.11,398.66,429.45
+ORD-11359,8/5/2024,Chair Ergonomic,Office,East,Retail,Deepa Nair,1,904.78,10,814.3,553.89,260.41
+ORD-11360,5/30/2024,Phone Stand,Accessories,South,B2B,Neha Singh,2,35.69,10,64.24,39.45,24.79
+ORD-11361,9/25/2023,Standing Desk,Office,South,Reseller,Pooja Iyer,1,608.48,0,608.48,296.5,311.98
+ORD-11362,1/17/2024,Webcam HD,Electronics,North,B2B,Arjun Sharma,2,76.22,10,137.2,78.43,58.77
+ORD-11363,3/7/2024,USB-C Hub,Accessories,East,B2B,Ravi Kumar,1,82.18,0,82.18,40.06,42.12
+ORD-11364,7/13/2024,Standing Desk,Office,Central,Reseller,Karan Mehta,1,777.96,0,777.96,421.1,356.86
+ORD-11365,9/7/2023,Standing Desk,Office,East,Online,Neha Singh,1,589.29,0,589.29,345.15,244.14
+ORD-11366,4/21/2023,Chair Ergonomic,Office,North,Retail,Vikram Das,1,960.56,10,864.5,509.24,355.26
+ORD-11367,11/4/2023,USB-C Hub,Accessories,Central,Retail,Ravi Kumar,4,61.06,20,195.39,119.6,75.79
+ORD-11368,12/8/2023,Tablet S10,Electronics,South,B2B,Sunita Rao,3,435.69,0,1307.07,795.45,511.62
+ORD-11369,6/19/2023,Desk Lamp LED,Office,East,Online,Ravi Kumar,1,74.4,10,66.96,36.04,30.92
+ORD-11370,7/28/2023,"Monitor 27""",Electronics,East,Online,Sunita Rao,1,546.09,10,491.48,306.39,185.09
+ORD-11371,12/19/2023,USB-C Hub,Accessories,West,Reseller,Sunita Rao,1,54.71,5,51.97,26.94,25.03
+ORD-11372,9/6/2023,Phone Stand,Accessories,South,Reseller,Deepa Nair,3,27.92,0,83.76,50.47,33.29
+ORD-11373,11/21/2024,Mechanical KB,Accessories,West,Online,Neha Singh,2,94.47,5,179.49,87.73,91.76
+ORD-11374,7/2/2023,Headphones Pro,Electronics,Central,Reseller,Priya Patel,3,370.65,0,1111.95,683.46,428.49
+ORD-11375,8/24/2023,Tablet S10,Electronics,East,Reseller,Ravi Kumar,1,724.8,0,724.8,389.28,335.52
+ORD-11376,6/4/2023,Desk Lamp LED,Office,West,Retail,Ravi Kumar,1,79.16,0,79.16,36.17,42.99
+ORD-11377,11/29/2024,Desk Lamp LED,Office,North,Reseller,Arjun Sharma,2,45.01,0,90.02,46.74,43.28
+ORD-11378,11/23/2023,USB-C Hub,Accessories,West,Reseller,Arjun Sharma,1,59.56,5,56.58,26.94,29.64
+ORD-11379,3/11/2024,Mechanical KB,Accessories,West,B2B,Sunita Rao,1,130.34,5,123.82,79.57,44.25
+ORD-11380,12/10/2023,Phone Stand,Accessories,West,Reseller,Priya Patel,3,19.51,20,46.82,28.43,18.39
+ORD-11381,1/8/2023,USB-C Hub,Accessories,Central,Reseller,Karan Mehta,1,59,15,50.15,28.88,21.27
+ORD-11382,4/20/2024,Laptop Pro X1,Electronics,Central,B2B,Amit Verma,1,1492.3,0,1492.3,781.1,711.2
+ORD-11383,12/12/2023,Desk Lamp LED,Office,East,B2B,Karan Mehta,2,39.33,10,70.79,39.6,31.19
+ORD-11384,4/2/2024,Laptop Pro X1,Electronics,North,Reseller,Neha Singh,1,1508.16,5,1432.75,786.43,646.32
+ORD-11385,3/28/2023,USB-C Hub,Accessories,East,B2B,Sunita Rao,2,76.19,0,152.38,83.61,68.77
+ORD-11386,9/24/2024,Phone Stand,Accessories,Central,Reseller,Arjun Sharma,1,29.97,10,26.97,17.88,9.09
+ORD-11387,12/1/2023,Wireless Mouse,Accessories,North,Reseller,Vikram Das,1,35.94,0,35.94,20.76,15.18
+ORD-11388,3/22/2023,Phone Stand,Accessories,South,B2B,Priya Patel,1,28.43,5,27.01,15.07,11.94
+ORD-11389,4/30/2023,Desk Lamp LED,Office,Central,Retail,Arjun Sharma,3,71.21,5,202.95,122.43,80.52
+ORD-11390,8/10/2024,Webcam HD,Electronics,South,B2B,Vikram Das,1,113.13,10,101.82,67.81,34.01
+ORD-11391,2/16/2023,Tablet S10,Electronics,West,Retail,Arjun Sharma,2,561.48,15,954.52,566.57,387.95
+ORD-11392,11/3/2024,Desk Lamp LED,Office,East,Online,Neha Singh,1,44.1,0,44.1,28.45,15.65
+ORD-11393,1/19/2023,"Monitor 27""",Electronics,Central,Reseller,Pooja Iyer,2,336.05,0,672.1,400.32,271.78
+ORD-11394,10/12/2024,Desk Lamp LED,Office,East,B2B,Deepa Nair,2,50.03,5,95.06,56.19,38.87
+ORD-11395,3/31/2024,Webcam HD,Electronics,South,Reseller,Amit Verma,1,98.99,15,84.14,55.08,29.06
+ORD-11396,2/3/2023,Desk Lamp LED,Office,East,Online,Neha Singh,2,48.04,5,91.28,52.59,38.69
+ORD-11397,6/26/2024,Phone Stand,Accessories,North,Retail,Pooja Iyer,1,37,0,37,21.64,15.36
+ORD-11398,6/20/2023,Headphones Pro,Electronics,East,Reseller,Neha Singh,2,385.41,5,732.28,464.8,267.48
+ORD-11399,7/4/2024,Desk Lamp LED,Office,South,Retail,Priya Patel,1,76.93,5,73.08,36.11,36.97
+ORD-11400,10/24/2023,Headphones Pro,Electronics,West,Reseller,Deepa Nair,1,261.2,0,261.2,155.91,105.29
+ORD-11401,3/4/2024,"Monitor 27""",Electronics,East,Reseller,Neha Singh,4,461.15,0,1844.6,1062.59,782.01
+ORD-11402,5/21/2024,Desk Lamp LED,Office,South,Reseller,Amit Verma,3,77.48,0,232.44,111.9,120.54
+ORD-11403,6/29/2024,Laptop Pro X1,Electronics,North,Reseller,Pooja Iyer,3,1715.08,10,4630.72,3018.56,1612.16
+ORD-11404,3/4/2024,Tablet S10,Electronics,South,Online,Pooja Iyer,5,657.85,5,3124.79,1887.29,1237.5
+ORD-11405,2/23/2024,Headphones Pro,Electronics,West,Online,Deepa Nair,4,247.79,0,991.16,558.88,432.28
+ORD-11406,9/7/2024,Laptop Pro X1,Electronics,South,Reseller,Deepa Nair,4,1305.76,10,4700.74,3252.32,1448.42
+ORD-11407,9/3/2023,Phone Stand,Accessories,East,Online,Arjun Sharma,1,30.22,15,25.69,15.55,10.14
+ORD-11408,8/14/2024,"Monitor 27""",Electronics,South,Reseller,Vikram Das,1,521.68,0,521.68,338.02,183.66
+ORD-11409,4/24/2023,Tablet S10,Electronics,South,Reseller,Priya Patel,3,774.12,10,2090.12,1467.21,622.91
+ORD-11410,2/3/2023,Laptop Pro X1,Electronics,West,Online,Karan Mehta,2,1106.33,5,2102.03,1203.78,898.25
+ORD-11411,7/4/2024,Mechanical KB,Accessories,North,Reseller,Sunita Rao,1,164.91,10,148.42,91.83,56.59
+ORD-11412,3/3/2023,Phone Stand,Accessories,East,Reseller,Vikram Das,1,29.93,0,29.93,18.07,11.86
+ORD-11413,10/27/2024,Tablet S10,Electronics,Central,Online,Ravi Kumar,1,529.78,10,476.8,328.15,148.65
+ORD-11414,2/27/2024,Webcam HD,Electronics,East,Online,Deepa Nair,2,81.99,0,163.98,89.62,74.36
+ORD-11415,12/11/2024,Tablet S10,Electronics,East,B2B,Amit Verma,1,453.92,15,385.83,226.48,159.35
+ORD-11416,3/31/2024,Phone Stand,Accessories,North,Retail,Ravi Kumar,1,28.3,5,26.88,14.29,12.59
+ORD-11417,10/23/2023,Chair Ergonomic,Office,East,Retail,Pooja Iyer,1,683.47,15,580.95,405.13,175.82
+ORD-11418,11/9/2023,Tablet S10,Electronics,South,Retail,Pooja Iyer,1,470.53,5,447,281.73,165.27
+ORD-11419,1/29/2024,Mechanical KB,Accessories,South,Online,Amit Verma,1,98.84,0,98.84,56.01,42.83
+ORD-11420,6/4/2024,Webcam HD,Electronics,South,B2B,Ravi Kumar,2,127.49,20,203.98,146.28,57.7
+ORD-11421,5/28/2024,Headphones Pro,Electronics,South,Reseller,Ravi Kumar,1,390.45,0,390.45,213.6,176.85
+ORD-11422,1/24/2024,Standing Desk,Office,South,Retail,Amit Verma,1,436.39,15,370.93,223.37,147.56
+ORD-11423,5/3/2023,Headphones Pro,Electronics,North,Retail,Neha Singh,2,375.15,0,750.3,474.6,275.7
+ORD-11424,11/11/2024,Webcam HD,Electronics,East,Online,Arjun Sharma,1,76.59,5,72.76,42.24,30.52
+ORD-11425,8/3/2024,Standing Desk,Office,South,Retail,Sunita Rao,2,709.33,0,1418.66,690.23,728.43
+ORD-11426,2/11/2023,USB-C Hub,Accessories,North,Retail,Vikram Das,5,65.66,0,328.3,196.53,131.77
+ORD-11427,3/4/2023,Mechanical KB,Accessories,North,Online,Deepa Nair,1,132.38,0,132.38,72.21,60.17
+ORD-11428,3/16/2023,Tablet S10,Electronics,Central,Retail,Pooja Iyer,1,621.96,0,621.96,304.44,317.52
+ORD-11429,11/4/2023,Standing Desk,Office,West,Retail,Pooja Iyer,2,459.39,5,872.84,433.94,438.9
+ORD-11430,9/21/2024,Tablet S10,Electronics,East,Reseller,Ravi Kumar,3,632.89,20,1518.94,1009.02,509.92
+ORD-11431,6/3/2024,Webcam HD,Electronics,Central,Retail,Deepa Nair,1,130.57,0,130.57,65.66,64.91
+ORD-11432,11/25/2024,Mechanical KB,Accessories,South,Reseller,Arjun Sharma,2,94.91,0,189.82,122.52,67.3
+ORD-11433,6/5/2024,Webcam HD,Electronics,East,Online,Sunita Rao,1,123.11,0,123.11,66.04,57.07
+ORD-11434,10/15/2024,Webcam HD,Electronics,South,Retail,Amit Verma,2,81.57,10,146.83,76.96,69.87
+ORD-11435,11/9/2023,Chair Ergonomic,Office,Central,Retail,Pooja Iyer,1,567.93,5,539.53,289.65,249.88
+ORD-11436,6/8/2023,Tablet S10,Electronics,South,Retail,Deepa Nair,1,834.95,0,834.95,404.41,430.54
+ORD-11437,4/30/2024,Chair Ergonomic,Office,East,Reseller,Amit Verma,2,944.56,10,1700.21,951.88,748.33
+ORD-11438,5/29/2023,Webcam HD,Electronics,East,Reseller,Pooja Iyer,1,128.83,10,115.95,66.1,49.85
+ORD-11439,3/3/2024,Desk Lamp LED,Office,South,Reseller,Amit Verma,1,56.38,15,47.92,29.98,17.94
+ORD-11440,12/22/2024,Laptop Pro X1,Electronics,North,B2B,Karan Mehta,1,887.11,10,798.4,546.91,251.49
+ORD-11441,11/30/2023,Desk Lamp LED,Office,West,B2B,Priya Patel,2,44.97,10,80.95,51.58,29.37
+ORD-11442,9/6/2023,Wireless Mouse,Accessories,North,Reseller,Sunita Rao,1,51.16,10,46.04,29.09,16.95
+ORD-11443,10/14/2023,"Monitor 27""",Electronics,East,B2B,Vikram Das,5,364.83,5,1732.94,841.34,891.6
+ORD-11444,3/24/2024,Webcam HD,Electronics,East,Reseller,Ravi Kumar,4,95.38,0,381.52,228.9,152.62
+ORD-11445,8/26/2024,USB-C Hub,Accessories,Central,B2B,Vikram Das,1,87.11,0,87.11,43.47,43.64
+ORD-11446,10/26/2023,Chair Ergonomic,Office,East,B2B,Sunita Rao,2,697.48,0,1394.96,870.66,524.3
+ORD-11447,8/8/2023,Phone Stand,Accessories,East,B2B,Pooja Iyer,1,33.22,5,31.56,17.16,14.4
+ORD-11448,1/24/2023,Phone Stand,Accessories,North,Online,Vikram Das,1,21.31,5,20.24,13.02,7.22
+ORD-11449,1/17/2023,Webcam HD,Electronics,East,Reseller,Amit Verma,2,76.65,20,122.64,95.75,26.89
+ORD-11450,12/8/2023,Headphones Pro,Electronics,North,Retail,Vikram Das,2,210.67,10,379.21,271.7,107.51
+ORD-11451,8/10/2024,Wireless Mouse,Accessories,West,B2B,Sunita Rao,4,59.13,5,224.69,142,82.69
+ORD-11452,6/5/2023,Standing Desk,Office,Central,Reseller,Arjun Sharma,2,790.21,0,1580.42,818.6,761.82
+ORD-11453,8/11/2024,Desk Lamp LED,Office,East,Reseller,Ravi Kumar,1,67.1,5,63.74,30.31,33.43
+ORD-11454,8/17/2023,Mechanical KB,Accessories,South,B2B,Pooja Iyer,2,148.83,10,267.89,172.86,95.03
+ORD-11455,7/13/2023,USB-C Hub,Accessories,Central,Online,Ravi Kumar,3,96.36,0,289.08,131.6,157.48
+ORD-11456,12/23/2023,Chair Ergonomic,Office,South,Retail,Amit Verma,5,548.97,0,2744.85,1361.5,1383.35
+ORD-11457,3/10/2024,USB-C Hub,Accessories,North,Retail,Sunita Rao,5,82.32,0,411.6,248.8,162.8
+ORD-11458,1/20/2024,Wireless Mouse,Accessories,North,Reseller,Sunita Rao,1,37.55,15,31.92,18.46,13.46
+ORD-11459,7/23/2023,Desk Lamp LED,Office,South,Online,Ravi Kumar,1,76.67,0,76.67,35.93,40.74
+ORD-11460,5/4/2023,"Monitor 27""",Electronics,West,Retail,Neha Singh,4,557.64,10,2007.5,1447.79,559.71
+ORD-11461,6/3/2024,Wireless Mouse,Accessories,North,Reseller,Karan Mehta,1,61.23,0,61.23,33.15,28.08
+ORD-11462,4/13/2023,Desk Lamp LED,Office,East,Retail,Priya Patel,1,70.13,15,59.61,37.65,21.96
+ORD-11463,10/21/2024,Tablet S10,Electronics,East,Online,Ravi Kumar,3,524.94,15,1338.6,1012.37,326.23
+ORD-11464,7/1/2023,"Monitor 27""",Electronics,North,Online,Pooja Iyer,2,546.18,0,1092.36,643.42,448.94
+ORD-11465,11/7/2024,"Monitor 27""",Electronics,South,Retail,Ravi Kumar,1,343.09,5,325.94,183.16,142.78
+ORD-11466,4/23/2023,Webcam HD,Electronics,East,B2B,Pooja Iyer,3,110.48,0,331.44,175.91,155.53
+ORD-11467,1/30/2023,Webcam HD,Electronics,South,Reseller,Arjun Sharma,3,76.13,0,228.39,104.34,124.05
+ORD-11468,1/22/2024,Chair Ergonomic,Office,East,Retail,Priya Patel,3,571.88,10,1544.08,806.39,737.69
+ORD-11469,3/9/2023,Desk Lamp LED,Office,Central,Reseller,Ravi Kumar,1,61.85,5,58.76,38.42,20.34
+ORD-11470,10/14/2024,Headphones Pro,Electronics,East,B2B,Pooja Iyer,1,264.3,5,251.08,132.51,118.57
+ORD-11471,4/9/2023,Tablet S10,Electronics,South,Retail,Ravi Kumar,1,772.62,10,695.36,378.01,317.35
+ORD-11472,11/6/2024,"Monitor 27""",Electronics,North,Retail,Neha Singh,1,329.15,0,329.15,206.5,122.65
+ORD-11473,7/9/2023,Mechanical KB,Accessories,Central,B2B,Ravi Kumar,2,165.94,0,331.88,180.02,151.86
+ORD-11474,3/8/2024,Webcam HD,Electronics,West,Online,Neha Singh,1,101.34,0,101.34,62.85,38.49
+ORD-11475,1/15/2023,USB-C Hub,Accessories,East,Online,Pooja Iyer,1,60.2,0,60.2,29.04,31.16
+ORD-11476,5/10/2024,Standing Desk,Office,West,Reseller,Neha Singh,3,782.51,0,2347.53,1512.18,835.35
+ORD-11477,9/28/2024,Standing Desk,Office,Central,B2B,Deepa Nair,1,613.67,5,582.99,356.6,226.39
+ORD-11478,9/19/2023,USB-C Hub,Accessories,North,B2B,Vikram Das,1,81.15,15,68.98,43.92,25.06
+ORD-11479,3/6/2023,Mechanical KB,Accessories,North,Retail,Sunita Rao,3,122.88,5,350.21,205.95,144.26
+ORD-11480,5/4/2023,Wireless Mouse,Accessories,West,Online,Vikram Das,2,64.04,0,128.08,65.5,62.58
+ORD-11481,2/12/2024,USB-C Hub,Accessories,South,Online,Neha Singh,3,67.22,15,171.41,96.46,74.95
+ORD-11482,12/29/2023,Phone Stand,Accessories,North,B2B,Vikram Das,2,20.43,10,36.77,22.72,14.05
+ORD-11483,12/11/2024,"Monitor 27""",Electronics,South,Retail,Ravi Kumar,4,310.35,5,1179.33,583.49,595.84
+ORD-11484,9/16/2024,Chair Ergonomic,Office,West,B2B,Karan Mehta,1,762.96,0,762.96,491.22,271.74
+ORD-11485,3/7/2024,Chair Ergonomic,Office,North,Online,Amit Verma,4,769.93,5,2925.73,1963.72,962.01
+ORD-11486,7/23/2024,Phone Stand,Accessories,North,Online,Karan Mehta,2,37.39,0,74.78,42.53,32.25
+ORD-11487,5/28/2023,USB-C Hub,Accessories,South,Reseller,Ravi Kumar,1,104.22,0,104.22,67.25,36.97
+ORD-11488,3/5/2024,Tablet S10,Electronics,East,Retail,Karan Mehta,1,670.7,0,670.7,311.28,359.42
+ORD-11489,8/22/2024,Wireless Mouse,Accessories,East,Online,Priya Patel,4,56.03,0,224.12,130.99,93.13
+ORD-11490,11/15/2023,Chair Ergonomic,Office,West,B2B,Priya Patel,2,597.24,10,1075.03,592.98,482.05
+ORD-11491,9/16/2024,Chair Ergonomic,Office,East,B2B,Arjun Sharma,1,837.27,0,837.27,529.24,308.03
+ORD-11492,9/19/2023,Desk Lamp LED,Office,West,B2B,Neha Singh,1,59.5,5,56.52,37.2,19.32
+ORD-11493,4/16/2023,Chair Ergonomic,Office,South,Reseller,Karan Mehta,1,961.09,10,864.98,598.78,266.2
+ORD-11494,2/28/2023,Desk Lamp LED,Office,East,B2B,Vikram Das,2,49.05,15,83.38,58.35,25.03
+ORD-11495,3/5/2024,Webcam HD,Electronics,West,Retail,Pooja Iyer,2,97.58,0,195.16,88.33,106.83
+ORD-11496,8/15/2023,Standing Desk,Office,West,Reseller,Pooja Iyer,2,661.57,10,1190.83,802.07,388.76
+ORD-11497,11/14/2024,Chair Ergonomic,Office,North,Online,Priya Patel,1,596.76,5,566.92,363.26,203.66
+ORD-11498,1/5/2024,"Monitor 27""",Electronics,North,B2B,Sunita Rao,2,335.8,10,604.44,411.73,192.71
+ORD-11499,8/10/2024,Standing Desk,Office,West,Online,Neha Singh,3,681.87,0,2045.61,1249.96,795.65
+ORD-11500,7/5/2023,Headphones Pro,Electronics,North,Reseller,Amit Verma,1,361.57,15,307.33,229.28,78.05
+ORD-11501,11/30/2024,Webcam HD,Electronics,North,B2B,Sunita Rao,1,71.44,20,57.15,38.52,18.63
+ORD-11502,10/12/2024,Phone Stand,Accessories,Central,B2B,Karan Mehta,1,23.93,10,21.54,14.46,7.08
+ORD-11503,6/26/2023,Webcam HD,Electronics,South,B2B,Amit Verma,3,126.56,15,322.73,217.66,105.07
+ORD-11504,4/3/2023,Wireless Mouse,Accessories,West,Retail,Amit Verma,2,56.33,0,112.66,54.89,57.77
+ORD-11505,5/12/2024,Phone Stand,Accessories,South,B2B,Arjun Sharma,1,37.98,10,34.18,22.82,11.36
+ORD-11506,7/14/2023,Wireless Mouse,Accessories,Central,Retail,Karan Mehta,2,62.97,15,107.05,70.79,36.26
+ORD-11507,12/13/2024,Headphones Pro,Electronics,West,B2B,Ravi Kumar,1,213.73,0,213.73,135.28,78.45
+ORD-11508,12/15/2023,Phone Stand,Accessories,East,Online,Deepa Nair,2,21.16,0,42.32,19.92,22.4
+ORD-11509,3/29/2024,"Monitor 27""",Electronics,North,Reseller,Neha Singh,3,433.51,0,1300.53,843.44,457.09
+ORD-11510,8/13/2023,Phone Stand,Accessories,North,B2B,Neha Singh,1,33.84,0,33.84,16.69,17.15
+ORD-11511,9/18/2024,Laptop Pro X1,Electronics,South,Reseller,Ravi Kumar,1,1306.32,5,1241,848.68,392.32
+ORD-11512,8/17/2024,Chair Ergonomic,Office,East,B2B,Amit Verma,1,955.82,5,908.03,504.12,403.91
+ORD-11513,1/15/2024,Desk Lamp LED,Office,North,Retail,Deepa Nair,1,42.51,15,36.13,23.72,12.41
+ORD-11514,9/10/2023,Phone Stand,Accessories,Central,Reseller,Vikram Das,3,27.83,5,79.32,52.89,26.43
+ORD-11515,4/18/2023,Webcam HD,Electronics,Central,Retail,Sunita Rao,3,116.36,5,331.63,207.18,124.45
+ORD-11516,8/11/2024,Mechanical KB,Accessories,North,Retail,Arjun Sharma,3,147.43,5,420.18,251.31,168.87
+ORD-11517,4/4/2024,Chair Ergonomic,Office,South,Online,Deepa Nair,2,904.85,0,1809.7,1128.38,681.32
+ORD-11518,10/10/2023,Wireless Mouse,Accessories,West,Reseller,Ravi Kumar,2,42.6,15,72.42,50.5,21.92
+ORD-11519,8/9/2023,Desk Lamp LED,Office,South,Reseller,Ravi Kumar,2,69.19,0,138.38,70.7,67.68
+ORD-11520,11/28/2024,Chair Ergonomic,Office,East,Online,Priya Patel,2,619.26,15,1052.74,570.46,482.28
+ORD-11521,3/7/2023,Headphones Pro,Electronics,Central,Retail,Ravi Kumar,2,305.95,10,550.71,305.8,244.91
+ORD-11522,10/26/2024,Laptop Pro X1,Electronics,West,Reseller,Karan Mehta,4,1085.58,10,3908.09,2035.82,1872.27
+ORD-11523,12/14/2024,Desk Lamp LED,Office,South,Reseller,Amit Verma,1,39.99,10,35.99,20.48,15.51
+ORD-11524,4/3/2023,Standing Desk,Office,North,B2B,Sunita Rao,1,670.02,5,636.52,433.59,202.93
+ORD-11525,6/20/2024,Wireless Mouse,Accessories,East,Online,Ravi Kumar,1,60.9,15,51.76,34.19,17.57
+ORD-11526,6/25/2024,Laptop Pro X1,Electronics,Central,B2B,Priya Patel,1,1655.98,0,1655.98,1010.16,645.82
+ORD-11527,7/13/2023,USB-C Hub,Accessories,North,Retail,Pooja Iyer,2,99.88,5,189.77,128.88,60.89
+ORD-11528,8/10/2024,Webcam HD,Electronics,Central,Retail,Sunita Rao,1,117.79,5,111.9,71.19,40.71
+ORD-11529,9/29/2024,Laptop Pro X1,Electronics,East,B2B,Priya Patel,1,1358.5,5,1290.58,866.91,423.67
+ORD-11530,11/30/2024,Webcam HD,Electronics,Central,Retail,Pooja Iyer,1,76.21,5,72.4,41.88,30.52
+ORD-11531,4/10/2024,Webcam HD,Electronics,North,Online,Deepa Nair,4,112.58,5,427.8,242.99,184.81
+ORD-11532,1/10/2024,"Monitor 27""",Electronics,North,B2B,Arjun Sharma,1,332.04,20,265.63,202.15,63.48
+ORD-11533,11/6/2024,Standing Desk,Office,East,Reseller,Vikram Das,2,425.59,10,766.06,471.53,294.53
+ORD-11534,7/25/2023,Tablet S10,Electronics,West,Reseller,Karan Mehta,1,839.16,0,839.16,426.79,412.37
+ORD-11535,3/26/2023,Desk Lamp LED,Office,West,B2B,Sunita Rao,1,57.95,5,55.05,31.69,23.36
+ORD-11536,12/1/2024,Mechanical KB,Accessories,East,Retail,Deepa Nair,2,86.16,5,163.7,110.17,53.53
+ORD-11537,2/19/2023,Phone Stand,Accessories,Central,Online,Karan Mehta,2,24.16,0,48.32,23.56,24.76
+ORD-11538,6/4/2024,Phone Stand,Accessories,South,Online,Sunita Rao,2,37.21,0,74.42,43.9,30.52
+ORD-11539,8/15/2023,USB-C Hub,Accessories,Central,Online,Arjun Sharma,2,88.16,0,176.32,86.63,89.69
+ORD-11540,7/30/2023,Desk Lamp LED,Office,East,Retail,Karan Mehta,4,72.77,0,291.08,183.64,107.44
+ORD-11541,1/16/2024,"Monitor 27""",Electronics,Central,B2B,Karan Mehta,4,320.91,5,1219.46,731.35,488.11
+ORD-11542,8/7/2024,Tablet S10,Electronics,East,Reseller,Arjun Sharma,2,732.15,15,1244.66,934.3,310.36
+ORD-11543,2/28/2024,Desk Lamp LED,Office,East,Online,Karan Mehta,1,48.59,10,43.73,29.44,14.29
+ORD-11544,12/13/2024,Laptop Pro X1,Electronics,North,Online,Ravi Kumar,3,926.53,0,2779.59,1290.02,1489.57
+ORD-11545,3/10/2023,Standing Desk,Office,West,B2B,Vikram Das,1,625.57,0,625.57,313.6,311.97
+ORD-11546,10/19/2023,Mechanical KB,Accessories,South,Online,Vikram Das,3,112.51,0,337.53,178.55,158.98
+ORD-11547,7/25/2023,Standing Desk,Office,South,Online,Karan Mehta,1,752.28,20,601.82,354.98,246.84
+ORD-11548,3/27/2023,USB-C Hub,Accessories,West,Retail,Sunita Rao,3,76.96,10,207.79,132.31,75.48
+ORD-11549,2/12/2023,Headphones Pro,Electronics,East,Online,Pooja Iyer,2,266.21,5,505.8,321.43,184.37
+ORD-11550,6/6/2023,Laptop Pro X1,Electronics,South,Online,Karan Mehta,1,1759.94,20,1407.95,915.21,492.74
+ORD-11551,6/6/2023,Desk Lamp LED,Office,East,Reseller,Arjun Sharma,4,74.59,5,283.44,171.69,111.75
+ORD-11552,3/13/2023,Standing Desk,Office,Central,B2B,Arjun Sharma,3,586.29,5,1670.93,848.16,822.77
+ORD-11553,12/2/2024,Wireless Mouse,Accessories,East,B2B,Arjun Sharma,1,32.64,5,31.01,19.39,11.62
+ORD-11554,4/17/2023,USB-C Hub,Accessories,West,Online,Neha Singh,2,86.34,0,172.68,79.72,92.96
+ORD-11555,2/6/2023,Tablet S10,Electronics,Central,Reseller,Amit Verma,2,559.86,0,1119.72,707.84,411.88
+ORD-11556,9/22/2024,Tablet S10,Electronics,East,B2B,Sunita Rao,1,631.97,15,537.17,346.39,190.78
+ORD-11557,6/6/2023,Standing Desk,Office,South,Reseller,Amit Verma,1,757.2,15,643.62,384.18,259.44
+ORD-11558,1/12/2024,USB-C Hub,Accessories,West,Retail,Karan Mehta,2,57.3,5,108.87,52.55,56.32
+ORD-11559,10/3/2024,USB-C Hub,Accessories,West,Reseller,Karan Mehta,1,66.62,15,56.63,35.54,21.09
+ORD-11560,1/8/2024,Standing Desk,Office,South,Retail,Neha Singh,1,427.11,10,384.4,237.47,146.93
+ORD-11561,7/19/2023,Headphones Pro,Electronics,West,Reseller,Deepa Nair,4,387.38,10,1394.57,809.91,584.66
+ORD-11562,11/11/2023,Tablet S10,Electronics,East,Reseller,Arjun Sharma,1,461.59,0,461.59,267.93,193.66
+ORD-11563,8/11/2023,"Monitor 27""",Electronics,West,Retail,Sunita Rao,1,524.59,15,445.9,334.39,111.51
+ORD-11564,12/11/2024,Laptop Pro X1,Electronics,Central,Retail,Karan Mehta,1,879.51,5,835.53,568.8,266.73
+ORD-11565,7/22/2023,Headphones Pro,Electronics,West,B2B,Pooja Iyer,1,367.1,0,367.1,219.41,147.69
+ORD-11566,6/27/2024,Headphones Pro,Electronics,North,Online,Arjun Sharma,2,395.55,15,672.44,480.51,191.93
+ORD-11567,12/6/2023,Laptop Pro X1,Electronics,South,Retail,Amit Verma,3,945.84,0,2837.52,1392.09,1445.43
+ORD-11568,1/7/2024,Wireless Mouse,Accessories,East,Retail,Amit Verma,2,37.74,0,75.48,40.71,34.77
+ORD-11569,4/14/2023,Mechanical KB,Accessories,North,Reseller,Ravi Kumar,3,154,0,462,222.98,239.02
+ORD-11570,7/19/2024,Chair Ergonomic,Office,South,Online,Ravi Kumar,2,984.57,10,1772.23,1220.08,552.15
+ORD-11571,4/10/2023,Standing Desk,Office,South,Online,Pooja Iyer,3,680.65,0,2041.95,1073.81,968.14
+ORD-11572,1/7/2024,Phone Stand,Accessories,West,B2B,Deepa Nair,4,20.78,5,78.96,52.27,26.69
+ORD-11573,1/14/2024,Wireless Mouse,Accessories,South,Online,Neha Singh,1,35.54,0,35.54,18.79,16.75
+ORD-11574,11/25/2023,Tablet S10,Electronics,West,Online,Pooja Iyer,1,494.15,10,444.74,257.42,187.32
+ORD-11575,3/3/2024,Headphones Pro,Electronics,Central,Online,Sunita Rao,5,291.61,0,1458.05,805.84,652.21
+ORD-11576,6/20/2023,Webcam HD,Electronics,West,B2B,Arjun Sharma,1,126.21,0,126.21,68.13,58.08
+ORD-11577,11/3/2024,Mechanical KB,Accessories,Central,Online,Pooja Iyer,1,95.97,0,95.97,45.69,50.28
+ORD-11578,11/6/2023,Laptop Pro X1,Electronics,East,Reseller,Deepa Nair,1,949.97,15,807.47,434.32,373.15
+ORD-11579,6/8/2024,Webcam HD,Electronics,East,B2B,Vikram Das,3,127.51,10,344.28,198.31,145.97
+ORD-11580,5/15/2024,"Monitor 27""",Electronics,East,Online,Arjun Sharma,1,562.82,0,562.82,328.89,233.93
+ORD-11581,4/20/2023,USB-C Hub,Accessories,South,Online,Priya Patel,1,86.9,0,86.9,49.04,37.86
+ORD-11582,1/14/2023,Laptop Pro X1,Electronics,Central,Reseller,Deepa Nair,2,1000.83,0,2001.66,928.92,1072.74
+ORD-11583,4/19/2023,Tablet S10,Electronics,North,Retail,Priya Patel,2,719.39,0,1438.78,911.61,527.17
+ORD-11584,4/4/2023,Phone Stand,Accessories,North,Reseller,Deepa Nair,1,32.46,10,29.21,14.93,14.28
+ORD-11585,6/26/2024,Tablet S10,Electronics,South,Reseller,Amit Verma,1,861.27,10,775.14,472.89,302.25
+ORD-11586,11/23/2024,Phone Stand,Accessories,North,Retail,Neha Singh,2,21.34,15,36.28,23.54,12.74
+ORD-11587,5/28/2023,Mechanical KB,Accessories,North,Retail,Ravi Kumar,4,157.47,5,598.39,299.07,299.32
+ORD-11588,8/22/2023,Webcam HD,Electronics,Central,B2B,Neha Singh,1,114.9,5,109.16,65.53,43.63
+ORD-11589,9/14/2023,Desk Lamp LED,Office,East,B2B,Ravi Kumar,3,59.18,10,159.79,103.15,56.64
+ORD-11590,3/5/2023,Wireless Mouse,Accessories,West,Online,Sunita Rao,1,50.14,0,50.14,28.78,21.36
+ORD-11591,11/21/2024,Laptop Pro X1,Electronics,Central,Online,Pooja Iyer,1,1001.54,5,951.46,523.1,428.36
+ORD-11592,11/23/2023,Mechanical KB,Accessories,West,B2B,Vikram Das,1,95.3,10,85.77,52.41,33.36
+ORD-11593,7/14/2023,Phone Stand,Accessories,West,B2B,Karan Mehta,1,37.23,0,37.23,19.8,17.43
+ORD-11594,4/20/2024,Standing Desk,Office,North,Retail,Deepa Nair,1,706.11,0,706.11,377.01,329.1
+ORD-11595,10/9/2024,Desk Lamp LED,Office,South,Retail,Pooja Iyer,1,49.82,0,49.82,30.56,19.26
+ORD-11596,8/11/2023,USB-C Hub,Accessories,North,Reseller,Karan Mehta,1,87.67,0,87.67,45.37,42.3
+ORD-11597,11/7/2023,USB-C Hub,Accessories,Central,Reseller,Karan Mehta,3,57.18,15,145.81,83.71,62.1
+ORD-11598,6/13/2023,Desk Lamp LED,Office,East,Reseller,Pooja Iyer,1,75.58,10,68.02,35.61,32.41
+ORD-11599,5/25/2023,Mechanical KB,Accessories,North,B2B,Ravi Kumar,1,167.45,15,142.33,89.3,53.03
+ORD-11600,10/7/2024,Webcam HD,Electronics,Central,B2B,Deepa Nair,1,85.09,5,80.84,48.49,32.35
+ORD-11601,1/18/2024,Phone Stand,Accessories,North,Online,Sunita Rao,3,21.19,15,54.03,40.94,13.09
+ORD-11602,3/3/2024,Webcam HD,Electronics,East,Reseller,Amit Verma,1,100.86,15,85.73,63.75,21.98
+ORD-11603,12/15/2023,Chair Ergonomic,Office,East,Retail,Pooja Iyer,2,542.21,0,1084.42,515.56,568.86
+ORD-11604,8/31/2023,Headphones Pro,Electronics,East,Online,Karan Mehta,3,346.03,0,1038.09,652.04,386.05
+ORD-11605,9/30/2024,USB-C Hub,Accessories,East,Online,Sunita Rao,1,78.71,5,74.77,49.59,25.18
+ORD-11606,7/17/2023,Desk Lamp LED,Office,North,Reseller,Neha Singh,3,71.68,0,215.04,133.23,81.81
+ORD-11607,10/10/2024,"Monitor 27""",Electronics,East,B2B,Sunita Rao,1,386.25,0,386.25,217.22,169.03
+ORD-11608,9/11/2024,Webcam HD,Electronics,Central,Online,Amit Verma,4,102.08,0,408.32,199.11,209.21
+ORD-11609,3/4/2023,Phone Stand,Accessories,West,Reseller,Arjun Sharma,2,29.87,0,59.74,30.26,29.48
+ORD-11610,9/25/2023,Mechanical KB,Accessories,West,Online,Deepa Nair,1,122.92,0,122.92,71.15,51.77
+ORD-11611,6/1/2023,Standing Desk,Office,East,Online,Amit Verma,1,751.99,0,751.99,405.19,346.8
+ORD-11612,10/10/2023,Standing Desk,Office,East,Online,Priya Patel,1,498.19,5,473.28,282.62,190.66
+ORD-11613,12/1/2023,Laptop Pro X1,Electronics,Central,Online,Karan Mehta,2,892.5,0,1785,1060.47,724.53
+ORD-11614,11/28/2023,Tablet S10,Electronics,East,B2B,Pooja Iyer,1,496.53,0,496.53,226.87,269.66
+ORD-11615,2/10/2023,Headphones Pro,Electronics,North,Online,Ravi Kumar,4,259.67,0,1038.68,494.8,543.88
+ORD-11616,4/15/2023,USB-C Hub,Accessories,East,B2B,Priya Patel,2,88.44,15,150.35,106.29,44.06
+ORD-11617,12/18/2023,Desk Lamp LED,Office,West,Retail,Vikram Das,3,41.49,5,118.25,69.07,49.18
+ORD-11618,8/1/2023,Wireless Mouse,Accessories,South,Online,Vikram Das,1,58.67,0,58.67,29.46,29.21
+ORD-11619,2/23/2023,Laptop Pro X1,Electronics,South,Retail,Ravi Kumar,2,1101.8,10,1983.24,1010.21,973.03
+ORD-11620,11/24/2023,Chair Ergonomic,Office,East,Reseller,Arjun Sharma,1,601.48,10,541.33,272.98,268.35
+ORD-11621,12/14/2024,Tablet S10,Electronics,South,Reseller,Arjun Sharma,1,440.68,0,440.68,201.48,239.2
+ORD-11622,12/19/2024,Webcam HD,Electronics,West,Retail,Ravi Kumar,1,69.36,15,58.96,42.71,16.25
+ORD-11623,1/8/2023,Chair Ergonomic,Office,Central,Reseller,Ravi Kumar,4,578.49,10,2082.56,1298.72,783.84
+ORD-11624,9/14/2024,"Monitor 27""",Electronics,East,Reseller,Arjun Sharma,1,466.87,0,466.87,246.75,220.12
+ORD-11625,9/9/2024,Standing Desk,Office,North,Online,Karan Mehta,5,615.17,10,2768.26,1509.99,1258.27
+ORD-11626,7/30/2023,Wireless Mouse,Accessories,South,B2B,Deepa Nair,1,63.26,5,60.1,39.01,21.09
+ORD-11627,2/25/2023,Standing Desk,Office,South,Online,Amit Verma,2,529.02,0,1058.04,654.62,403.42
+ORD-11628,8/10/2023,Laptop Pro X1,Electronics,West,B2B,Sunita Rao,3,1449.98,15,3697.45,2781.17,916.28
+ORD-11629,9/8/2024,Desk Lamp LED,Office,South,Online,Pooja Iyer,3,58.88,15,150.14,100.57,49.57
+ORD-11630,1/1/2023,Wireless Mouse,Accessories,North,B2B,Sunita Rao,3,37.56,5,107.05,72.04,35.01
+ORD-11631,8/4/2024,Desk Lamp LED,Office,West,B2B,Priya Patel,5,66.95,0,334.75,193.87,140.88
+ORD-11632,3/3/2024,Mechanical KB,Accessories,South,B2B,Sunita Rao,2,123,0,246,116.61,129.39
+ORD-11633,5/4/2023,"Monitor 27""",Electronics,West,Retail,Arjun Sharma,4,575.94,10,2073.38,1050.68,1022.7
+ORD-11634,3/30/2023,Wireless Mouse,Accessories,East,B2B,Arjun Sharma,2,50.89,5,96.69,59.95,36.74
+ORD-11635,7/30/2024,Phone Stand,Accessories,West,Online,Arjun Sharma,1,35.27,10,31.74,16.33,15.41
+ORD-11636,3/18/2024,Standing Desk,Office,North,Online,Amit Verma,3,627.33,5,1787.89,1063.99,723.9
+ORD-11637,10/16/2023,Phone Stand,Accessories,South,Retail,Sunita Rao,2,24.08,0,48.16,28.14,20.02
+ORD-11638,10/27/2024,Laptop Pro X1,Electronics,West,Retail,Arjun Sharma,1,1143.57,5,1086.39,642.44,443.95
+ORD-11639,1/8/2024,Mechanical KB,Accessories,East,B2B,Vikram Das,1,98.55,0,98.55,55.08,43.47
+ORD-11640,5/30/2023,Chair Ergonomic,Office,East,Reseller,Deepa Nair,1,997.23,5,947.37,564.47,382.9
+ORD-11641,6/1/2023,Mechanical KB,Accessories,East,Reseller,Priya Patel,3,167.61,10,452.55,280.81,171.74
+ORD-11642,9/17/2023,Headphones Pro,Electronics,Central,Retail,Arjun Sharma,4,294.77,0,1179.08,640.61,538.47
+ORD-11643,6/2/2024,Webcam HD,Electronics,South,Retail,Neha Singh,4,124.13,20,397.22,257.36,139.86
+ORD-11644,2/10/2024,Phone Stand,Accessories,North,Online,Pooja Iyer,1,23.69,5,22.51,13.04,9.47
+ORD-11645,9/18/2023,Laptop Pro X1,Electronics,East,Reseller,Priya Patel,4,1255.44,10,4519.58,2487.56,2032.02
+ORD-11646,1/18/2024,Webcam HD,Electronics,Central,B2B,Karan Mehta,2,74.43,0,148.86,78.68,70.18
+ORD-11647,4/19/2023,Phone Stand,Accessories,South,Online,Vikram Das,1,32.2,5,30.59,18.96,11.63
+ORD-11648,5/22/2024,Wireless Mouse,Accessories,West,B2B,Neha Singh,1,64.51,0,64.51,32.15,32.36
+ORD-11649,10/15/2024,Chair Ergonomic,Office,North,Retail,Ravi Kumar,1,646.79,10,582.11,295.08,287.03
+ORD-11650,3/15/2023,Tablet S10,Electronics,West,Online,Pooja Iyer,1,624.27,5,593.06,398.89,194.17
+ORD-11651,12/18/2023,Mechanical KB,Accessories,West,Online,Sunita Rao,1,89.65,0,89.65,50.92,38.73
+ORD-11652,5/26/2024,Laptop Pro X1,Electronics,West,Online,Karan Mehta,1,1669.32,0,1669.32,1038.71,630.61
+ORD-11653,8/24/2024,Phone Stand,Accessories,North,Reseller,Arjun Sharma,2,34.92,0,69.84,38.28,31.56
+ORD-11654,3/30/2023,Standing Desk,Office,North,Reseller,Karan Mehta,1,574.02,5,545.32,341.46,203.86
+ORD-11655,12/12/2023,Phone Stand,Accessories,West,Retail,Pooja Iyer,1,19.35,20,15.48,9.91,5.57
+ORD-11656,4/8/2023,Desk Lamp LED,Office,Central,Reseller,Priya Patel,1,70.31,0,70.31,42.62,27.69
+ORD-11657,7/5/2023,Chair Ergonomic,Office,North,B2B,Pooja Iyer,1,995.33,10,895.8,632.03,263.77
+ORD-11658,12/15/2024,Wireless Mouse,Accessories,North,B2B,Pooja Iyer,2,34.13,0,68.26,42.37,25.89
+ORD-11659,3/12/2024,Webcam HD,Electronics,West,Retail,Arjun Sharma,1,102.34,0,102.34,50.13,52.21
+ORD-11660,10/31/2024,Desk Lamp LED,Office,East,Reseller,Neha Singh,4,47.86,10,172.3,93.14,79.16
+ORD-11661,3/31/2024,Phone Stand,Accessories,South,Online,Sunita Rao,3,27.89,15,71.12,40.4,30.72
+ORD-11662,1/11/2024,Standing Desk,Office,East,Online,Karan Mehta,3,452.62,5,1289.97,854.82,435.15
+ORD-11663,2/4/2023,Standing Desk,Office,East,B2B,Sunita Rao,1,505.19,5,479.93,233.92,246.01
+ORD-11664,6/3/2024,Desk Lamp LED,Office,South,Online,Pooja Iyer,4,79.58,15,270.57,150.95,119.62
+ORD-11665,11/11/2024,USB-C Hub,Accessories,West,Online,Ravi Kumar,1,58.74,10,52.87,32.98,19.89
+ORD-11666,2/28/2024,Headphones Pro,Electronics,West,Online,Deepa Nair,1,246.59,0,246.59,125.78,120.81
+ORD-11667,6/6/2024,Laptop Pro X1,Electronics,North,B2B,Ravi Kumar,3,1716.72,0,5150.16,2920.73,2229.43
+ORD-11668,9/7/2023,Webcam HD,Electronics,West,Retail,Priya Patel,3,95.92,10,258.98,156.82,102.16
+ORD-11669,2/2/2024,USB-C Hub,Accessories,South,Retail,Priya Patel,2,69.56,5,132.16,64.58,67.58
+ORD-11670,6/9/2024,Standing Desk,Office,West,B2B,Neha Singh,5,752.59,0,3762.95,2165.16,1597.79
+ORD-11671,2/21/2024,Mechanical KB,Accessories,North,Retail,Deepa Nair,1,113.71,5,108.02,68.92,39.1
+ORD-11672,4/5/2024,Desk Lamp LED,Office,Central,Reseller,Ravi Kumar,2,69.54,15,118.22,66.13,52.09
+ORD-11673,9/5/2024,"Monitor 27""",Electronics,West,Online,Vikram Das,2,429.92,5,816.85,490.08,326.77
+ORD-11674,12/22/2024,Wireless Mouse,Accessories,West,B2B,Sunita Rao,4,34.79,0,139.16,72.91,66.25
+ORD-11675,12/16/2023,Tablet S10,Electronics,West,Reseller,Karan Mehta,1,446.44,5,424.12,228.41,195.71
+ORD-11676,8/26/2024,Phone Stand,Accessories,Central,Retail,Sunita Rao,2,33.7,15,57.29,39.24,18.05
+ORD-11677,4/4/2023,Webcam HD,Electronics,North,B2B,Amit Verma,2,114.22,20,182.75,130.96,51.79
+ORD-11678,10/23/2023,Mechanical KB,Accessories,South,Retail,Deepa Nair,2,114.33,0,228.66,117.72,110.94
+ORD-11679,7/16/2023,Mechanical KB,Accessories,West,Retail,Pooja Iyer,3,161.08,5,459.08,242.96,216.12
+ORD-11680,12/5/2024,USB-C Hub,Accessories,East,Retail,Sunita Rao,1,54.53,10,49.08,30.46,18.62
+ORD-11681,6/16/2024,Headphones Pro,Electronics,South,B2B,Ravi Kumar,1,403.32,10,362.99,233.01,129.98
+ORD-11682,5/23/2024,Tablet S10,Electronics,West,B2B,Ravi Kumar,1,835.36,0,835.36,531.7,303.66
+ORD-11683,9/12/2024,Mechanical KB,Accessories,West,Online,Priya Patel,1,127.41,0,127.41,71.37,56.04
+ORD-11684,9/18/2023,"Monitor 27""",Electronics,East,Reseller,Neha Singh,4,471.04,5,1789.95,1067.78,722.17
+ORD-11685,2/22/2023,Mechanical KB,Accessories,West,Reseller,Deepa Nair,5,109.54,5,520.32,258.3,262.02
+ORD-11686,5/24/2023,Wireless Mouse,Accessories,North,B2B,Priya Patel,1,63.59,0,63.59,29.31,34.28
+ORD-11687,7/2/2024,Chair Ergonomic,Office,South,Online,Pooja Iyer,1,1049.44,10,944.5,616.38,328.12
+ORD-11688,1/11/2023,Laptop Pro X1,Electronics,South,Retail,Neha Singh,1,982.62,20,786.1,498.03,288.07
+ORD-11689,9/10/2024,Headphones Pro,Electronics,South,Online,Vikram Das,2,300.57,0,601.14,371.6,229.54
+ORD-11690,11/21/2023,Headphones Pro,Electronics,Central,Online,Ravi Kumar,3,231.64,0,694.92,365.98,328.94
+ORD-11691,8/7/2024,Wireless Mouse,Accessories,North,Retail,Karan Mehta,2,55.05,20,88.08,60.25,27.83
+ORD-11692,9/5/2023,"Monitor 27""",Electronics,North,Online,Neha Singh,1,434.34,0,434.34,214.59,219.75
+ORD-11693,11/12/2023,Tablet S10,Electronics,South,Online,Priya Patel,1,497.18,15,422.6,268.1,154.5
+ORD-11694,12/30/2024,Desk Lamp LED,Office,West,Online,Vikram Das,1,42.9,0,42.9,26.6,16.3
+ORD-11695,7/30/2023,Mechanical KB,Accessories,East,Online,Sunita Rao,4,167.22,5,635.44,371.09,264.35
+ORD-11696,9/22/2024,Chair Ergonomic,Office,North,Reseller,Ravi Kumar,1,775.47,5,736.7,371.38,365.32
+ORD-11697,8/1/2023,Desk Lamp LED,Office,South,Reseller,Pooja Iyer,1,66.32,0,66.32,39.33,26.99
+ORD-11698,1/25/2023,Standing Desk,Office,North,Reseller,Pooja Iyer,2,449.83,5,854.68,416.49,438.19
+ORD-11699,1/4/2024,Webcam HD,Electronics,North,Reseller,Amit Verma,1,74.92,5,71.17,47.34,23.83
+ORD-11700,8/23/2023,Webcam HD,Electronics,South,Retail,Arjun Sharma,1,111.12,15,94.45,53.52,40.93
+ORD-11701,1/9/2024,Desk Lamp LED,Office,Central,Online,Amit Verma,1,44.58,0,44.58,21.48,23.1
+ORD-11702,6/21/2024,Wireless Mouse,Accessories,East,Retail,Neha Singh,4,62.38,5,237.04,155.13,81.91
+ORD-11703,11/16/2023,Desk Lamp LED,Office,Central,Retail,Amit Verma,1,45.3,0,45.3,26.01,19.29
+ORD-11704,4/26/2024,Chair Ergonomic,Office,South,Online,Priya Patel,4,894.61,15,3041.67,2188.38,853.29
+ORD-11705,10/3/2023,Wireless Mouse,Accessories,East,Retail,Ravi Kumar,3,40.08,0,120.24,65.23,55.01
+ORD-11706,7/11/2023,Chair Ergonomic,Office,Central,Online,Vikram Das,1,1042.36,0,1042.36,628.82,413.54
+ORD-11707,2/28/2023,Chair Ergonomic,Office,South,B2B,Pooja Iyer,1,677.05,0,677.05,419.3,257.75
+ORD-11708,4/18/2024,Mechanical KB,Accessories,Central,Online,Priya Patel,1,142.56,0,142.56,71.23,71.33
+ORD-11709,5/20/2023,Desk Lamp LED,Office,West,Reseller,Vikram Das,1,76.55,5,72.72,44.82,27.9
+ORD-11710,10/24/2024,Standing Desk,Office,West,B2B,Vikram Das,4,514.52,0,2058.08,1221.82,836.26
+ORD-11711,6/20/2023,Desk Lamp LED,Office,Central,B2B,Amit Verma,2,79.04,5,150.18,77.68,72.5
+ORD-11712,9/10/2024,Wireless Mouse,Accessories,West,Retail,Arjun Sharma,4,48.02,0,192.08,87.35,104.73
+ORD-11713,3/21/2024,"Monitor 27""",Electronics,South,B2B,Karan Mehta,3,446.75,10,1206.23,761.38,444.85
+ORD-11714,5/26/2023,"Monitor 27""",Electronics,West,Reseller,Deepa Nair,1,562.2,0,562.2,307.72,254.48
+ORD-11715,4/19/2024,"Monitor 27""",Electronics,North,B2B,Deepa Nair,1,503.2,20,402.56,241.09,161.47
+ORD-11716,12/25/2023,Laptop Pro X1,Electronics,Central,B2B,Deepa Nair,1,923.25,0,923.25,495.49,427.76
+ORD-11717,7/18/2024,Chair Ergonomic,Office,East,B2B,Neha Singh,1,1043.69,15,887.14,569.74,317.4
+ORD-11718,6/2/2024,Mechanical KB,Accessories,East,Online,Arjun Sharma,1,161.76,20,129.41,95.8,33.61
+ORD-11719,8/12/2023,Chair Ergonomic,Office,Central,Reseller,Deepa Nair,2,914.1,0,1828.2,944.83,883.37
+ORD-11720,12/1/2023,Headphones Pro,Electronics,West,Reseller,Karan Mehta,1,209.66,0,209.66,99.52,110.14
+ORD-11721,2/7/2023,Chair Ergonomic,Office,South,Reseller,Deepa Nair,2,696.06,5,1322.51,767.32,555.19
+ORD-11722,3/26/2024,Tablet S10,Electronics,South,Online,Pooja Iyer,2,625.89,5,1189.19,754.1,435.09
+ORD-11723,10/10/2023,Desk Lamp LED,Office,South,Reseller,Pooja Iyer,1,49.16,0,49.16,31.5,17.66
+ORD-11724,3/3/2024,"Monitor 27""",Electronics,South,Online,Priya Patel,3,445.72,15,1136.59,753.67,382.92
+ORD-11725,2/8/2023,USB-C Hub,Accessories,South,Reseller,Priya Patel,1,64.24,5,61.03,34.92,26.11
+ORD-11726,11/16/2024,Wireless Mouse,Accessories,West,B2B,Pooja Iyer,1,36.69,15,31.19,23.7,7.49
+ORD-11727,7/15/2024,Chair Ergonomic,Office,Central,Retail,Pooja Iyer,4,989.53,10,3562.31,2307.54,1254.77
+ORD-11728,11/29/2024,Chair Ergonomic,Office,North,Reseller,Sunita Rao,1,614.87,5,584.13,304.51,279.62
+ORD-11729,12/3/2023,Mechanical KB,Accessories,North,B2B,Amit Verma,4,94.57,0,378.28,245.22,133.06
+ORD-11730,6/1/2023,Wireless Mouse,Accessories,West,Retail,Priya Patel,2,61.91,10,111.44,79.4,32.04
+ORD-11731,7/9/2024,Phone Stand,Accessories,East,Online,Neha Singh,2,36.17,5,68.72,40.75,27.97
+ORD-11732,9/30/2024,USB-C Hub,Accessories,North,Reseller,Karan Mehta,1,75.57,15,64.23,38.75,25.48
+ORD-11733,6/7/2023,Desk Lamp LED,Office,East,Retail,Sunita Rao,1,75.43,20,60.34,39.53,20.81
+ORD-11734,2/10/2024,Standing Desk,Office,Central,Retail,Deepa Nair,2,526.94,5,1001.19,534.63,466.56
+ORD-11735,9/4/2024,USB-C Hub,Accessories,North,Retail,Vikram Das,1,75.7,0,75.7,35.31,40.39
+ORD-11736,5/19/2024,Desk Lamp LED,Office,South,Online,Arjun Sharma,4,76.51,15,260.13,180.4,79.73
+ORD-11737,7/1/2023,Standing Desk,Office,East,Online,Arjun Sharma,1,780.55,0,780.55,457.21,323.34
+ORD-11738,11/14/2023,USB-C Hub,Accessories,Central,Online,Neha Singh,1,58.96,0,58.96,38.18,20.78
+ORD-11739,2/5/2024,USB-C Hub,Accessories,Central,Online,Pooja Iyer,3,65.59,5,186.93,100.02,86.91
+ORD-11740,5/22/2023,Mechanical KB,Accessories,Central,Online,Sunita Rao,1,158.61,5,150.68,91.79,58.89
+ORD-11741,8/18/2023,Headphones Pro,Electronics,West,Reseller,Deepa Nair,2,355.96,0,711.92,415.05,296.87
+ORD-11742,11/10/2023,Chair Ergonomic,Office,South,B2B,Deepa Nair,1,585.56,10,527,358.01,168.99
+ORD-11743,9/4/2023,"Monitor 27""",Electronics,North,Retail,Priya Patel,1,428.2,10,385.38,197.72,187.66
+ORD-11744,5/10/2023,Standing Desk,Office,Central,Retail,Sunita Rao,1,775.03,0,775.03,455.37,319.66
+ORD-11745,2/24/2024,Desk Lamp LED,Office,Central,B2B,Neha Singh,1,52.37,5,49.75,29.35,20.4
+ORD-11746,11/2/2024,Standing Desk,Office,North,B2B,Karan Mehta,1,429.7,0,429.7,199.04,230.66
+ORD-11747,5/24/2024,USB-C Hub,Accessories,West,Retail,Deepa Nair,1,102.35,20,81.88,63.71,18.17
+ORD-11748,12/25/2024,Phone Stand,Accessories,South,Online,Ravi Kumar,1,21.14,0,21.14,11.91,9.23
+ORD-11749,3/1/2024,Mechanical KB,Accessories,South,Retail,Vikram Das,1,126.87,15,107.84,58.16,49.68
+ORD-11750,5/22/2024,Headphones Pro,Electronics,North,B2B,Deepa Nair,5,385,15,1636.25,1027.13,609.12
+ORD-11751,1/17/2024,Headphones Pro,Electronics,South,Retail,Ravi Kumar,1,227.33,0,227.33,146.37,80.96
+ORD-11752,11/27/2024,Webcam HD,Electronics,Central,Retail,Karan Mehta,2,73.32,10,131.98,81.56,50.42
+ORD-11753,2/10/2023,Phone Stand,Accessories,West,Online,Amit Verma,1,24.77,10,22.29,13.82,8.47
+ORD-11754,1/19/2023,Webcam HD,Electronics,West,Reseller,Pooja Iyer,1,75.42,5,71.65,41.1,30.55
+ORD-11755,8/25/2023,Headphones Pro,Electronics,North,Retail,Pooja Iyer,4,334.32,10,1203.55,672.57,530.98
+ORD-11756,2/9/2024,Mechanical KB,Accessories,West,Retail,Karan Mehta,1,104.61,5,99.38,66.99,32.39
+ORD-11757,3/16/2024,Laptop Pro X1,Electronics,Central,Reseller,Arjun Sharma,1,1338.4,0,1338.4,745.56,592.84
+ORD-11758,10/17/2024,Chair Ergonomic,Office,Central,Retail,Vikram Das,3,690.24,10,1863.65,1137.5,726.15
+ORD-11759,7/19/2024,Tablet S10,Electronics,Central,B2B,Ravi Kumar,1,795.93,0,795.93,515.65,280.28
+ORD-11760,11/2/2024,Chair Ergonomic,Office,West,Online,Priya Patel,1,566.56,10,509.9,328.25,181.65
+ORD-11761,9/22/2023,USB-C Hub,Accessories,West,Retail,Ravi Kumar,1,77.08,0,77.08,37.18,39.9
+ORD-11762,4/10/2023,Webcam HD,Electronics,North,Online,Ravi Kumar,3,119.52,0,358.56,210.94,147.62
+ORD-11763,1/4/2023,Wireless Mouse,Accessories,East,Retail,Priya Patel,5,37.25,0,186.25,112.06,74.19
+ORD-11764,12/12/2023,Standing Desk,Office,North,Reseller,Pooja Iyer,1,431.02,10,387.92,234.07,153.85
+ORD-11765,3/27/2023,Mechanical KB,Accessories,Central,B2B,Arjun Sharma,1,124.83,0,124.83,76.31,48.52
+ORD-11766,3/30/2023,Headphones Pro,Electronics,Central,Retail,Sunita Rao,5,294.28,0,1471.4,815.77,655.63
+ORD-11767,12/26/2023,Tablet S10,Electronics,Central,Reseller,Neha Singh,1,467.6,15,397.46,250.86,146.6
+ORD-11768,7/14/2023,USB-C Hub,Accessories,South,Reseller,Vikram Das,2,100.38,5,190.72,118.34,72.38
+ORD-11769,2/1/2024,Standing Desk,Office,South,Online,Pooja Iyer,1,529.51,0,529.51,242.13,287.38
+ORD-11770,1/18/2023,Webcam HD,Electronics,North,B2B,Sunita Rao,5,74.37,15,316.07,198.24,117.83
+ORD-11771,5/18/2023,Wireless Mouse,Accessories,South,Reseller,Sunita Rao,3,62.11,5,177.01,88.19,88.82
+ORD-11772,7/18/2024,Chair Ergonomic,Office,East,Retail,Amit Verma,2,1019.16,0,2038.32,930.48,1107.84
+ORD-11773,3/11/2024,Chair Ergonomic,Office,South,B2B,Karan Mehta,1,763.44,15,648.92,389.39,259.53
+ORD-11774,10/15/2023,USB-C Hub,Accessories,North,Reseller,Amit Verma,1,64.29,5,61.08,35.76,25.32
+ORD-11775,11/4/2023,Phone Stand,Accessories,North,Retail,Vikram Das,1,21,0,21,10.23,10.77
+ORD-11776,9/5/2024,Headphones Pro,Electronics,East,B2B,Priya Patel,3,286.9,0,860.7,432.79,427.91
+ORD-11777,8/13/2024,USB-C Hub,Accessories,Central,Online,Vikram Das,1,88.41,10,79.57,44.67,34.9
+ORD-11778,12/8/2024,Headphones Pro,Electronics,West,Online,Amit Verma,2,212.6,15,361.42,199.88,161.54
+ORD-11779,4/6/2023,Desk Lamp LED,Office,Central,Online,Priya Patel,2,64.81,0,129.62,60.11,69.51
+ORD-11780,2/13/2023,Standing Desk,Office,Central,Retail,Priya Patel,1,511.29,0,511.29,257.11,254.18
+ORD-11781,6/22/2023,Webcam HD,Electronics,North,Reseller,Neha Singh,1,131.28,15,111.59,61.8,49.79
+ORD-11782,12/26/2024,Phone Stand,Accessories,South,Reseller,Arjun Sharma,1,20.95,10,18.86,12.29,6.57
+ORD-11783,6/19/2024,Tablet S10,Electronics,West,Retail,Arjun Sharma,4,863.09,5,3279.74,2134.83,1144.91
+ORD-11784,8/5/2023,Desk Lamp LED,Office,South,Reseller,Pooja Iyer,2,70.06,0,140.12,71.26,68.86
+ORD-11785,8/15/2024,Desk Lamp LED,Office,West,B2B,Pooja Iyer,1,70.27,0,70.27,33.37,36.9
+ORD-11786,1/2/2023,Standing Desk,Office,South,Retail,Pooja Iyer,5,429.68,5,2040.98,1075.46,965.52
+ORD-11787,11/18/2024,Wireless Mouse,Accessories,North,Online,Karan Mehta,1,35.29,10,31.76,17.64,14.12
+ORD-11788,8/12/2023,USB-C Hub,Accessories,North,Online,Karan Mehta,1,86.33,0,86.33,42.48,43.85
+ORD-11789,12/16/2023,Wireless Mouse,Accessories,East,B2B,Karan Mehta,1,35.07,0,35.07,21.29,13.78
+ORD-11790,11/6/2024,Desk Lamp LED,Office,South,Retail,Karan Mehta,2,44.38,0,88.76,55.17,33.59
+ORD-11791,7/12/2023,Webcam HD,Electronics,East,Reseller,Arjun Sharma,3,126.75,15,323.21,208.37,114.84
+ORD-11792,1/4/2023,Mechanical KB,Accessories,West,B2B,Neha Singh,1,98.17,0,98.17,60.55,37.62
+ORD-11793,4/24/2023,Desk Lamp LED,Office,North,Reseller,Vikram Das,4,66.35,0,265.4,142.05,123.35
+ORD-11794,8/23/2024,Wireless Mouse,Accessories,East,Reseller,Karan Mehta,1,54.8,0,54.8,26.86,27.94
+ORD-11795,6/14/2023,Mechanical KB,Accessories,West,Reseller,Neha Singh,1,161.55,5,153.47,97.93,55.54
+ORD-11796,6/5/2024,Chair Ergonomic,Office,East,Online,Amit Verma,2,1014.57,0,2029.14,1063.61,965.53
+ORD-11797,6/12/2024,Tablet S10,Electronics,North,Retail,Amit Verma,3,803.23,10,2168.72,1357.69,811.03
+ORD-11798,9/8/2023,Mechanical KB,Accessories,Central,Retail,Sunita Rao,3,129.72,10,350.24,222.88,127.36
+ORD-11799,1/4/2023,Chair Ergonomic,Office,West,B2B,Arjun Sharma,1,607.29,0,607.29,366.77,240.52
+ORD-11800,7/18/2023,Standing Desk,Office,East,Retail,Karan Mehta,1,771.29,10,694.16,412.62,281.54
+ORD-11801,9/8/2024,Tablet S10,Electronics,South,B2B,Arjun Sharma,2,641.21,0,1282.42,737.29,545.13
+ORD-11802,1/1/2024,Webcam HD,Electronics,Central,Online,Priya Patel,1,72.06,0,72.06,35.71,36.35
+ORD-11803,8/1/2024,Wireless Mouse,Accessories,West,Online,Priya Patel,4,58.42,0,233.68,114.73,118.95
+ORD-11804,7/15/2024,Tablet S10,Electronics,North,Online,Amit Verma,1,837.08,0,837.08,413.26,423.82
+ORD-11805,8/24/2024,Laptop Pro X1,Electronics,South,Online,Deepa Nair,1,1515.21,20,1212.17,951.49,260.68
+ORD-11806,9/18/2024,"Monitor 27""",Electronics,South,Online,Sunita Rao,1,462.07,10,415.86,257.55,158.31
+ORD-11807,10/11/2023,Phone Stand,Accessories,West,Retail,Karan Mehta,2,25.13,10,45.23,22.68,22.55
+ORD-11808,4/13/2023,Webcam HD,Electronics,West,B2B,Deepa Nair,1,118.69,5,112.76,60,52.76
+ORD-11809,7/23/2024,Standing Desk,Office,North,B2B,Neha Singh,2,724.25,0,1448.5,833.53,614.97
+ORD-11810,6/10/2023,USB-C Hub,Accessories,South,Retail,Amit Verma,1,99.41,0,99.41,61.18,38.23
+ORD-11811,3/4/2023,Standing Desk,Office,South,B2B,Amit Verma,2,577.11,0,1154.22,546.61,607.61
+ORD-11812,3/18/2024,Tablet S10,Electronics,North,Retail,Deepa Nair,1,675.04,0,675.04,367.73,307.31
+ORD-11813,6/29/2024,Laptop Pro X1,Electronics,South,Retail,Priya Patel,1,1675.25,10,1507.72,782.28,725.44
+ORD-11814,3/1/2024,USB-C Hub,Accessories,Central,B2B,Sunita Rao,1,81.47,0,81.47,41,40.47
+ORD-11815,8/31/2024,USB-C Hub,Accessories,Central,Reseller,Amit Verma,2,94.97,5,180.44,101.61,78.83
+ORD-11816,9/24/2023,Webcam HD,Electronics,South,Reseller,Amit Verma,2,101.95,15,173.32,125.83,47.49
+ORD-11817,7/2/2024,Desk Lamp LED,Office,South,Online,Neha Singh,1,74.93,0,74.93,45.66,29.27
+ORD-11818,12/18/2024,Phone Stand,Accessories,Central,Retail,Arjun Sharma,2,20.42,15,34.71,21.6,13.11
+ORD-11819,7/4/2023,Chair Ergonomic,Office,Central,Online,Neha Singh,2,968.98,0,1937.96,1224.02,713.94
+ORD-11820,7/19/2024,Chair Ergonomic,Office,Central,Retail,Ravi Kumar,1,965.67,5,917.39,484.99,432.4
+ORD-11821,3/13/2024,Laptop Pro X1,Electronics,North,Retail,Pooja Iyer,1,1252.2,10,1126.98,761.34,365.64
+ORD-11822,3/15/2023,Standing Desk,Office,West,Retail,Amit Verma,1,573.85,5,545.16,345.47,199.69
+ORD-11823,1/31/2023,Webcam HD,Electronics,North,Online,Priya Patel,1,69.82,0,69.82,40.7,29.12
+ORD-11824,6/18/2023,Webcam HD,Electronics,South,Reseller,Priya Patel,3,129.8,10,350.46,181.67,168.79
+ORD-11825,7/5/2024,Standing Desk,Office,North,Retail,Deepa Nair,2,764.5,0,1529,984.26,544.74
+ORD-11826,1/24/2024,Webcam HD,Electronics,East,B2B,Ravi Kumar,2,73.31,10,131.96,74.48,57.48
+ORD-11827,7/12/2024,Wireless Mouse,Accessories,West,Online,Ravi Kumar,3,62.2,5,177.27,101.76,75.51
+ORD-11828,10/23/2023,USB-C Hub,Accessories,Central,Reseller,Sunita Rao,2,65.9,10,118.62,71.67,46.95
+ORD-11829,2/15/2023,Laptop Pro X1,Electronics,East,B2B,Priya Patel,2,1077.79,0,2155.58,1075.9,1079.68
+ORD-11830,6/12/2024,Webcam HD,Electronics,West,Retail,Amit Verma,1,127.13,0,127.13,60.33,66.8
+ORD-11831,8/22/2023,Chair Ergonomic,Office,South,Reseller,Arjun Sharma,5,877.41,0,4387.05,2246.28,2140.77
+ORD-11832,2/10/2023,Chair Ergonomic,Office,Central,Reseller,Pooja Iyer,2,659.31,0,1318.62,701.55,617.07
+ORD-11833,1/18/2023,Webcam HD,Electronics,Central,Retail,Ravi Kumar,3,76.6,10,206.82,142.76,64.06
+ORD-11834,3/4/2023,Wireless Mouse,Accessories,Central,Online,Vikram Das,1,47.15,0,47.15,24.91,22.24
+ORD-11835,1/6/2023,Chair Ergonomic,Office,Central,Reseller,Sunita Rao,1,618.75,10,556.88,358.1,198.78
+ORD-11836,6/12/2024,"Monitor 27""",Electronics,West,B2B,Neha Singh,1,565.47,10,508.92,327.72,181.2
+ORD-11837,11/20/2024,USB-C Hub,Accessories,South,B2B,Karan Mehta,1,59.17,10,53.25,30.12,23.13
+ORD-11838,6/12/2023,Mechanical KB,Accessories,Central,Reseller,Neha Singh,1,172,15,146.2,81.89,64.31
+ORD-11839,11/14/2023,Wireless Mouse,Accessories,West,B2B,Karan Mehta,5,36.13,0,180.65,82.77,97.88
+ORD-11840,12/30/2023,USB-C Hub,Accessories,South,Reseller,Neha Singh,4,54.14,0,216.56,135.28,81.28
+ORD-11841,11/22/2024,Phone Stand,Accessories,North,Online,Sunita Rao,1,20.79,5,19.75,10.15,9.6
+ORD-11842,11/12/2023,Desk Lamp LED,Office,Central,Online,Neha Singh,1,42.76,0,42.76,24.17,18.59
+ORD-11843,4/22/2023,Phone Stand,Accessories,East,B2B,Ravi Kumar,1,33.35,5,31.68,16.2,15.48
+ORD-11844,9/16/2024,Standing Desk,Office,North,B2B,Neha Singh,3,610.28,0,1830.84,837.62,993.22
+ORD-11845,8/10/2023,"Monitor 27""",Electronics,East,B2B,Priya Patel,1,508.87,10,457.98,313.31,144.67
+ORD-11846,8/16/2023,Desk Lamp LED,Office,West,Reseller,Priya Patel,3,65.07,10,175.69,115.62,60.07
+ORD-11847,2/19/2023,Chair Ergonomic,Office,South,Reseller,Neha Singh,2,685.49,0,1370.98,789.92,581.06
+ORD-11848,2/19/2024,USB-C Hub,Accessories,North,Online,Priya Patel,2,64.06,20,102.5,68.07,34.43
+ORD-11849,6/1/2024,Headphones Pro,Electronics,Central,Reseller,Vikram Das,1,407.8,20,326.24,191.28,134.96
+ORD-11850,6/21/2024,Phone Stand,Accessories,North,Online,Deepa Nair,4,36.51,0,146.04,89.68,56.36
+ORD-11851,4/25/2023,Desk Lamp LED,Office,West,B2B,Sunita Rao,2,68.01,10,122.42,61.57,60.85
+ORD-11852,12/20/2024,Tablet S10,Electronics,West,Online,Pooja Iyer,1,468.98,10,422.08,266.95,155.13
+ORD-11853,8/7/2023,Tablet S10,Electronics,North,B2B,Pooja Iyer,1,734.84,5,698.1,460.87,237.23
+ORD-11854,5/7/2023,Wireless Mouse,Accessories,East,Retail,Neha Singh,4,62.19,5,236.32,117.36,118.96
+ORD-11855,6/26/2024,Desk Lamp LED,Office,West,Retail,Ravi Kumar,1,77.36,10,69.62,46.52,23.1
+ORD-11856,6/11/2023,Phone Stand,Accessories,West,B2B,Deepa Nair,4,37.72,5,143.34,70.11,73.23
+ORD-11857,3/4/2024,Webcam HD,Electronics,East,Retail,Vikram Das,1,94.41,0,94.41,56.57,37.84
+ORD-11858,2/22/2024,Chair Ergonomic,Office,East,Retail,Sunita Rao,4,670.11,0,2680.44,1217.59,1462.85
+ORD-11859,3/14/2024,Desk Lamp LED,Office,North,Retail,Karan Mehta,1,56.32,10,50.69,33.16,17.53
+ORD-11860,2/13/2023,Laptop Pro X1,Electronics,East,Reseller,Karan Mehta,4,1055.06,15,3587.2,2646.04,941.16
+ORD-11861,4/1/2023,Headphones Pro,Electronics,North,B2B,Neha Singh,3,339.94,10,917.84,598.62,319.22
+ORD-11862,6/29/2023,Wireless Mouse,Accessories,West,Retail,Karan Mehta,3,62.68,0,188.04,86.58,101.46
+ORD-11863,4/22/2023,Headphones Pro,Electronics,South,Retail,Vikram Das,1,341.25,10,307.12,191.88,115.24
+ORD-11864,10/25/2023,Mechanical KB,Accessories,North,Reseller,Neha Singh,2,106.82,0,213.64,134.44,79.2
+ORD-11865,11/2/2023,Webcam HD,Electronics,Central,Retail,Karan Mehta,1,76.3,15,64.85,45.58,19.27
+ORD-11866,8/6/2023,Laptop Pro X1,Electronics,East,Reseller,Arjun Sharma,1,1527.29,0,1527.29,703.59,823.7
+ORD-11867,2/18/2023,Headphones Pro,Electronics,East,B2B,Pooja Iyer,2,256.2,20,409.92,237.22,172.7
+ORD-11868,1/17/2023,USB-C Hub,Accessories,West,Reseller,Pooja Iyer,2,57.04,5,108.38,69.76,38.62
+ORD-11869,1/20/2024,Headphones Pro,Electronics,Central,Reseller,Priya Patel,3,228.63,10,617.3,396.68,220.62
+ORD-11870,10/30/2023,Chair Ergonomic,Office,Central,Retail,Ravi Kumar,1,684.53,10,616.08,395.22,220.86
+ORD-11871,8/1/2024,Webcam HD,Electronics,Central,Retail,Ravi Kumar,1,113.85,0,113.85,58.28,55.57
+ORD-11872,4/21/2023,"Monitor 27""",Electronics,South,Reseller,Karan Mehta,1,532.84,10,479.56,271.15,208.41
+ORD-11873,7/27/2024,Headphones Pro,Electronics,Central,Reseller,Ravi Kumar,5,381.29,0,1906.45,866.66,1039.79
+ORD-11874,10/17/2024,Desk Lamp LED,Office,West,Retail,Neha Singh,1,52.52,10,47.27,23.95,23.32
+ORD-11875,7/29/2024,Mechanical KB,Accessories,Central,B2B,Neha Singh,4,162.84,10,586.22,321.82,264.4
+ORD-11876,5/22/2023,Chair Ergonomic,Office,East,Online,Deepa Nair,2,958.02,5,1820.24,1175.98,644.26
+ORD-11877,11/10/2024,Desk Lamp LED,Office,East,Online,Vikram Das,1,44.52,0,44.52,25.47,19.05
+ORD-11878,2/20/2024,USB-C Hub,Accessories,East,Online,Vikram Das,2,68.34,0,136.68,73.37,63.31
+ORD-11879,8/9/2024,Desk Lamp LED,Office,North,Reseller,Karan Mehta,1,64.95,5,61.7,40,21.7
+ORD-11880,11/19/2024,Wireless Mouse,Accessories,East,B2B,Priya Patel,3,37.24,15,94.96,68.31,26.65
+ORD-11881,7/16/2023,Mechanical KB,Accessories,East,B2B,Arjun Sharma,3,156.81,0,470.43,266.98,203.45
+ORD-11882,6/18/2023,Laptop Pro X1,Electronics,West,Reseller,Karan Mehta,1,1605.36,0,1605.36,996.03,609.33
+ORD-11883,2/26/2023,Wireless Mouse,Accessories,North,Retail,Pooja Iyer,1,41.18,20,32.94,20.2,12.74
+ORD-11884,1/27/2023,Webcam HD,Electronics,East,Online,Amit Verma,1,73.48,0,73.48,42.06,31.42
+ORD-11885,9/13/2024,Tablet S10,Electronics,South,Retail,Pooja Iyer,1,620.08,10,558.07,329.61,228.46
+ORD-11886,10/19/2024,Standing Desk,Office,East,B2B,Arjun Sharma,1,520.86,0,520.86,257.36,263.5
+ORD-11887,3/27/2024,Standing Desk,Office,West,Retail,Karan Mehta,1,578.77,0,578.77,343.13,235.64
+ORD-11888,11/18/2024,Desk Lamp LED,Office,West,Reseller,Karan Mehta,1,41.57,0,41.57,25.35,16.22
+ORD-11889,6/14/2023,Laptop Pro X1,Electronics,North,Reseller,Vikram Das,2,1615.54,15,2746.42,1956.57,789.85
+ORD-11890,6/30/2024,Tablet S10,Electronics,North,Retail,Deepa Nair,1,818.26,20,654.61,442.49,212.12
+ORD-11891,6/25/2023,Webcam HD,Electronics,North,Reseller,Arjun Sharma,1,127.43,15,108.32,69.25,39.07
+ORD-11892,6/18/2023,"Monitor 27""",Electronics,South,Reseller,Neha Singh,2,564.05,0,1128.1,593.34,534.76
+ORD-11893,11/16/2024,Chair Ergonomic,Office,West,Online,Neha Singh,1,594.14,5,564.43,383.39,181.04
+ORD-11894,4/3/2024,"Monitor 27""",Electronics,North,Retail,Pooja Iyer,1,505.85,10,455.27,254.4,200.87
+ORD-11895,2/18/2023,Webcam HD,Electronics,North,Reseller,Amit Verma,1,84.24,0,84.24,54.3,29.94
+ORD-11896,2/24/2023,Mechanical KB,Accessories,West,Online,Ravi Kumar,1,106.91,0,106.91,50.28,56.63
+ORD-11897,5/26/2024,Standing Desk,Office,South,Online,Sunita Rao,2,730.98,0,1461.96,661.98,799.98
+ORD-11898,7/3/2024,Headphones Pro,Electronics,West,Retail,Pooja Iyer,3,365.13,0,1095.39,606.72,488.67
+ORD-11899,12/15/2023,Chair Ergonomic,Office,South,Reseller,Neha Singh,2,572.23,5,1087.24,653.83,433.41
+ORD-11900,9/6/2023,Chair Ergonomic,Office,East,Reseller,Arjun Sharma,4,773.21,10,2783.56,1813.35,970.21
+ORD-11901,8/23/2023,Webcam HD,Electronics,Central,Reseller,Karan Mehta,2,116.57,5,221.48,127.89,93.59
+ORD-11902,5/2/2023,Tablet S10,Electronics,South,Reseller,Vikram Das,1,809.66,10,728.69,516.27,212.42
+ORD-11903,1/16/2023,USB-C Hub,Accessories,South,Retail,Neha Singh,1,58.71,0,58.71,27.41,31.3
+ORD-11904,12/24/2023,Tablet S10,Electronics,East,Online,Deepa Nair,1,476.66,0,476.66,279.2,197.46
+ORD-11905,4/3/2024,Chair Ergonomic,Office,North,Retail,Priya Patel,4,910.11,10,3276.4,1747.66,1528.74
+ORD-11906,5/23/2023,Headphones Pro,Electronics,North,B2B,Neha Singh,1,375.05,0,375.05,213.34,161.71
+ORD-11907,9/30/2024,Desk Lamp LED,Office,South,Retail,Arjun Sharma,2,59.28,0,118.56,53.74,64.82
+ORD-11908,2/4/2023,Webcam HD,Electronics,West,B2B,Vikram Das,5,81.88,10,368.46,253.15,115.31
+ORD-11909,10/25/2024,Mechanical KB,Accessories,Central,Online,Priya Patel,1,107.87,15,91.69,64.41,27.28
+ORD-11910,12/22/2023,Mechanical KB,Accessories,North,Reseller,Priya Patel,1,89.92,5,85.42,55.04,30.38
+ORD-11911,7/3/2023,Webcam HD,Electronics,Central,Retail,Arjun Sharma,1,124.07,5,117.87,67.68,50.19
+ORD-11912,4/7/2024,Headphones Pro,Electronics,West,Reseller,Pooja Iyer,1,359.79,10,323.81,166.47,157.34
+ORD-11913,5/19/2024,Chair Ergonomic,Office,Central,Reseller,Ravi Kumar,1,1019.03,0,1019.03,645.11,373.92
+ORD-11914,11/24/2023,USB-C Hub,Accessories,Central,B2B,Vikram Das,2,61.36,0,122.72,56.16,66.56
+ORD-11915,2/13/2024,Laptop Pro X1,Electronics,East,Online,Deepa Nair,2,1136.44,10,2045.59,1190.39,855.2
+ORD-11916,1/26/2024,Desk Lamp LED,Office,North,Retail,Amit Verma,2,43.48,0,86.96,39.8,47.16
+ORD-11917,6/30/2023,Chair Ergonomic,Office,Central,Reseller,Sunita Rao,3,1025.67,0,3077.01,1539.25,1537.76
+ORD-11918,2/8/2024,Headphones Pro,Electronics,South,Retail,Vikram Das,1,262.16,0,262.16,133.4,128.76
+ORD-11919,8/12/2024,Phone Stand,Accessories,South,Online,Deepa Nair,3,34.45,10,93.02,51.1,41.92
+ORD-11920,6/18/2023,Desk Lamp LED,Office,East,Reseller,Ravi Kumar,1,79.89,10,71.9,38.93,32.97
+ORD-11921,2/3/2024,Webcam HD,Electronics,South,B2B,Vikram Das,1,83.34,5,79.17,47.32,31.85
+ORD-11922,12/3/2024,Headphones Pro,Electronics,Central,Reseller,Deepa Nair,1,219.59,0,219.59,120.97,98.62
+ORD-11923,1/27/2023,Webcam HD,Electronics,Central,B2B,Arjun Sharma,5,71.54,5,339.82,188.6,151.22
+ORD-11924,11/25/2023,Headphones Pro,Electronics,North,Retail,Amit Verma,3,216.61,10,584.85,326.44,258.41
+ORD-11925,9/30/2024,Tablet S10,Electronics,North,Reseller,Pooja Iyer,1,649.8,10,584.82,367.39,217.43
+ORD-11926,6/18/2023,Standing Desk,Office,East,Online,Priya Patel,1,794.64,5,754.91,450.08,304.83
+ORD-11927,8/4/2023,Webcam HD,Electronics,East,Retail,Priya Patel,1,111.5,0,111.5,52.57,58.93
+ORD-11928,6/27/2023,"Monitor 27""",Electronics,Central,Online,Neha Singh,1,602.23,15,511.9,328.32,183.58
+ORD-11929,4/3/2024,Desk Lamp LED,Office,South,Online,Amit Verma,3,70.97,0,212.91,107.13,105.78
+ORD-11930,2/6/2023,Wireless Mouse,Accessories,North,Reseller,Vikram Das,3,41.16,0,123.48,68.64,54.84
+ORD-11931,9/11/2024,Laptop Pro X1,Electronics,South,Retail,Vikram Das,2,1296.14,0,2592.28,1307.38,1284.9
+ORD-11932,7/25/2024,Chair Ergonomic,Office,East,Reseller,Karan Mehta,3,972.64,0,2917.92,1392.93,1524.99
+ORD-11933,11/29/2023,Laptop Pro X1,Electronics,Central,Reseller,Amit Verma,3,953.39,5,2717.16,1718.56,998.6
+ORD-11934,6/21/2023,Mechanical KB,Accessories,East,B2B,Pooja Iyer,1,167.87,10,151.08,108.55,42.53
+ORD-11935,1/8/2024,Desk Lamp LED,Office,South,Retail,Amit Verma,3,44.6,0,133.8,76.63,57.17
+ORD-11936,5/2/2023,Headphones Pro,Electronics,South,Online,Arjun Sharma,5,373.97,10,1682.87,965.7,717.17
+ORD-11937,6/9/2023,Laptop Pro X1,Electronics,South,Online,Neha Singh,3,1643.03,0,4929.09,2856.25,2072.84
+ORD-11938,10/20/2024,USB-C Hub,Accessories,East,Online,Neha Singh,4,69.35,15,235.79,169.18,66.61
+ORD-11939,11/28/2023,Laptop Pro X1,Electronics,Central,Retail,Priya Patel,1,933.06,0,933.06,538,395.06
+ORD-11940,11/7/2023,Mechanical KB,Accessories,Central,Reseller,Ravi Kumar,1,96.6,5,91.77,50.92,40.85
+ORD-11941,12/7/2024,Standing Desk,Office,West,B2B,Karan Mehta,5,417.16,0,2085.8,1204.48,881.32
+ORD-11942,1/7/2023,USB-C Hub,Accessories,East,B2B,Neha Singh,1,61.31,10,55.18,36.22,18.96
+ORD-11943,6/22/2024,Wireless Mouse,Accessories,North,Retail,Neha Singh,1,65.02,10,58.52,39.76,18.76
+ORD-11944,5/10/2023,Wireless Mouse,Accessories,East,Online,Arjun Sharma,1,63.84,0,63.84,28.82,35.02
+ORD-11945,1/9/2023,Desk Lamp LED,Office,South,Reseller,Deepa Nair,4,43.3,5,164.54,94.9,69.64
+ORD-11946,6/29/2024,Laptop Pro X1,Electronics,West,Retail,Ravi Kumar,1,1691.85,5,1607.26,790.8,816.46
+ORD-11947,5/6/2024,Webcam HD,Electronics,East,Reseller,Ravi Kumar,1,130.62,0,130.62,73.46,57.16
+ORD-11948,6/8/2023,Desk Lamp LED,Office,Central,Reseller,Karan Mehta,3,75.36,15,192.17,129.71,62.46
+ORD-11949,7/21/2024,Tablet S10,Electronics,West,Online,Sunita Rao,1,781.08,0,781.08,487.24,293.84
+ORD-11950,3/6/2023,USB-C Hub,Accessories,South,Retail,Arjun Sharma,1,78.55,0,78.55,46.61,31.94
+ORD-11951,7/6/2023,Webcam HD,Electronics,West,Retail,Priya Patel,1,125.56,5,119.28,71.94,47.34
+ORD-11952,3/13/2024,Phone Stand,Accessories,South,Retail,Neha Singh,3,29.25,10,78.98,50.73,28.25
+ORD-11953,11/29/2023,USB-C Hub,Accessories,Central,Retail,Deepa Nair,2,56.98,10,102.56,64.45,38.11
+ORD-11954,11/12/2023,Chair Ergonomic,Office,West,Retail,Ravi Kumar,1,604.71,0,604.71,328.12,276.59
+ORD-11955,10/24/2023,Desk Lamp LED,Office,Central,Reseller,Pooja Iyer,1,49.31,0,49.31,30.72,18.59
+ORD-11956,4/30/2023,Phone Stand,Accessories,West,Online,Ravi Kumar,1,34.43,5,32.71,21.42,11.29
+ORD-11957,6/28/2023,Headphones Pro,Electronics,Central,Reseller,Vikram Das,1,382.14,0,382.14,222.92,159.22
+ORD-11958,4/26/2023,Standing Desk,Office,Central,Retail,Ravi Kumar,1,710.72,10,639.65,339.48,300.17
+ORD-11959,1/29/2023,USB-C Hub,Accessories,West,Online,Vikram Das,3,56.13,10,151.55,102.49,49.06
+ORD-11960,6/27/2023,"Monitor 27""",Electronics,West,Reseller,Deepa Nair,1,598.93,0,598.93,328.09,270.84
+ORD-11961,8/4/2023,Tablet S10,Electronics,East,Retail,Neha Singh,2,774.6,10,1394.28,903.91,490.37
+ORD-11962,7/1/2024,Tablet S10,Electronics,North,Retail,Arjun Sharma,1,845.24,0,845.24,507.25,337.99
+ORD-11963,11/6/2023,Mechanical KB,Accessories,Central,B2B,Priya Patel,1,91.49,0,91.49,51.65,39.84
+ORD-11964,3/10/2023,Standing Desk,Office,Central,Online,Arjun Sharma,1,626.2,15,532.27,391,141.27
+ORD-11965,10/20/2024,USB-C Hub,Accessories,East,Online,Priya Patel,2,68.69,10,123.64,77.95,45.69
+ORD-11966,7/23/2023,Mechanical KB,Accessories,Central,Retail,Arjun Sharma,1,166.33,10,149.7,81.26,68.44
+ORD-11967,3/1/2024,Headphones Pro,Electronics,Central,Online,Ravi Kumar,5,304.58,0,1522.9,837.55,685.35
+ORD-11968,2/19/2023,Desk Lamp LED,Office,West,Reseller,Sunita Rao,2,48.22,10,86.8,46.43,40.37
+ORD-11969,5/23/2023,Tablet S10,Electronics,North,Reseller,Karan Mehta,1,837.73,5,795.84,391.93,403.91
+ORD-11970,5/13/2023,Wireless Mouse,Accessories,South,B2B,Vikram Das,4,62.46,0,249.84,114.02,135.82
+ORD-11971,9/12/2023,Standing Desk,Office,Central,Retail,Karan Mehta,1,612.76,5,582.12,280.28,301.84
+ORD-11972,12/12/2023,Desk Lamp LED,Office,East,Online,Ravi Kumar,1,39.97,0,39.97,23.19,16.78
+ORD-11973,6/30/2023,Mechanical KB,Accessories,Central,Retail,Deepa Nair,1,172.56,0,172.56,101.23,71.33
+ORD-11974,8/13/2024,Laptop Pro X1,Electronics,South,Online,Pooja Iyer,2,1441.58,20,2306.53,1462.75,843.78
+ORD-11975,12/18/2024,"Monitor 27""",Electronics,North,Online,Neha Singh,3,309.58,20,742.99,488.61,254.38
+ORD-11976,11/13/2024,Phone Stand,Accessories,North,Online,Neha Singh,2,22.06,0,44.12,25,19.12
+ORD-11977,5/2/2023,Standing Desk,Office,Central,B2B,Karan Mehta,1,787.46,0,787.46,440.93,346.53
+ORD-11978,5/14/2023,Mechanical KB,Accessories,South,Online,Ravi Kumar,1,169.69,0,169.69,106.5,63.19
+ORD-11979,2/25/2023,Standing Desk,Office,West,B2B,Arjun Sharma,1,491.94,0,491.94,244.08,247.86
+ORD-11980,9/5/2024,USB-C Hub,Accessories,West,Online,Karan Mehta,2,80.75,5,153.42,75.43,77.99
+ORD-11981,5/14/2023,"Monitor 27""",Electronics,East,B2B,Amit Verma,1,574.14,0,574.14,361.84,212.3
+ORD-11982,12/1/2024,USB-C Hub,Accessories,North,Retail,Arjun Sharma,2,56.41,0,112.82,70.32,42.5
+ORD-11983,1/18/2023,Wireless Mouse,Accessories,West,B2B,Karan Mehta,2,35.93,15,61.08,39.47,21.61
+ORD-11984,9/29/2024,Mechanical KB,Accessories,East,B2B,Karan Mehta,1,131.28,5,124.72,85.28,39.44
+ORD-11985,9/10/2023,USB-C Hub,Accessories,West,Reseller,Arjun Sharma,1,76.13,10,68.52,46.59,21.93
+ORD-11986,2/15/2023,Wireless Mouse,Accessories,North,Retail,Arjun Sharma,2,42.89,10,77.2,47.42,29.78
+ORD-11987,2/27/2024,Phone Stand,Accessories,North,Reseller,Ravi Kumar,2,24.4,0,48.8,29.41,19.39
+ORD-11988,6/12/2024,Desk Lamp LED,Office,East,Reseller,Priya Patel,1,73.61,0,73.61,43.82,29.79
+ORD-11989,8/29/2024,USB-C Hub,Accessories,West,Online,Neha Singh,1,95.16,10,85.64,56.23,29.41
+ORD-11990,2/13/2023,Chair Ergonomic,Office,East,Online,Arjun Sharma,1,648.85,0,648.85,384.46,264.39
+ORD-11991,1/5/2024,Mechanical KB,Accessories,West,Retail,Priya Patel,5,95.41,20,381.64,233.71,147.93
+ORD-11992,7/21/2023,Phone Stand,Accessories,Central,B2B,Sunita Rao,1,35.37,5,33.6,19.68,13.92
+ORD-11993,12/21/2024,Desk Lamp LED,Office,North,B2B,Neha Singh,1,39.36,0,39.36,18.66,20.7
+ORD-11994,7/25/2023,Tablet S10,Electronics,East,Reseller,Karan Mehta,2,842.95,0,1685.9,1075.18,610.72
+ORD-11995,6/2/2023,Desk Lamp LED,Office,West,Online,Arjun Sharma,1,76.89,5,73.05,47.37,25.68
+ORD-11996,9/30/2023,Laptop Pro X1,Electronics,Central,Online,Priya Patel,1,1274.4,5,1210.68,657.67,553.01
+ORD-11997,2/21/2023,Wireless Mouse,Accessories,North,Online,Amit Verma,1,41.51,5,39.43,26.27,13.16
+ORD-11998,8/30/2023,Headphones Pro,Electronics,East,Online,Deepa Nair,2,328.99,15,559.28,390.17,169.11
+ORD-11999,11/14/2024,"Monitor 27""",Electronics,Central,Online,Pooja Iyer,5,341.8,0,1709,783.51,925.49
