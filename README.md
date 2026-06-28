@@ -51,7 +51,7 @@ sales_dashboard/
 
 ## ⚙️ Setup & Run
 
-```bash
+bash
 # 1. Clone the repo
 git clone https://github.com/abhishekansu/sales-dashboard.git
 cd sales-dashboard
