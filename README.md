@@ -64,7 +64,6 @@ python generate_data.py
 
 # 4. Launch the dashboard
 streamlit run app.py
-```
 
 The app opens at **http://localhost:8501** 🎉
 
